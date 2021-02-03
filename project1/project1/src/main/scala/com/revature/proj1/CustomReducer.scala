@@ -12,7 +12,7 @@ class CustomReducer extends Reducer[Text, IntWritable, Text, IntWritable] {
         context: Reducer[Text, IntWritable, Text, IntWritable]#Context
     ): Unit = {
         // Only check the articles that were visted more than 20 times
-        val iter = values.iterator()
+        /*val iter = values.iterator()
         var max = 0
         var maxKey : String = ""
         while(iter.hasNext()) {
@@ -22,7 +22,13 @@ class CustomReducer extends Reducer[Text, IntWritable, Text, IntWritable] {
                 maxKey = key.toString
             }
         }
-        context.write(new Text(maxKey), new IntWritable(max))
         
+        context.write(new Text(maxKey), new IntWritable(max))
+        */
+        
+        var count = 0 
+        values.forEach(count += _.get())
+
+        if(count >= 100) context.write(key, new IntWritable(count))
     }
 }

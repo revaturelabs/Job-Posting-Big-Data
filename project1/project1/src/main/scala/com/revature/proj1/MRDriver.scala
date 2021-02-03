@@ -7,9 +7,18 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat
 import org.apache.hadoop.fs.Path
 import org.apache.hadoop.io.IntWritable
 import org.apache.hadoop.io.Text
+import scala.io.Source
 
 object MRDriver {
     def main(args: Array[String]) : Unit = {
+        
+        //mapReduce(args)
+        
+        println(FileUtil.getMaxReceivedCounts("/home/jeffy892/projects/project1/project1/pageviewsv3/part-r-00000"))
+    }
+
+
+    def mapReduce(args: Array[String]) : Unit = {
         if (args.length != 2) {
             println("Usage mr <input dir> <output dir>")
             System.exit(-1)
@@ -27,7 +36,7 @@ object MRDriver {
 
 
         job.setMapperClass(classOf[CustomMapper])
-        job.setCombinerClass(classOf[CustomCombiner])
+        //job.setCombinerClass(classOf[CustomCombiner])
         job.setReducerClass(classOf[CustomReducer])
 
         job.setOutputKeyClass(classOf[Text])
@@ -37,8 +46,19 @@ object MRDriver {
         job.setMapOutputKeyClass(classOf[Text])
         job.setMapOutputValueClass(classOf[IntWritable])
 
+        FileUtil.getMaxReceivedCounts(args(1))
+
         val success = job.waitForCompletion(true) // submit configured job + wait for it to be done
-        System.exit(if (success) 0 else 1) // exit with 0 if successful
+        //System.exit(if (success) 0 else 1) // exit with 0 if successful
+
+        if (success) {
+            FileUtil.getMaxReceivedCounts(args(1))
+            System.exit(0)
+        }
+        else {
+            System.exit(1)
+        }
+
         
     }
 }

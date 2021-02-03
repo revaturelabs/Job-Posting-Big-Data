@@ -35,7 +35,7 @@ class CustomMapper extends Mapper[LongWritable, Text, Text, IntWritable] {
     ): Unit = {
         val record = value.toString().split(" ")
 
-        if(record(0) == "en") {
+        if(record(0) == "en" || record(0) == "en.m") {
             //                  Article Title       count_views
             context.write(new Text(record(1)), new IntWritable(record(2).toInt))
         }
