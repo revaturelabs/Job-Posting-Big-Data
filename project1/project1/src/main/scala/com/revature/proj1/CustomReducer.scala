@@ -28,7 +28,6 @@ class CustomReducer extends Reducer[Text, IntWritable, Text, IntWritable] {
         
         var count = 0 
         values.forEach(count += _.get())
-
-        if(count >= 100) context.write(key, new IntWritable(count))
+        context.write(key, new IntWritable(count))
     }
 }

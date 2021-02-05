@@ -14,7 +14,7 @@ object MRDriver {
         
         //mapReduce(args)
         
-        println(FileUtil.getMaxReceivedCounts("/home/jeffy892/projects/project1/project1/pageviewsv3/part-r-00000"))
+        println(FileUtil.getMaxReceivedCounts("/home/jeffy892/projects/project1/project1/pageviews/part-r-00000"))
     }
 
 
