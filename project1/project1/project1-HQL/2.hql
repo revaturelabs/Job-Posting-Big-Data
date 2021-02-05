@@ -54,7 +54,7 @@ SELECT * FROM pageview_dec;
 -- 2
 SELECT t1.prev, t1.curr, ROUND(t1.link / t2.total) AS fraction FROM 
 	(SELECT prev, curr, SUM(occurences) AS link FROM clickstream_122020 WHERE link_type='link' GROUP BY prev, curr) AS t1
-,NER JOIN
+	INNER JOIN
 	(SELECT article_title, SUM(count_views) AS total FROM pageview_dec GROUP BY article_title) AS t2
 	ON t2.article_title = t1.prev
 ORDER BY fraction DESC;

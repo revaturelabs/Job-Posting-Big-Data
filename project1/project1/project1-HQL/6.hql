@@ -74,23 +74,3 @@ INNER JOIN
 WHERE
 	t1.prev='List_of_games_by_Rockstar_Games'
 ORDER BY fraction DESC;
-
-
--- Ubisoft
-SELECT t1.prev, t1.curr, ROUND(t1.link / t2.total, 2) AS fraction FROM 
-	(SELECT prev, curr, SUM(occurences) AS link FROM clickstream_122020 WHERE link_type='link' GROUP BY prev, curr) AS t1
-INNER JOIN
-	(SELECT article_title, SUM(count_views) AS total FROM pageview_dec GROUP BY article_title) AS t2
-	ON t2.article_title = t1.prev
-WHERE
-	t1.prev='Ubisoft'
-ORDER BY fraction DESC;
-
-SELECT t1.prev, t1.curr, ROUND(t1.link / t2.total, 2) AS fraction FROM 
-	(SELECT prev, curr, SUM(occurences) AS link FROM clickstream_122020 WHERE link_type='link' GROUP BY prev, curr) AS t1
-INNER JOIN
-	(SELECT article_title, SUM(count_views) AS total FROM pageview_dec GROUP BY article_title) AS t2
-	ON t2.article_title = t1.prev
-WHERE
-	t1.prev='List_of_Ubisoft_games'
-ORDER BY fraction DESC;

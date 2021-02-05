@@ -107,5 +107,7 @@ LOAD DATA LOCAL INPATH '/home/jeffy892/pageviews-01252021/pageviews-20210125-180
 -- Gets the average time of vandalized wikipedia articles to be reverted back moderators.
 SELECT event_type, AVG(page_seconds_since_previous_revision) FROM revision_wiki WHERE event_comment LIKE '%vandalism%' AND page_seconds_since_previous_revision > 0 GROUP BY event_type;
 
+-- Divide the results from pageviews_01252021_6pm / pageviews_01252021
 SELECT SUM(count_views) FROM pageviews_01252021_6pm;
 SELECT SUM(count_views) FROM pageviews_01252021;
+

@@ -30,7 +30,12 @@ LOAD DATA LOCAL INPATH '/home/jeffy892/pageviews-01252021/pageviews-20210125-210
 
 
 --SELECT article_title, SUM(count_views) AS total_views FROM pageviews_20210125_americas WHERE domain_code LIKE 'en%' OR domain_code LIKE 'es%' GROUP BY article_title ORDER BY total_views DESC LIMIT 50;
-SELECT article_title, SUM(count_views) AS total_views FROM pageviews_20210125_americas WHERE domain_code LIKE 'en%' GROUP BY article_title ORDER BY total_views DESC LIMIT 50;
+SELECT article_title, SUM(count_views) AS total_views 
+FROM pageviews_20210125_americas 
+WHERE domain_code LIKE 'en%' 
+GROUP BY article_title 
+ORDER BY total_views DESC 
+LIMIT 50;
 
 CREATE TABLE pageviews_20210125_other (
 	domain_code STRING,
@@ -55,6 +60,10 @@ LOAD DATA LOCAL INPATH '/home/jeffy892/pageviews-01252021/pageviews-20210125-150
 
 -- Get the top 50 articles that does not use any english or spanish 
 --SELECT article_title, SUM(count_views) AS total_views FROM pageviews_20210125_other WHERE domain_code NOT LIKE 'en%' AND domain_code NOT LIKE 'es%' GROUP BY article_title ORDER BY total_views DESC LIMIT 50;
-SELECT article_title, SUM(count_views) AS total_views FROM pageviews_20210125_other WHERE domain_code LIKE 'en%' GROUP BY article_title ORDER BY total_views DESC LIMIT 50;
+SELECT article_title, SUM(count_views) AS total_views 
+FROM pageviews_20210125_other 
+WHERE domain_code LIKE 'en%' 
+GROUP BY article_title 
+ORDER BY total_views DESC LIMIT 50;
 
 --DROP TABLE pageviews_01202021;
