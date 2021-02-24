@@ -29,9 +29,13 @@ Q: What are the top three qualifications or certifications requested by employer
 Q: What percentage of Tech Job Listings require experience in a Low Code or No Code solution?
 
 ### 9/ Open Questions : Does gender/age matter for Tech Job seekers?
-Q: As you're working think of some other interesting questions to ask in the same domain.
+
 Q: What are three tech companies recruiting the most female employees?
+
 Q: Are they single, married or mom? 
+
 Q: What are three tech companies recruiting the most employees who bring more than 5-10/>10 years of experiences?
+
 Q: If yes, is there a significant spike in tech job seeker's age in these top 3 companies as mentioned above?
+
 Q: Is there a significant spike in tech job seeker's age in the rest of companies?
