@@ -30,7 +30,7 @@ Q: What are the top three qualifications or certifications requested by employer
 ### 8/ Low Code/No Code [Ref.](https://en.wikipedia.org/wiki/Low-code_development_platform)
 Q: What percentage of Tech Job Listings require experience in a Low Code or No Code solution?
 
-### 9/ Open Questions : Does gender/age matter for Tech Job seekers?
+### 9/ Open Questions : Does gender/age/racial/education-level matter for Tech Job seekers?
 
 Q: What are three tech companies recruiting the most female employees?
 
@@ -41,3 +41,6 @@ Q: What are three tech companies recruiting the most employees who bring more th
 Q: If yes, is there a significant spike in tech job seeker's age in these top 3 companies as mentioned above?
 
 Q: Is there a significant spike in tech job seeker's age in the rest of companies?
+
+Q: What's the percentage  of non-Caucasian employees in the top management? What's the racial for the majority of CEO/co-founder? 
+
