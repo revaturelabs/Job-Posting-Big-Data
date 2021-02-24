@@ -36,7 +36,7 @@ Q: What are three tech companies recruiting the most female employees?
 
 Q: Are they single, married or mom? 
 
-Q: What are three tech companies recruiting the most employees who bring more than 5-10/>10 years of experiences?
+Q: What are three tech companies recruiting the most employees who bring more than 5+/10+ years of experiences?
 
 Q: If yes, is there a significant spike in tech job seeker's age in these top 3 companies as mentioned above?
 
