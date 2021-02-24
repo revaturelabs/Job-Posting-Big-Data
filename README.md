@@ -13,10 +13,12 @@ Q: What percent of tech job posters post no more than three job ads a month?
 
 ### 4/ Job posting Spikes
 Q: Is there a significant spike in tech job postings at the end of business quarters?
+
 Q: If so, which quarter spikes the most?
 
 ### 5/ Tech job posting trend
 Q: Is there a general trend in tech job postings over the past year?
+
 Q: What about the past month?
 
 ### 6/ Entry Level Experience
