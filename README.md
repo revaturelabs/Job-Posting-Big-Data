@@ -23,7 +23,7 @@ Q: What percentage of entry level jobs require previous experience?
 ## Qualifications and Certifications
 Q: What are the top three qualifications or certifications requested by employers?
 
-## Low Code/No Code ![Ref.](https://en.wikipedia.org/wiki/Low-code_development_platform)
+## Low Code/No Code [Ref.](https://en.wikipedia.org/wiki/Low-code_development_platform)
 Q: What percentage of Tech Job Listings require experience in a Low Code or No Code solution?
 
 ## Open Questions : Does gender/age matter for Tech Job seekers?
