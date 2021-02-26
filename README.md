@@ -44,27 +44,31 @@ ________________________________________________________________________________
 If you spark-submit your jar file, and get an error about content length, you'll need to downgrade your java version.
 
 **ON WINDOWS** (Information courtesy of Allie)
-- wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jre_8u265-b01-0ubuntu2~18.04_amd64.deb
-- wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jdk_8u265-b01-0ubuntu2~18.04_amd64.deb
-- wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jdk-headless_8u265-b01-0ubuntu2~18.04_amd64.deb
-- wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jre-headless_8u265-b01-0ubuntu2~18.04_amd64.deb
-- sudo dpkg -i openjdk-8-jre-headless_8u265-b01-0ubuntu2~18.04_amd64.deb
-- sudo dpkg -i openjdk-8-jdk-headless_8u265-b01-0ubuntu2~18.04_amd64.deb
-- sudo dpkg -i openjdk-8-jre_8u265-b01-0ubuntu2~18.04_amd64.deb
-- sudo dpkg -i openjdk-8-jdk_8u265-b01-0ubuntu2~18.04_amd64.deb
-
+```
+wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jre_8u265-b01-0ubuntu2~18.04_amd64.deb
+wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jdk_8u265-b01-0ubuntu2~18.04_amd64.deb
+wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jdk-headless_8u265-b01-0ubuntu2~18.04_amd64.deb
+wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jre-headless_8u265-b01-0ubuntu2~18.04_amd64.deb
+sudo dpkg -i openjdk-8-jre-headless_8u265-b01-0ubuntu2~18.04_amd64.deb
+sudo dpkg -i openjdk-8-jdk-headless_8u265-b01-0ubuntu2~18.04_amd64.deb
+sudo dpkg -i openjdk-8-jre_8u265-b01-0ubuntu2~18.04_amd64.deb
+sudo dpkg -i openjdk-8-jdk_8u265-b01-0ubuntu2~18.04_amd64.deb
+```
 Source Link - https://github.com/delta-io/delta/issues/544
 
 **ON MAC** (Information couresy of Christian)
-- https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u265-b01/OpenJDK8U-jdk_x64_mac_hotspot_8u265b01.pkg
-- https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u265-b01/OpenJDK8U-jre_x64_mac_hotspot_8u265b01.pkg
-
+```
+https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u265-b01/OpenJDK8U-jdk_x64_mac_hotspot_8u265b01.pkg
+https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u265-b01/OpenJDK8U-jre_x64_mac_hotspot_8u265b01.pkg
+```
 _______________________________________________________________________________________________________________________________
 ### Build.sbt Errors
 You might have some issues in your build.sbt, changing these library dependencies should help:
+```
 libraryDependencies += "org.apache.hadoop" % "hadoop-common" % "2.7.7",
 libraryDependencies += "org.apache.hadoop" % "hadoop-client" % "2.7.7",
 libraryDependencies += "org.apache.hadoop" % "hadoop-aws" % "2.7.7"
+```
 
 _______________________________________________________________________________________________________________________________
 ### Links to other relevant information/GitHubs
