@@ -3,6 +3,9 @@
 ## Common Crawl Data:
 [click me](https://index.commoncrawl.org/)
 
+## Tools:
+[cdx-toolkit](https://github.com/cocrawler/cdx_toolkit)
+
 ## Questions:
 
 ### 1/ Tech ads proportional to population (selected)
