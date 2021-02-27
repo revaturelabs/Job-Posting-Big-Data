@@ -3,6 +3,10 @@
 ## Common Crawl Data:
 [click me](https://index.commoncrawl.org/)
 
+[ccmain example](http://commoncrawl.org/the-data/examples/)
+
+[ccmain index](https://commoncrawl.org/2018/03/index-to-warc-files-and-urls-in-columnar-format/)
+
 [search 2021.01](https://index.commoncrawl.org/CC-MAIN-2021-04)
 
 ## Tools:
