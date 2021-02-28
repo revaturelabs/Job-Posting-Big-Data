@@ -1,0 +1,119 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Sandbox (W17) 
+ Sandbox is a universal adapter that enables banks to quickly connect new fintech software with existing systems. 
+ Project Manager (Remote) 
+ $60k - $80k • 0.25% - 0.75% 
+ Location 
+ Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Sandbox 
+ Sandbox Banking is building a universal adapter for banks. Sandbox helps institutions quickly and securely integrate new software from vendors and fintech startups. 
+ About the role 
+ Sandbox Banking is looking for an exceptional project manager who wants to reshape how innovative software is integrated in the financial services industry. We have rapidly growing revenue, are backed by Y Combinator (W17), and have raised seed capital. We are a remote team with employees across the continental US. 
+ Sandbox is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. 
+ Product 
+ Sandbox is a universal adapter for banks and credit unions. It provides financial institutions (FIs) a better way to integrate fintech software with their existing systems. 
+ US regional/community banks and credit unions are looking to overhaul the digital experiences they deliver to customers. Increasingly, they solve this challenge by sourcing software from fintech companies that specialize in building and operating financial services software. Unfortunately, distributing new software to FIs has historically been a long and painful process because of data security and system integration hurdles. 
+ Sandbox empowers FIs and fintech vendors to quickly and safely build new integrations — our Glyue application lets anyone who can use Excel formulas connect banking systems. Furthermore, the platform's fine-grained authentication and permissions model provides FIs with strict control over which people/software can access particular banking data and operations. 
+ FIs and fintechs love the platform. FIs are able to quickly and cost-effectively leverage cutting-edge solutions without compromising on integration; fintechs don't need to spend time and money on activities outside of core product development and distribution. 
+ Why Work at Sandbox? 
+ 
+ Small team — your impact will be meaningful 
+ Teammates who are smart, curious, and driven to succeed. You will always be learning. 
+ Ownership of problems from start to finish 
+ Significant customer interaction 
+ Your ideas and opinions about the product will matter. Everyone in our company contributes to our product roadmap. 
+ You'll use a variety of technologies across our entire software stack 
+ Remote-first organization that provides geographic flexibility (although all employees must live in the US) 
+ Salary and stock option compensation 
+ Your work will transform an entire industry 
+ 
+ Responsibilities 
+ Our project manager will need to handle a variety of tasks required to deliver a successful implementation of Sandbox that powers the integration between a fintech’s software and a FI’s systems. These will include: 
+ 
+ Gathering and maintaining requirements from financial institutions specific to a project 
+ Gathering and maintaining requirements from fintechs specific to a project 
+ Building and maintaining a detailed project plan 
+ Organizing and running meetings with stake-holders from the financial institution, fintech and Sandbox 
+ Using our Glyue integration platform to help build and deliver integrations 
+ Working closely with Sandbox implementation analysts who configure Sandbox for the specific project 
+ Working closely with Sandbox network admins to ensure all appropriate network connectivity is established 
+ Working closely with Sandbox developers to ensure any changes to Glyue for a specific project are made in a timely manner 
+ Working closely with the Sandbox sales team to ensure the Statements of Work are accurate and feasible 
+ Providing feedback about Glyue so it can be improved for internal and external users 
+ Helping write high quality documentation for both customer and internal use 
+ Identifying and vocalizing problems as they arise 
+ Helping solve a multitude of early-stage startup challenges 
+ Behaving in a manner aligned with our high ethical standards 
+ 
+ Qualifications 
+ Our project managers are context switching ninjas. They are able to dive into the details of a specific integration while also thinking about the overall project time-line. They are able to manage customer expectations while holding internal and external stakeholders accountable for tasks required per a project plan. They are multi-taskers extraordinaire and need to manage multiple projects at once. A few things we require: 
+ 
+ Financial services experience – retail or commercial banking experience is a plus 
+ Experience managing the delivery of complex software projects 
+ Strong verbal and written communication skills in English 
+ Strong deductive and inductive reasoning abilities 
+ Highly organized and capable of tracking current status, blockers, and next steps across multiple projects 
+ Willingness to live and work in the US 
+ 
+ There are additional requirements related to logistics and behavior: 
+ 
+ Ability to work from our office in New York (Brooklyn) for at least two weeks at start of employment. Sandbox will cover travel expenses for the employee during this period. Please note this requirement assumes that Coronavirus is no longer a significant risk; otherwise, no such travel will be suggested. 
+ Ability to travel for 1 week every quarter to an all-hands onsite with the rest of the team. Again, this requirement assumes that Coronavirus is no longer a significant risk. 
+ Legal authorization to work for Sandbox Banking. We are unable to sponsor work visas at this time. 
+ Willingness and ability to proactively and patiently collaborate with our customers and fintech partners. To succeed, this individual will need to constantly discuss/record/broadcast business processes and requirements. There are times when acquiring a single piece of critical information requires two or three conversations with different project stakeholders; this project manager must be unrelenting in such scenarios. 
+ Fanatical passion for delivering the best possible experience to all stakeholders 
+ Willingness to re-prioritize work as project requirements change 
+ Ability and willingness to throw time at a problem. Our project managers are expected to be available during customer business hours but often need additional hours with our remote US-based team to solve problems 
+ Obsession with organization, documentation, testing, and other aspects of software delivery that empower teams to maintain high productivity over time 
+ Team-first attitude coupled with an unrelenting desire to win 
+ 
+ Experience in the following areas will be considered a bonus: 
+ 
+ Early-stage startups 
+ Remote work 
+ Software integration project management 
+ Consulting 
+ SaaS products 
+ Information security and regulatory compliance 
+ Salesforce, Fiserv, FIS or Jack Henry core banking systems 
+ Python, AWS 
+ 
+ Compensation 
+ Salary will be competitive for our stage of company, and the role includes a stock option package that provides upside. It’s important to us that our early employees win if the company succeeds. 
+ Next Steps 
+ Apply via YC or email resumes, CVs, and other relevant materials to  [email protected]  along with a brief description of why you’re interested in the role. 
+ Technology 
+ Our stack is comprised of Python, Django, Postgres, an assortment of AWS services, and a sprinkle of Vue.js. 
+ Other jobs at Sandbox 
+ Software Engineer (Remote) 
+ fulltime 
+ Remote 
+ Full Stack 
+ $60k - $75k 
+ 0.25% - 0.50% 
+ Any (new grads ok) 
+ Project Manager (Remote) 
+ fulltime 
+ Remote 
+ $60k - $80k 
+ 0.25% - 0.75% 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

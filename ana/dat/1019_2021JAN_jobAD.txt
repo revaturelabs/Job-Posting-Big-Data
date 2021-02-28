@@ -1,0 +1,225 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ RF Engineer 
+ Brookhaven National Laboratory 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ RF Engineer 
+ Brookhaven National Laboratory 
+ [](mailto:?subject=RF%20Engineer&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14145520/rf-engineer/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ November 26, 2020 
+ Location: 
+ Upton, New York 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full-time 
+ Why Work at BNL? 
+Brookhaven National Laboratory (www.bnl.gov) delivers discovery science and transformative technology to power and secure the nation's future. Brookhaven Lab is a multidisciplinary laboratory with seven Nobel Prize-winning discoveries, 37 R&D; 100 Awards, and more than 70 years of pioneering research. The Lab is primarily supported by the U.S. Department of Energy's (DOE) Office of Science. Brookhaven Science Associates (BSA) operates and manages the Laboratory for DOE. BSA is a partnership between Battelle and The Research Foundation for the State University of New York on behalf of Stony Brook University. 
+ Organizational Overview 
+ Brookhaven National Laboratory is entering an exciting new chapter with one of the newest and most advanced synchrotron facilities in the world. National Synchrotron Light Source II (NSLS-II) enables the study of material properties and functions with nanoscale resolution and exquisite sensitivity by providing world-leading capabilities for X-ray imaging and high-resolution energy analysis. 
+ This facility is open to users from academia and industry and its operations are at a time when the world enters a new era with a global economy fueled largely by scientific discoveries and technological innovations. NSLS-II provides the research tools needed to foster new discoveries and create breakthroughs in critical areas such as energy security, environment, and human health. 
+ Position Description 
+ The National Synchrotron Light Source II (NSLS-II) has an opening for an RF engineer to design, develop, integrate, commission and support the operation of the RF systems. The position involves responsibilities for new and existing RF systems including high-power solid-state amplifiers, superconducting RF cavities, vacuum tube amplifiers and their associated high voltage power supplies and low-level rf development and implementation to meet the needs of NSLS-II operations. Work as a contributing and productive member of a team of engineers and assist in the direction of technicians during all phases of component selection, prototyping, construction, commissioning, equipment operation and troubleshooting. 
+ Key Responsibilities: 
+ 
+ Operate and develop all aspects of the RF systems including high power and low-level rf. 
+ Procure and/or develop hardware and firmware/software for the ever-evolving accelerator needs. 
+ Support operations, troubleshooting and repairs of RF systems including off-hour issues. 
+ Generate wiring and schematic diagrams. 
+ Maintain sound knowledge of current principles and practices in a specialized engineering field. 
+ 
+ Position Requirements 
+ 
+ 
+ Bachelor's degree in electrical engineering or physics. 
+ 
+ 
+ Minimum three (3) years progressively responsible related work experience. 
+ 
+ 
+ Excellent written and verbal communication skills. 
+ 
+ 
+ Effective interpersonal skills with the ability to interact with a diverse group of technical staff 
+ 
+ 
+ Available for off-hour call-ins for emergency machine repairs, etc. (typically <2.5%). 
+ 
+ 
+ Knowledge or experience in a few or more of the following: 
+ 
+ Analog and digital electronic circuits. 
+ Electromagnetics, microwaves, and radio frequency. 
+ Circuits design. 
+ Electronics test equipment, scopes, spectrum analyzers and network analyzers. 
+ Use of CAD design tools for electronic circuit simulation and design. 
+ 
+ 
+ 
+ Preferred Knowledge, Skills, & Abilities: (Experience in at least one of the following:) 
+ 
+ MS degree in electrical engineering or physics 
+ RF/microwave, analog circuit design and digital signal processing. 
+ HFSS, Verilog, MATLAB, EPICS and/or PLC programming. 
+ High voltage design and application (>10kV). 
+ Experience with feedback control algorithms 
+ 
+ Other information: Candidate will be placed at appropriate level contingent upon depth and breadth of experience. 
+ At Brookhaven National Laboratory we believe that a comprehensive employee benefits program is an important and meaningful part of the compensation employees receive. Our benefits program includes, but is not limited to: 
+ 
+ Medical, Dental, and Vision Care Plans 
+ Flexible Spending Accounts 
+ Paid Time-off and Leave Programs (vacation, holidays, sick leave, paid parental leave) 
+ Lab-funded Retirement Plan 
+ 401(k) Plan 
+ Flexible Work Arrangements 
+ Tuition Assistance, Training and Professional Development Programs 
+ Employee Fitness/Wellness & Recreation: Gym/Basketball Courts, Weight Room, Fitness Classes, Indoor Pool, Tennis Courts, Sports Clubs/Activities (Basketball, Ping Pong, Softball, Tennis) 
+ 
+ Brookhaven National Laboratory and the Energy and Photon Sciences Directorate are committed to your success. We offer a supportive work environment and the resources necessary for you to succeed. 
+ Brookhaven National Laboratory (BNL) is an equal opportunity employer committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability or any other federal, state or local protected class. 
+ BNL takes affirmative action in support of its policy and to advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. 
+ Brookhaven National Laboratory (BNL) is an equal opportunity employer that values inclusion and diversity at our Lab. We are committed to ensuring that all qualified applicants receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, status as a veteran, disability or any other federal, state or local protected class. 
+ BNL takes affirmative action in support of its policy and to advance in employment individuals who are minorities, women, protected veterans, and individuals with disabilities. We ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation. 
+ *VEVRAA Federal Contractor 
+ 
+ 
+ Internal Number: 2451 
+  __  Create a Job Alert for Similar Jobs  
+ About Brookhaven National Laboratory 
+ Brookhaven National Laboratory is a multipurpose research institution funded primarily by the U.S. Department of Energy’s Office of Science. Located on the center of Long Island, New York, Brookhaven Lab brings world-class facilities and expertise to the most exciting and important questions in basic and applied science—from the birth of our universe to the sustainable energy technology of tomorrow. We operate cutting-edge large-scale facilities for studies in physics, chemistry, biology, medicine, applied science, and a wide range of advanced technologies. The Laboratory's almost 3,000 scientists, engineers, and support staff are joined each year by more than 4,000 visiting researchers from around the world. Our award-winning history, including seven Nobel Prizes, stretches back to 1947, and we continue to unravel mysteries from the nanoscale to the cosmic scale, and everything in between. Brookhaven is operated and managed by Brookhaven Science Associates, which was founded by the Research Foundation for the State University of New York on behalf of Stony Brook University, and Battelle, a nonprofit applied science and technology organization. 
+ Connections working at Brookhaven National Laboratory 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Radio Frequency Design Summer 2021 Internship 
+ __ 
+ 
+ 
+ 
+ 
+ Verizon 
+ __2 Days Ago 
+ 
+ 
+ Electrical/Electronic Designer/Drafter 
+ __  Ann Arbor, Michigan 
+ 
+ 
+ University of Michigan - Ann Arbor 
+ __2 Days Ago 
+ 
+ 
+ Embedded Software Engineer (Jr.-Mid.) 
+ __  Pittsburgh, Pennsylvania 
+ 
+ 
+ IQ Inc. 
+ __3 Days Ago 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

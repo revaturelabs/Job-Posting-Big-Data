@@ -1,0 +1,236 @@
+ITauditSecurity 
+ Skip to content 
+ 
+ Home 
+ About 
+ Links 
+ SiteMap 
+ Twitter 
+ Hidden 
+ Copyright 
+ 
+   
+ <- Will Robotics (RPA) Replace ACL? 
+ New IT Auditor (and WannaBEs) Master List -> 
+ by  ITauditSecurity  | May 23, 2017 * 11:00 am 
+ ↓ Jump to Comments 
+ Use LinkedIn to get an IT Audit job 
+ If you're looking for an  IT Audit  job, here's how to use  LinkedIn  to get noticed. 
+ In a nutshell, you need to enhance your LinkedIn profile so that everyone knows you're working hard at learning IT auditor skills. 
+ If you're already working as an IT auditor, use these suggestions to get noticed more and move ahead (or into another company with more opportunities). 
+ The idea behind these suggestions is to ensure that your profile gets noticed by recruiters looking for IT auditors. That requires you to have certain key terms in your profile. 
+ 
+ If you are new to IT audit or want to break into that field, make sure you also check out my related posts at the end of this article. 
+ 
+ Warnings 
+ A)  Everything you add to your profile, especially based on this article, MUST BE TRUE. 
+ Don 't say that you're doing things if you're not. If you lie on LinkedIn or your resume, you're obviously not cut out to be an auditor. Become a fisherman instead; integrity is critical to internal audit. 
+ B)  And if you're employed in any position, think about whether you can afford to note on your LinkedIn profile that you're looking for another job. 
+ Good managers care about their people and will help them move to a different position, inside or outside the current company. Hopefully you can discuss your goals with your manager, and your manager will support you. If not, be careful. 
+ Strengthen Your Profile 
+ My suggestions, in order of importance… 
+ 
+ Change your current LinkedIn profile title from “x” to “x/IT Auditor”. For example, if your current profile title is  Information Security Analyst  , change it to  Information Security Analyst/IT Auditor.  This works best if you're in a job related to IT or audit, like Compliance, Privacy, Security, Help Desk, Networking, Disaster Recovery, Programming, Risk Management, etc. 
+ 
+ After the bullets that describe your current job, add a bullet that says something like: “Building IT Auditor skills”. 
+ 
+ If you're not sure which skills you need, see suggestions 6) and 7) below), as well as my posts  What IT Auditors Ought to Know – and Don’t ,  IIA Basics for Auditors ,  Audit and IT Audit for Dummies . 
+ 
+ Then under that "Building IT Auditor skills" bullet, add sub-bullets like: 
+ -Studying for CISA. Expect to pass exam by (provide a month/year). 
+ This does 2 things: makes sure your profile pops up for people searching for 'CISA', and gives you a public deadline to aim for. Make it at least 6 months out unless you are highly motivated.  Click here for more of my posts about CISA. 
+ Even though you haven't passed the CISA yet, you'll have the edge of the next gal who doesn't indicate that she is working on the certification. 
+ -Studying Active Directory, virtualization, cloud security, and ISO 27001 (or whatever subjects you are studying/researching/playing with-these are just examples, not targets every auditor needs to aim for). 
+ -Learning  Excel PowerPivot , Excel Power Query,  ACL , and Power BI (you are working on learning the tools auditors and data analysts use, aren't you?). 
+ -Joined ISACA in 2016, and attend monthly meetings (or whatever; you get the idea). 
+ 
+ It is critical to get  IT Auditor  in your title and get  CISA  on your profile, even if you're only studying! 
+ 
+ Current Job Not Related to IT or Audit? 
+ Now if your current job isn't even related to IT audit (you're a sales clerk, customer service representative, or a plumber), you don't want to add  IT Auditor  to your title. If that's the case, I'd suggest adding another position (under LinkedIn's  Experience  area) called "Looking to move into IT audit", and configure it as "I currently work here" as you can have multiple 'jobs' that are active. 
+ Then follow the rest of the advice above and explain in bullet points how you are working toward becoming an IT auditor. 
+ Certifications and Buzzwords 
+ 
+ 
+ If you have a certification or training that pertains to IT, security, audit, project management, etc., explain how you used that in your job. For example, what projects did you apply your Lean Six Sigma skills? What were the results? “Reduced errors by 30%”, etc. 
+ 
+ 
+ Likewise, get other IT Audit buzzwords in your profile by giving examples of things you did. If you ever reviewed who had access to a system or folder, list that. If you developed a policy, name a couple of them. What standards and best practices? What exceptions? How did you ensure compliance? 
+ 
+ 
+ Get those buzzwords in your profile by answering those kind of questions, but keep it short and sweet as possible. Sometimes you can’t do that, but that’s OK here and there. 
+ Fix Typos and Acronyms 
+ 
+ 
+ Fix typos. Have 2 other people read through your profile for errors, then fix them. 
+ 
+ 
+ Don't use acronyms that are not common to IT or audit unless you explain them. It's always better to write them out, and then put them in parentheses afterwards. You need both because some recruiters search for one or the other. 
+ 
+ 
+ Search for Skills, Interact with Others 
+ 
+ Search for people in internal audit and risk management in your target companies to see what skills they are looking for; notice what common skills in each person in that company in those positions, and that’s what the company values. Focus on those skills and configure LinkedIn to 'follow' those companies. 
+ 
+ Also, note what LinkedIn groups those people are in and join a couple of them. 
+ 
+ Start talking to others in the LinkedIn groups you belong to by posting comments on articles and questions posted by the group. Try contacting a few key people from the group. They are more likely to respond if they have seen your name in comments AND if you have a decent, interesting profile. 
+ 
+ Get Recommended 
+ 
+ Get more LinkedIn recommendations from people who know you and/or your work. 
+ 
+ The easiest way is to ask someone for a recommendation, and tell them you will draft something for them that they can use as they see fit. This sounds unethical, but if you are brutally honest in your draft, all you have done is lead the horse to water. You've helped someone tell the truth about you. 
+ (By the way, I also do this for people that serve as a reference for me when I'm looking for a new job. Then they don’t have to think, and you know what they will tell interviewers. No one has ever complained when I’ve done either of these. In fact, they love it as you have done their work for them). 
+ Shoot for 1 recommendation per job listed, and more is better, even if when that job doesn't relate to IT audit. Several recommendations show that you excel everywhere you work. 
+ Let me know how you've implemented these suggestions, the outcome, and any questions or other ideas you have… 
+ Other posts for your consideration 
+ New IT Auditors Should Start Here  (list of good IT audit posts on this blog) 
+ How to get an IT Audit job with little or no experience 
+ Share this: 
+ 
+ Click to print (Opens in new window) 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to email this to a friend (Opens in new window) 
+ Click to share on Tumblr (Opens in new window) 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on Pinterest (Opens in new window) 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ 4 Comments 
+ Filed under  Audit ,  Certification ,  Employment ,  How to... ,  Technology 
+ Tagged as  acronymn ,  buzzword ,  certification ,  cisa ,  Employment ,  experience ,  group ,  it audit ,  job ,  LinkedI ,  new ,  profile ,  recommendation ,  recruiter ,  reference ,  search ,  typo 
+ <- Will Robotics (RPA) Replace ACL? 
+ New IT Auditor (and WannaBEs) Master List -> 
+ 4 responses to "  Use LinkedIn to get an IT Audit  job " 
+ 
+ Michael E 
+ 
+  May 23, 2017 at 11:45 am 
+ Thanks Mac! I've implemented majority of what you mentioned in your post. A few recruiters have contacted me and inquired about my CISA studies and completion date, ISO 27001 and my efforts to remain current with IT Auditing news and technology. There are some things I need to go back and edit in my profile. 
+ Awesome advice as always. Please continue to provide insight into IT Auditing, it is greatly appreciated. 
+ Like Like 
+ Reply 
+ * [ITauditSecurity](https://itauditsecurity.wordpress.com/)
+ 
+  May 23, 2017 at 8:29 pm 
+ Michael, glad I was able to help. Wish you the best. Let me know when you land that job…. 
+ Like Like 
+ Reply 
+ 
+ 
+ Pingback:  Use LinkedIn to get an IT Audit job - Cyber Security 
+ 
+ 
+ Pingback:  New IT Auditor (and WannaBEs) Master List | ITauditSecurity 
+ 
+ 
+ Leave a Reply to ITauditSecurity  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ 
+ 
+ Search for: 
+ 
+ 
+ Subscribe via email 
+ 
+ 
+ Enter your email address to to be notified of new posts by email. 
+ Join 1,278 other followers 
+ Email Address: 
+ Sign me up! 
+ 
+ 
+ Quick Links 
+ 
+ 
+ New IT Auditors Start Here 
+ CISA 
+ ACL Tips 
+ Blogging Tips 
+ Excel: Basic Data Analytics 
+ Ask a Question 
+ Reader Poll: Who R U? 
+ 
+ 
+ Recent Posts 
+ 
+ Critical Thinking? How about just Thinking? 
+ Quote of the Weak - Auditor Judgment 
+ Create a Help Desk for Data 
+ Some Periodic Reviews Provide Little Assurance 
+ Blogging about Internal Audit (10 tips) 
+ Mack-the-Auditor Gets Audited! Part 3 
+ Mack-the-Auditor Gets Audited! Part 2 
+ Mack-the-Auditor Gets Audited! Part 1 
+ Why this pic on this blog? 
+ Don't Miss all the Free Advice & Info 
+ 
+ 
+ 
+ Top 7 Posts 
+ 
+ How to get an IT Audit job with little or no experience 
+ Free Downloads 
+ FREE CISA Study Guide 
+ Is ACL Analytics Dying? 
+ FREE CISA Exam Practice Questions 
+ Teach Yourself ACL 
+ ACL Error: Cannot Export to Excel 
+ 
+ 
+ 
+ Categories 
+ 
+ 
+ Categories Select Category ACL  (57) Audit  (221) Blogging  (19) Case Files  (26) Certification  (18) Data Analytics  (84) Employment  (30) Excel  (27) fraud  (6) Free  (37) Free Download  (5) How to…  (100) Humor/Irony  (45) Poll  (3) Quote of the Weak  (18) Scripting (ACL)  (26) Security  (175) Security Scope  (4) Security Scout  (33) Technology  (103) Top 10  (19) Uncategorized  (2) Written by Skyyler  (55) 
+ 
+ 
+ Links 
+ 
+ * Follow ME on Twitter * 
+ Hidden 
+ IT/Audit/Security Resources 
+ 
+ 
+ 
+ Blogroll 
+ 
+ Audit Monkey (not real active)  The life and times of an Internal Auditor 
+ risk3sixty  IT audit blog 
+ SANS Handler's Diary  Daily security pulse 
+ Security Monkey (not active, but still good content)  Great security blog 
+ 
+ 
+ 
+ ITauditSecurity  * IT audit/security HOW-TOs, analysis, & humor 
+ Website Powered by WordPress.com . 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 
