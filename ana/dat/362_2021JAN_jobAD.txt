@@ -1,0 +1,96 @@
+Menu 
+ James Goerke 
+ 
+ Skip to content 
+ 
+ Home 
+ Engagements 
+ Rucksack 
+ Resume 
+ 
+ 
+     James Goerke  12:00 pm  on  April 15, 2016 
+ Jump-Start a Salesforce Career - Get Some Experience - Part 1 of 5 #ForceFriday 
+ I recently read a post/rant on the Salesforce Community from a frustrated job seeker who was looking for a career change and had chosen to pursue Salesforce. That got me thinking about my own Salesforce career and how that got started. My story is the exception to the rule because I was hired on at Salesforce without any Salesforce experience. The one thing I had going for me was I had a connection with a current employee that worked at Salesforce and recommended me. I'll talk more about having personal connections in the Salesforce world in a future post. 
+ I wanted to put together some detailed posts for those who are looking to transition their careers to Salesforce or are just starting out in the Salesforce world. 
+ My first Pro Tip: Get some experience! 
+ That's a catch 22 since you need to be hired somewhere to get experience but you need experience to get hired! False! 
+ There are several ways to get some Salesforce experience without getting hired somewhere. Here are just a few: 
+ 
+ Volunteer your Time:
+ 
+ http://www.salesforce.org/volunteers/probono/ 
+ https://www.taprootplus.org/nonprofits 
+ https://www.catchafire.org/ 
+ https://linkedinforgood.linkedin.com/ 
+ https://www.taprootfoundation.org/about-probono/global-pro-bono 
+ http://thecommunitycorps.org/ 
+ 
+ 
+ Freelance your time
+ 
+ http://www.guru.com/d/freelancers/q/salesforce/ 
+ https://www.freelancer.com/work/salesforce-projects/1/ 
+ https://www.upwork.com/ 
+ 
+ 
+ Identify Companies you WANT to work for and volunteer your time… Give them a Trial of "You" 
+ 
+ Volunteering your time gives you the ability to do some good in the world as most of the companies looking for volunteers are Non-Profits. This also has the added benefit of getting you some referenceable experience that you can speak to in an interview. There is no replacement for real-world project experience. None. Forget Trailhead, certifications, training courses, online tutorials, community involvement, etc. - (Note: Those are important) - None of those compare to having actual experience in the market place. 
+ Freelance marketplaces provide you with a way to get real world experience on small and short term projects. But these are the perfect type of project for someone just starting out because they teach you engagement skills, sales and customer acquisition skills, scoping, project delivery, and how to deliver customer success. These have the added benefit of also giving you referenceable projects that you can put on your resume. Who knows, it might even turn into a full time consulting gig! 
+ Identify companies you want to work for and volunteer your services Pro Bono as a trial/internship. Be honest and upfront about your experience level and intentions. I have the utmost respect for someone that could say: 
+ "I want to work for you as an X. I don't currently meet the requirements but I'm fixing that. I'm willing to work for you pro-bono to prove I've got what it takes." 
+ This might not be a popular option or even an option at all due to individual circumstances. But if you can do it its certainly an option that differentiates you from all of the other resumes that hit hiring managers every day. 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ Post navigation 
+ <- Adding to the Backpack - Activity Closed Within the Same Week 
+ Jump-Start a Salesforce Career – Network, Network, Network! – Part 2 of 5 #ForceFriday -> 
+ Intellectual Curiosities 
+ 
+ #ForceFriday 
+ Admin Tricks 
+ Backpack 
+ Formula Fun 
+ Frameworks 
+ Mentoring 
+ Salesforce Career 
+ Sandbox 
+ SFDC Checklists 
+ Uncategorized 
+ 
+ The Socials 
+ 
+ View jamesgoerke's profile on Twitter 
+ View jamesgoerke's profile on LinkedIn 
+ 
+ Search The Site! 
+ Search 
+ Website Built with WordPress.com . 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ %d bloggers like this: 
+ *[12:00 pm  on  April 15, 2016]: 2016-04-15T12:00:28Z 

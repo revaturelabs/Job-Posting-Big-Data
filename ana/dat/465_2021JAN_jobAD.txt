@@ -1,0 +1,383 @@
+The SQL Pro 
+ (Ayman El-Ghazali - www.thesqlpro.com) 
+ 
+ Home 
+ 
+ Database Administration 
+ Database Development 
+ SQL Server BI 
+ 
+ 
+ Presentations 
+ 
+ Code &Slides for Presentations 
+ 
+ 
+ Videos 
+ 
+ SQL Server 2016: A Comprehensive Introduction – Arabic 
+ SQL Snacks! 
+ Arabic SQL Server Videos – تعليم باللغة العربية 
+ Arabic SQL Server BI Videos – تعليم باللغة العربية 
+ 
+ 
+ SQL Snacks! 
+ SQL Server FCI Virtual Lab 
+ 
+ SQL Server Virtual Lab Section 1 
+ SQL Server Virtual Lab Section 2 
+ SQL Server Virtual Lab Section 3 
+ 
+ 
+ SQL Server Installation Guide 
+ About 
+ 
+ RSS 
+ <- SQL Saturday 294 Philadelphia Lessons Learned 
+ Dear IT Guy, Why do you hesitate to attend my meetings? -> 
+ The Good the Bad and the Ugly of my extended job search 
+ 25 Aug 
+ Now that I've finally started a new job (explains why I haven't blogged for a while) I can discuss my interview experience over the last two years starting in the Summer of 2012. I have left out the company names out purposely because this is not a post to damage any reputations or for me to express my bitterness in. Rather, this post is to help future job seekers in getting a great position and not falling into a job that they could potentially hate. Also, it is noteworthy to mention that during my own interviewing journey I was also a hiring manager doing interviews to fill a position that reported directly to me. So I will be giving my advice based on both the perspective of a job seeker and hiring manager. The stories are roughly divided up by paragraph and I've provided a small summary of points below the stories in case you just want to skip ahead to the advice and not bother with my stories. I won't be hurt or upset I promise 🙂 
+ The Good 
+ First let's talk about the good experiences I have had, for which there were many! 
+ The first thing about a good company is they treat you with respect. They respond to your emails in a timely fashion, and if not, they will apologize for the delay. In short, they respect you and they respect your time. Companies that constantly blow off scheduled interviews reflect a lack of order and respect for your time and skills. I have had a few of those, but I'll wait until the "bad" section to discuss those interviews. There were a few places that I interviewed that really stood out, and I would love to give a shout out to them in no particular order. 
+ I had the distinguished pleasure of interviewing with small "boutique" consulting firm in the database space. First let me get one thing straight, they are a fantastic group. I almost didn't apply for the position and when my wife asked me why I didn't I simply said "Ummm… are you kidding??? They will have applicants that are way more qualified than me!" That was my first mistake, not even trying, but I ended up submitting at the last minute and it was worth it. Although I did not reach the technical screening, I spent a wonderful hour getting to know the team. I have followed their blog for years and benefited from them greatly so it was a joyous moment for me to be able to talk with them and share my work/experience. 
+ Next up, a non-Profit in Arlington, VA. It took around five to six months to go from application to offer, and for the most part this was because I was constantly getting sick during the process and they were very patient with me. After several rounds of interviews I went onsite for a face-to-face. The team was super, the manager was great! In fact, I asked him about his management style and his own team spoke volumes of him. He was very personable as was the rest of the team. And then came the offer, which was below what I was willing to accept to change jobs. I thought about it, but the hiring manager told me I was worth what I was asking for in terms of salary. It was one of the nicest things I had ever heard my entire career. It was a very hard decision for me to turn down the offer but the thing is you have to weigh what you are sacrificing. For me, it was not enough to get me to switch jobs because I would have been constantly thinking about higher compensation. 
+ Another company that I had a good experience with was a manufacturing company in the Columbia, MD area. Again, a very respectful group of people. They took an interest in me personally as well as professionally. One of the interviewers had gone to my blog and talked to me about my experience living in Egypt since his wife was from the Middle East and is an Arabic speaker. It is strange sometimes to get personal questions during an interview, but I was comfortable enough with these interviewers that I knew they were asking out of genuine curiosity. During the time I interviewed, I was treated with the out most respect and given a tour of the work environment which I really enjoy since it gives me a feel of what it would be like to work there. At the end, things didn't pan out and I noticed the job description had changed to reflect a need for someone with less experience. 
+ One consulting company I went back and forth with for a couple of months eventually came around and was able to meet my salary requirements. They were all very nice to me and gave a good mental workout with the technical phone screen. After that, I went onsite to the client and onsite with the consulting company. Everyone was good, everyone was nice. I felt the team was going to challenge me and I felt like I was going to learn more taking this position. Everything was going great until the offer came about. The details of the benefits going in were not made that clear and there was no room to negotiate PTO (paid time off). I was really disappointed and I don't think that they thought I would turn down the offer but I did. It was a disappointing end, but on the positive side we all left on great terms. 
+ Edit: added 8/26/2014 since I forgot this amazing experience 
+ One of my favorite interviewing experience was done remotely with a fantastic consulting company. It started off with an initial interest on my end which was followed up with an "entrance exam" to the remainder of the interview process. The exam was really difficult and took me about 2 weeks (off and on) to complete. I loved it though, it really gave me a great mental exercise. After doing well on this long written exam, I was invited to do a video conference interview with two SQL DBAs in different countries. They really got into it with me on the details of many technical aspects but at the same time we were joking and talking about soccer and the upcoming World Cup. In fact, the interview was at the beginning of 2014 and I'm still in constant contact with the two interviewers. One of the best things you can get out of an interview is a good professional friendship and I'm really grateful for that. The video conference interview went really well but there really wasn't an open position. The way the company works is they interview people first an put them in a talent pool and as they are growing they start to on board and hire people. For about six months, the HR representatives were in constant contact with me giving me timely updates. They made me feel like a super star! It was one of the greatest feelings in the world to have people really admire your skills and experience and tell you they want to hire you. By far this was one of the best interviewing experiences in my entire career and I gained a lot of insight from it and made friends with talented people in my field. I even met one of them in person and had a wonderful dinner at an Indian restaurant in the Philly area. 
+ The Bad or not so good 
+ This section is dedicated to companies that don't have their act together completely. They're ok during some phases of the interview but certain warning signs stand out. 
+ Alright, there are a few stand outs in this section. Let me start off with one large corporation that had multiple openings and a long term government contract. It was a little tough to get a phone interview with them due to slow response. I eventually got on the phone with three other DBAs that were really good to me. They asked me to rate my skills from 1 to 10, with one of the skills I was being asked about is PowerShell. I said that I was around a 1 or 2, so they quickly mentioned to me that 10 is the highest on the scale. I repeated my honest answer without changing it. They liked this very much and asked me about what blogs I visit and what books I'm currently reading. One of them even said they liked my blog, so I joked around saying "Maybe I should be asking the questions then." They had a good sense of humor and found it amusing so I was excited about going onsite. That is when things started to change. The Project Manager who was new mentioned that the contract was due to expire in a few months and that another company might acquire it. In addition to that, they had setup a meeting between myself and the three DBAs that did the phone screening, and one of the managers on the client side. They purposely left one of the other managers out because this person was known to "humiliate" candidates and was very difficult to work with. The three DBAs warned me about that particular manager, saying that there would be phone calls all times of the night and that I should change my answer about my PowerShell skills. Don't get me wrong, these guys were great. They told me they really liked me and wanted me on their team even in the Lead role but they wanted to set my expectations correctly. Anyway, everything looked good, and I never heard back from them even after regular follow up which is unacceptable given they wanted to hire me and I had committed a lot of time to interviewing there. 
+ On to another large corporation. This interview process spans over a year, and the entire time it was the same recruiter working with me which required a lot of patience. My first round was setup rather quickly with a phone screening. That phone screening got canceled last minute because the job was "closed" and was to be opened again in six months. Really? Well not really, the next morning at 5 and 6 am I received emails from the recruiter saying the candidate that was offered the role declined it (BINGO!). I hate liars, but I wanted to change jobs so I went on with the process which stopped after the situational interview, one of the most ridiculous tools of measuring someone's capability because there is no guarantee that anyone has faced any of the presented scenarios. Not to worry, a year later the company reached out to me for a different position. Initially salary was a problem, but later that same day they came around and had me working with the recruiter from last year, sigh. So the recruiter sets up an onsite interview about 50 miles out from where I live. I requested to start with a phone interview, and he said that the manager prefers onsite. The manager replied to the email chain indicating it was OK for me to start with a phone interview since he had seen my blog and got to know a little about my work. The phone screening went well. Then came the scheduling issues from the recruiter for the onsite interview. There was no back and forth, it was just "here is your interview date onsite, can you come?" I was going on vacation and got sick after vacation so I could not make the initially scheduled interviews. I suggested times that worked for me and eventually the recruiter said the job was filled, or closed, or whatever. I had a hard time keeping up with all the excuses and moved on. 
+ Through LinkedIn I connected with a local recruiter who was very helpful at first. This particular recruiter was very energetic and smart and after a phone screen we did an online face to face interview via webcam. Everything was great. The job opening was a perfect match, salary, benefits, everything. Then I waited, and waited, and waited, and waited, and waited, and… you get the point. After a couple of months I reached back out to try to start my job search again and the recruiter tried to help me out again but communication was lacking. Things were so good, then nothing… not sure what I did. It certainly wasn't my breath since we never met in person. 
+ The Ugly 
+ Ok, now that you've made it this far, these are the companies you want to stay away from. These are the interviews that you feel you want to walk out of, or just use them for practice. They'll make you appreciate everyone else a little more. 
+ One place I went to interview was terrible with scheduling and it seemed like they did not know how schedule interviews or even use email. No matter, I went in for the onsite interview with no prior phone screen. The HR person bragged about the sub par benefits they had, and I politely listened and asked my questions as needed. They kindly escorted me to the hiring manager. The manager was so cocky and arrogant. I was immediately turned off but I did not leave the interview because I wanted to give things a chance. He mentioned to me that I was expected to work a minimum of 50 hours a week because his entire team did; oh man and I was already turned off before that! I tried to be interested and asked him "what are some of the benefits of working here" in order to try to get another perspective on things since maybe we didn't hit it off correctly. The answer was simply one word "ME!" After we were done, I left and I never heard from them and I was more than satisfied with that result although I did send a follow up thank you email. 
+ Have you ever had an HR person give you a technical interview and then write down your exact detailed word by word answer? If the answer is YES then you may have started on the Ugly trail already. I mean, some companies need to weed people out and I can understand if HR does a multiple choice/true false type quiz beforehand but not a fully-fledged write-a-thon! To make matters worse, the HR rep repeated my answers when we were all done, it was such a long initial screening. Anyway, it gets worse from there, the HR rep told me that the salary I wanted was too high and that I'm worth $30,000 less than what I asked, which was $20,000 less than what I currently made. Yeah, what a slap in the face, but there is more. A few weeks later, the HR rep reaches out and says that they are able to match my salary request, played it off like they had to request more. Hello, I have written records of your initial answer! I did the phone interview for the DBA position, and at the very end the interviewer told me I'm not right for the job. I asked him why since I had answered all his questions to his satisfaction. He said that they were looking for more of a developer and I was interested in more of a DBA role. I told him that the description and title were for a DBA, he said he was aware and would let HR know to change it. NO SOUP FOR YOU, NEXT!! 
+ Now let me wrap up this post with one of my favorite interviews of all. Again, I started interviewing with a company that does not describe the cost of benefits upfront. They offered a higher salary and a challenging environment with a better commute so I decided to pursue it. I arrived early, as usual, and I signed in at the sign in sheet. There was no receptionist or no one to greet me, in fact one of the employees let me in. I had called the hiring manager to let me in but got a voice mail message, no worries so far they are just a little disorganized as a fast growing company. The manager eventually came and got me and walked me through the hallways where desks looked like they were from sort of spaceship; I thought to myself "Wow this is pretty neat, futuristic furniture!" There were three people in the room, the manager, a DBA and an IT Ops person. They all took turns asking me questions. The manager rubbed me the wrong way when he started having a side conversation with the other interviewer as the DBA was asking me questions. How rude! The manager is obviously not respectful of the employee or not interested in really getting to know me which is pretty true of people that just want to fill the spot and don't care who is in it. That is a great recipe for a terrible corporate culture. Then to make matters worse, they discuss all the overtime hours required and offer no answer to my question about comp-time (meaning time off to offset the extra hours). After this wonderful experience, the manager took me to a private office and discussed all sorts of internal politics and how this position was supposed to be under one manager that is upset that it moved, and a bunch of other nonsense I was not interested in. It made me feel extremely uncomfortable, especially since this person was discussing detailed issues with a candidate that is not aware of the day-to-day environment. It was unprofessional and I was glad to get out and turn down the offer with ease. 
+ Summary of lessons: 
+ 
+ Don't undervalue yourself. That also means don't overvalue your skills. Be humble and confident and as they say "you miss 100% of the shots you don't make" (Wayne Gretsky?) so take some chances. 
+ Patience is beautiful. Don't be in a rush, find the right place that you know you can spend a few good years in before moving on to a new role, or new employer. 
+ If an interviewer takes a personal interest in you and your career it can be a good sign that they are really concerned about getting someone that has a good fit with the team rather than just filling the position. People that just want to fill a position will not help you grow your career. 
+ Be honest about your skills. If you don't know something, lying about it during the phone interview can lead to disastrous results if you make it onsite; particularly in the category of being embarrassed. You can opt for a more political answer where you mention you have little to no experience in that particular area but express your interest to learn and grow in that area. No one knows everything, and no one likes a "know it all." 
+ Be aware of the culture, how are employees talking about each other, the clients, the managers. These are queues that you need to pick up on and you need to ask questions around these issues but be clever with the way you word them. 
+ Make sure you meet the team you are working with, or some of them, and not just the manager. You want to hear about the job and work environment from them to get a better perspective. You can tell better from them if they are happy, because a bad manager will never say that and a good manager rarely has unhappy employees. 
+ If you can, get detailed information about benefits straight off the bat so you can estimate what you need in terms of salary and what you need to negotiate in terms of benefits. 
+ Watch out for contradictory statements from the people involved in the hiring process, it could be a sign of poor communication or them trying to hide something. Both are not a good sign. 
+ Keep a keen eye on how employees and managers interact. If you notice a manager not listening or keeps interrupting his/her employee then know that it is a good sign of a lack of respect, one that you could find yourself a regular consumer of. If employees are not listening to each other and disagreeing rather aggressively, it could be a sign of a dysfunctional team. Keep your eyes and ears open for this. 
+ Keep alert to how overworked the staff is, you don't want to be in a place that will deteriorate your health through massive volumes of stress and regular overtime hours. Well let me put it this way, if you have no life then feel free to regularly over work yourself. 
+ Edit added 8/26/2014  Try to establish long term professional relationships. You never know how they may work out for you, even if you don't get a job you may meet great people you can benefit from or even benefit yourself. I've met people in my interview track that I would have no problem trying to recruit where I work because I would love to work side-by-side with them. 
+ 
+ Share this: 
+ 
+ LinkedIn 
+ Twitter 
+ Reddit 
+ WhatsApp 
+ Facebook 
+ Email 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ 16 Comments 
+ Posted by  Ayman El-Ghazali  on August 25, 2014 in  Other ,  Uncategorized 
+ Tags:  sqlserverpedia 
+ <- SQL Saturday 294 Philadelphia Lessons Learned 
+ Dear IT Guy, Why do you hesitate to attend my meetings? -> 
+ 16 responses to "  The Good the Bad and the Ugly of my extended job  search " 
+ 
+ Andrew Notarian 
+ 
+ August 25, 2014 at 9:36 AM 
+ I am going to spend more time guessing who these people are than I did with Speaker 47. I'm so happy you got what you wanted though. Since we are both in DC I know all about some of these terrible recruitment patterns. 
+ Like Like 
+ Reply 
+ * [Ayman El-Ghazali](http://www.thesqlpro.com)
+ 
+ August 25, 2014 at 3:46 PM 
+ Oh yeah, this area can get bad! Thanks for your kind words man and congrats on your new job too! 
+ Like Like 
+ Reply 
+ 
+ Steve LaRochelle 
+ 
+ August 25, 2014 at 9:08 PM 
+ Great read. I'm looking in the DC area too, I wonder if I've looked at the same companies. 
+ Like Like 
+ Reply 
+ * [Ayman El-Ghazali](http://www.thesqlpro.com)
+ 
+ August 25, 2014 at 10:41 PM 
+ We can discuss it over a "secure" line 😛 
+ Like Like 
+ Reply 
+ 
+ Murilo Miranda 
+ 
+ August 26, 2014 at 6:21 AM 
+ Nice post 🙂 
+ Like Like 
+ Reply 
+ 
+ Warner 
+ 
+ August 26, 2014 at 8:08 AM 
+ Ayman you forgot to mention the most awesome interview we had. There was magic there, come on. 
+ Like Like 
+ Reply 
+ * [Ayman El-Ghazali](http://www.thesqlpro.com)
+ 
+ August 26, 2014 at 9:08 AM 
+ I know! When I saw Murilo's comment I was like "Oh man how could I forget?" I wrote it while on a plane, that might be the reason. But hey… with a little editing that can all change 🙂 Come back in 10 minutes. 
+ Like Like 
+ Reply 
+   * [Murilo Miranda](https://www.facebook.com/murilom)
+ 
+ August 26, 2014 at 9:25 AM 
+ Oh!!! Nice to be on "The Good" section 🙂 
+ Like Like 
+   * [Ayman El-Ghazali](http://www.thesqlpro.com)
+ 
+ August 26, 2014 at 10:04 AM 
+ Of course!! 
+ Like Like 
+ 
+ Jamal Bradley 
+ 
+ August 27, 2014 at 4:10 PM 
+ Great blog. Insight into the hidden world of IT, lol. 
+ Like Like 
+ Reply 
+ * [Ayman El-Ghazali](http://www.thesqlpro.com)
+ 
+ August 27, 2014 at 7:48 PM 
+ Oh yeah it is a crazy world 🙂 
+ Like Like 
+ Reply 
+ 
+ Mathew Walters 
+ 
+ August 28, 2014 at 7:23 AM 
+ I actually guessed who the company you added was and seeing comments from Warner and Murilo confirmed it. Having previously worked there I can say that it's an excellent company to work for and is full or Rockstar DBAs! If they think you are good then you certainly are 🙂 
+ Like Like 
+ Reply 
+ * [Ayman El-Ghazali](http://www.thesqlpro.com)
+ 
+ August 28, 2014 at 8:46 AM 
+ Everyone there is solid!! I really am glad I met those guys and disappointed Costa Rica got knocked out my Holland in the world cup. Warner knows how it feels 🙂 
+Thank you for your kind words! 
+ Like Like 
+ Reply 
+ 
+ stacylaray 
+ 
+ August 28, 2014 at 8:51 PM 
+ You forgot to mention how you reached out to a presenter in a virtual chapter of SQL PASS…:-) 
+ Like Like 
+ Reply 
+ * [Ayman El-Ghazali](http://www.thesqlpro.com)
+ 
+ August 28, 2014 at 9:27 PM 
+ I purposely left off my MS interviewing experience, that deserves a blog post of its own. Oh, and everyone in that process was awesome including the you :). 
+ Like Like 
+ Reply 
+ 
+ Pingback:  Working at Microsoft - A Year in Reflection | The SQL Pro 
+ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ 
+ 
+ 
+ Search Site 
+ 
+ 
+ 
+ 
+ Search 
+ 
+ 
+ Subscribe 
+ 
+ 
+ Enter your email address to follow this blog and receive notifications of new posts by email. 
+ Join 1,452 other followers 
+ Email Address: 
+ Follow 
+ 
+ 
+ 
+ 
+ 
+ Follow @thesqlpro 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Recent Posts 
+ 
+ Azure Security Group Automation [Guest Post] 
+ The Power of DevOps and Deploying Power BI reports to different Environments [Guest Post] 
+ A COVID19 Story with Azure Databricks 
+ Introduction to Azure Databricks Presentation - Video Recording 
+ Introduction to Azure Databricks 
+ 
+ 
+ 
+ Favorites 
+ 
+ Brent Ozar 
+ Gethyn Ellis 
+ Katie & Emil (Video Training) 
+ Microsoft Virtual Academy 
+ SQL Authority 
+ SQL Server MCM Videos 
+ 
+ 
+ 
+ Categories 
+ 
+ Database Administration 
+ 
+ Backup & Recovery 
+ Disaster Recovery 
+ High Availability 
+ Security 
+ SQL Server Performance 
+ 
+ 
+ Database Development 
+ Other 
+ Other Administration 
+ power bi 
+ Presentations 
+ SQL Server 2012 
+ SQL Server 2016 
+ SQL Server BI 
+ 
+ Analysis Services (SSAS) 
+ Integration Services (SSIS) 
+ Reporting Services (SSRS) 
+ 
+ 
+ Uncategorized 
+ Videos 
+ 
+ SQL Snacks! 
+ 
+ 
+ Virtualization 
+ 
+ Hyper-V 
+ 
+ 
+ 
+ 
+ 
+ Archive 
+ 
+ 
+ 
+ 
+ 
+ August 2014 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 29 
+ 30 
+ 31 
+ 
+ 
+ 
+ « Jun   Sep » 
+ 
+ 
+ 
+ 
+ Ayman El-Ghazali 
+   Islam El-Ghazali 
+ 
+ 
+ 
+ Create a free website or blog at WordPress.com. 
+ Entries (RSS)  and  Comments (RSS) 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

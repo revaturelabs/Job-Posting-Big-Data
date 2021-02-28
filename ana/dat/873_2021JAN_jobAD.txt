@@ -1,0 +1,159 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Product Engineer 
+ [ 
+ Teller 
+ ](/companies/teller) 
+ London, United Kingdom 
+ 10 September, 2020 
+ Apply 
+ More jobs from Teller About Teller 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Elixir 
+ Erlang 
+ Python 
+ Ruby 
+ Rust 
+ 
+ Benefits & perks 
+ 
+ Stock options 
+ Competitive salary 
+ 
+ Elixir, Erlang or other functional programming language 
+ Role overview 
+ **  Teller ** is the API for bank accounts. Our API enables developers to build applications that connect with their users’ bank accounts in a manner that is many more times reliable, predictable, performant, and fair than anything else available. This seems like something that should be a solved problem in 2020 but before Teller, the state of the art was to rely on antiquated techniques such as screen-scraping online banking HTML pages. Of course these pages were never designed for this so it’s no surprise that anything using this approach is hopelessly broken and the bane of fintechs everywhere. 
+ Banks do have real APIs. Externally facing APIs are necessary for their own apps to work, they would just rather you don’t have access to them. We reverse engineer these apps to discover their secret API contracts and then implement clients for them. 
+ Our approach has enabled us to deliver a solution that is a 100x improvement. 
+ **  The Product Engineer Role ** 
+ Product Engineers are responsible for everything from building the dashboards, onboarding flows, and billing through to building the API itself and implementing new bank integrations alongside the Reverse Engineers on the Teller Red Team. 
+ **  About you ** 
+ 
+ You thrive in environments that afford you with high levels of responsibility and autonomy. 
+ You hold yourself and those you work with to high standards. 
+ You want to fulfil your potential to its fullest, grow as a developer and as a person to be the best you that you can be. 
+ You don’t look for excuses for why something can’t be done, you are the person who finds the way it can be done. 
+ If a skill that you don’t possess is required to complete a task you’re the kind of person who goes off and learns enough to get it done. 
+ You behave like an owner. You take total responsibility for what you work on and think of the bigger picture like a product manager would. 
+ You are results oriented and have a strong distaste for shaving yaks. 
+ You are a persuasive communicator. You are both succinct and direct. You are clear about what you are doing, why, and what you expect of others. 
+ You have strong opinions, weakly held, and the humility to change your mind according to the evidence as it presents itself. 
+ You have experience of shipping production applications, ideally written in Elixir, Erlang, or another functional programming language. That said, programming languages are more easily learned than general software engineering ability, so we’re mostly interested in the latter. 
+ 
+ 
+ [ 
+ Teller 
+ ](/companies/teller) 
+ 
+ 1-9 
+ 
+ Building banking APIs that are faster, more reliable and more performant than the big incumbents. 
+ Elixir Rust Finance Seed LiveView Stock Options Competitive Salary 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Teller About Teller 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Elixir 
+ Erlang 
+ Python 
+ Ruby 
+ Rust 
+ 
+ Benefits & perks 
+ 
+ Stock options 
+ Competitive salary 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Software Developer (Backend)CompetitiveProgrammaiLondon, United Kingdom 
+ We are looking for a full-time software developer to help us build a world-class web platform. 
+ sql c++ elixir python ruby 
+ More Info Apply 
+ Senior Software Developer£45K - 90KDriftrockLondon, United Kingdom 
+ Code in Elixir with growing Marketing tech startup 
+ elixir react ruby 
+ More Info Apply 
+ Senior Software Engineer601K - 900K SEKThe RealRealStockholm, Sweden 
+ As a Senior Software Engineer, you’ll design and build software for automating critical operation processes. 
+ elixir erlang ruby 
+ More Info Apply 
+ Product Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

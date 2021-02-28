@@ -1,0 +1,638 @@
+Skip to content 
+ 
+ Jacqui in New Zealand 
+ Data Science | Business Intelligence 
+ Menu 
+ 
+ Home 
+ My Linkedin 
+ Medium 
+ Facebook 
+ Twitter 
+ Contact me 
+ About me 
+ 
+ Tag: Career 
+ Why we need data integration and what can we do? 
+ The first question is why we need data integration? 
+ Let me give you an example here to answer this question. 
+ Every company has many departments, and different departments use different tools to store their data. For example, marketing team may use hubspot tool. 
+ Now, we have different departments which store different types of data in a company. 
+ However, insightful information is needed to make business decisions through those large amount of data. 
+ What can we do? 
+ Maybe we can connect all the databases everytime to generate reports. However, it will cost us large amount of time, then the term of data integration is raised. 
+ What is data integration? 
+ Data integration is a process in which heterogeneous data is retrieved and combined as an incorporated form and structure. 
+ There are some advantages of data integration: 
+ 
+ Reduce data complexity 
+ Data integrity 
+ Easy data collaboration 
+ Smarter business decisions 
+ 
+ There are also some well-known tools can do data integration, e.g., Microsoft SQL Server Integration Services (SSIS), Informatica, Oracle Data Integrator, AWS Glue etc. 
+ This blog we will talk about SSIS, which is one of the most popular ETL tool in New Zealand. 
+ Why SSIS? 
+ 
+ Data can be loaded in parallel to many varied destinations 
+ SSIS removes the need of hard core programmers 
+ Tight integration with other products of Microsoft 
+ SSIS is cheaper than most other ETL tools 
+ 
+ SSIS stands for SQL Server Integration Services, which is a component of the Microsoft SQL Server database software that can be used to perform a broad range of data integration and data transformation tasks. 
+ What can SSIS do? 
+ It combines the data residing in different sources and provides users with an unified view of these data. 
+ Also, it can also be used to automate maintenance of SQL Server databases and update to multidimensional analytical data. 
+ How is works? 
+ These tasks of data transformation and workflow creation is carried out using SSIS package: 
+ Operational Data->ETL->Data Warehouse 
+ In the first place, operational data store (ODS) is a database designed to integrate data from multiple sources for additional operations on the data. This is the place where most of the data used in current operation is housed before it's tranferred to the data warehouse for longer tem storage or achiiving. 
+ Next step is ETL(Extract, Transform and Load), the process of extracting the data from various sources, tranforming this data to meet your requirement and then loading into a target data warehouse. 
+ The third step is data warehousing, which is a large set of data accumulated which is used for assembling and managing data from various sources of answering business questions. Hence, helps in making decisions. 
+ What is SSIS package? 
+ It is an object that implements integration services functionality to extract, transform and load data. A package is composed of: 
+ 
+ connection 
+ control flow elements(handle workflow) 
+ data flow elements(handle data transform) 
+ 
+ If you want to investigate more about SSIS, check it out on Microsoft official documents. 
+ If you are interested in or have any problems with SSIS, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  18/07/202024/08/2020 Categories  Business Intelligence ,  Data Analysis ,  Data Warehouse ,  ETL ,  Microsoft ,  OLTP ,  SQL ,  SQL Server ,  SQL Server Intergration Services ,  SQL Server Management Studio Tags  Business Intelligence ,  Career ,  Data Warehouse ,  Learning ,  New Zealand ,  SQL Leave a comment on Why we need data integration and what can we do? 
+ An advanced SQL mind map 
+ Before, i wrote a  blog  about a basic SQL mind map for people who want to kick-start their career into business intelligence and data analysis industry. 
+ As we know, SQL is essential to become a Business Intelligence Developer/Data Analyst. 
+ So, in this blog, i drew an advanced SQL mind map for people who want to dive their SQL journey. 
+ If you are interested in or have any problems with SQL, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  03/07/2020 Categories  Business Intelligence ,  Data Analysis ,  Google Cloud SQL ,  SQL Tags  Business Intelligence ,  Career ,  mindmap ,  SQL Leave a comment on An advanced SQL mind map 
+ Some Cloud Computing Fundamentals 
+ What is cloud computing? 
+ The practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer. 
+ On-premise: 
+ 
+ You own the servers 
+ You hire the IT people 
+ You pay or rent the real-estate 
+ You take all the risk 
+ 
+ Cloud providers: 
+ 
+ Someone else owns the servers 
+ Someone else hires the IT people 
+ Someone else pays or rents the real-estate 
+ You are responsible for your figuring cloud services and code, someone else takes care of the rest. 
+ 
+ Different kinds of hosting: 
+ 
+ Dedicated Server: One physical machine dedicated to single a business. Runs a single web-app/site. (Very expensive, high maintenance, high security) 
+ Virtual Private Server: One physical machine dedicated to a single business. The physical machine is virtualized into sub-machines runs multiple web-apps/sites. 
+ Shared Hosting: One physical machine, shared by hundreds of businesses. Relies on most tenants under-utilizing their resources. (Very cheap, Very limited) 
+ Cloud Hosting: Multiple physical machines that act as one system. The system is abstracted into multiple cloud services. (Flexible, Scalable, Secure, Cost-Effective, High Configurability) 
+ 
+ Common Cloud Services 
+ A cloud provider can have hundreds of cloud services that are grouped various types of services. The four most common types of cloud services for infrastructure as a service(laaS) would be: 
+ 
+ Compute: Imagine having a virtual computer that can run application, programs and code. 
+ Storage: Imagine having a virtual hard-drive that can store files 
+ Networking: Image having a virtual network being able to define Internet connections or network isolations 
+ Database: Imagine a virtual database for stoing reporting data or a database for genetal purpose web-application 
+ 
+ The term 'cloud computing' can be used to refer to all categories, even though it has 'compute' in the name. 
+ Benefits of Cloud Computing 
+ Cost-effective: You pay for what you consume, no up-front cost. Pay-as-you-go(PAYG) thousands of customers sharing the cost of the resources. 
+ Global: Launch workloads anywhere in the world, just choose a region 
+ Secure: Cloud provider takes care of physical security. Cloud services can by secure by default or you have the ability to configure access down to granular level. 
+ Reliable: Data backup, disaster recovery, and data replication, and fault tolerance. 
+ Scalable: Increase or decrease resources and services based on demand 
+ Elastic: Automate scaling during spikes and drop in demand 
+ Current: The underlying hardware and managed software is patched, upgraded and replaced by the cloud provider without interruption to you. 
+ Next blog I will write some fundamentals about Microsoft Azure, which is the cloud provider service of Microsoft. 
+ If you are interested in or have any problems with cloud computing, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  21/06/202024/08/2020 Categories  Azure Tags  Career ,  Learning ,  New Zealand Leave a comment on Some Cloud Computing Fundamentals 
+ How to design a Data Warehouse(Part 1) 
+ Last blog  I wrote why we need a Data Warehouse. 
+ First, what is the data warehouse? 
+ It is a centralized relational database that pulls together data from different sources (CRM, marketing stack, etc.) for better business insights. 
+ It stores current and historical data are used for reporting and analysis. 
+ However, here is the problem: 
+ How we can design a Data Warehouse? 
+ 1 Define Business Requirements 
+ Because it touches all areas of a company, all departments need to be onboard with the design. Each department needs to understand what the benefits of data warehouse and what results they can expect from it. 
+ What objectives we can focus on: 
+ 
+ Determine the scope of the whole project 
+ Find out what data is useful for analysis and where our dat is current siloed 
+ Create a backup plan in case of failure 
+ Security: monitoring, etc. 
+ 
+ 2 Choose a data warehouse platform 
+ There are four types of data warehouse platforms: 
+ 
+ Traditional database management systems: Row-based relational platforms, e.g., Microsoft SQL Server 
+ Specialized Analytics DBMS: Columnar data stores designed specifically for managing and running analytics, e.g., Teradata 
+ Out-of-box data warehouse appliances: the combination with a software and hardware with a DBMS pre-installed, e.g., Oracle Exadata 
+ Cloud-hosted data warehouse tools 
+ 
+ We can choose the suitable one for the company according to budget, employees and infrastructure. 
+ We can choose between cloud or on-premise? 
+ Cloud solution pros: 
+ 
+ Scalability: easy, cost-effective, simple and flexible to scale with cloud services 
+ Low entry cost: no servers, hardware and operational cost 
+ Connectivity: easy to connect to other cloud services 
+ Security: cloud providers supply security patches and protocols to keep customers safe 
+ 
+ Choices: 
+ 
+ Amazon Redshift 
+ Microsoft Azure SQL Data Warehouse 
+ Google Bigquery 
+ Snowflake Computing 
+ 
+ On-premise solution pros: 
+ 
+ Reliability: With good staff and exceptional hardware, on-premise solutions can be highly available and reliable 
+ Security: Organizations have full control of the security and access 
+ 
+ Choices: 
+ 
+ Oracle Database 
+ Microsoft SQL Server 
+ MySQL 
+ IBM DB2 
+ PostgreSQL 
+ 
+ What we can choose between on-premise and cloud solution, in the big picture, it depends on our budget and existing system. 
+ If we look for control, then we can choose on-premise solution. Conversely, if we look for scalability, we can choose a cloud service. 
+ 3 Set up the physical environments 
+ There are three physical environments in Data Warehouse: development, testing and production. 
+ 
+ We need to test changes before they move into the production environment 
+ Running tests against data typically uses extreme data sets or random sets of data from the production environment. 
+ Data integrity is much easier to track and issues are easier to contain if we have three environments running. 
+ 
+ 4 Data Modelling 
+ It is the most complex phase of Data Warehouse design. It is the process of visualizing data distribution in the warehouse. 
+ 
+ Visualize the relationships between data 
+ Set standardized naming conventions 
+ Create relationships between data sets 
+ Establish compliance and security processes 
+ 
+ There are bunches of data modeling techniques that businesses use for data warehouse design. Here are top 3 popular ones: 
+ 
+ Snowflake Schema 
+ Star Schema 
+ Galaxy Schema 
+ 
+ 4 Choosing the ETL solution 
+ ETL, stands for Extract, Transform and Load is the process we pull data from the storage solutions to warehouse. 
+ We need to build an easy, replicable and consistent data pipeline because a poor ETL process can break the entire data warehouse. 
+ Wrapping up 
+ This post explored the first 4 steps about designing a Data Warehouse in the company. In the future, I will write the next steps. 
+ If you are interested in or have any problems with Data Warehouse, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  24/05/202024/08/2020 Categories  Business Intelligence ,  Data Analysis ,  Data Warehouse ,  ETL ,  OLTP ,  SQL Tags  Business Intelligence ,  Career ,  Data Warehouse ,  Learning ,  New Zealand ,  SQL Leave a comment on How to design a Data Warehouse(Part 1) 
+ CrUX Dashboard&Data Strategy Lifecycle 
+ Last Blog  I demonstrated the data pipeline we can use CrUX to analyze the site performance. This is from a BI developer perspective. 
+ However, for a company, especially the leadership team, what they want is  the final dashboard that generated from BI department  , so management plan can be gained. 
+ I already wrote how to query from Bigquery and what site speed metrics we can use from  the introduction of CrUX  blog and  public dataset analysis  blog. 
+ So this blog I will show you what kind of dashboard we can generate after the steps of data collection from Google public dataset and ETL. 
+ What data visualization tool we need to use? 
+ There are bunches of data visualization tools we can use, e.g., Data Studio, Power BI etc. This time I take Tableau for an example. 
+ I took  www.flightcentre.co.nz (blue line) and  www.rentalcars.com (red line) as the origin for comparison, set customer's device is 'desktop' (we also can put a filter on it too). 
+ And there are 4 sheets on a dashboard, i.e., Slow FCP Percentage, Fast FCP Percentage, Fast FID Percentage and Slow FID Percentage. 
+ What they actually mean? 
+ 
+ Slow FCP Percentage(the percentage of users that experienced a first contentful paint time of 1 second or less) 
+ Fast FCP Percentage(the percentage of users that experienced a first contentful paint time of 2.5 seconds or more) 
+ Fast FID Percentage(the percentage of users that experienced a first input delay time of 50 ms or less) 
+ Slow FID Percentage(the percentage of users that experienced a first input delay time of 250 ms or more) 
+ 
+ After this graph, we can roughly see that flightcentre has a higher site speed than rentalcars in user experience. 
+ What we can do in the next step? 
+ After that, we can inform devs and communicate impact according to show exactly the area that the site is falling down. We can point to the fact that it's from real users and how people actually experiencing the site. 
+ The second part is the data strategy lifecycle in a company. 
+ What is the data strategy lifecycle in a company? 
+ Develop the strategy->Create the roadmap->Change management plan->Analytics lifestyle->Measurement plan 
+ Perspectives: 
+ 
+ Scope and Purpose: What data will we manage? How much does our data worth? How do we measure success? 
+ Data collection: Archiving, what data where and when, single source of truth(data lake), integrating data silos 
+ Architecture: Real time vs Batch, data sharing, data management and security, data modelling, visualization 
+ Insights and analysis: Data Exploration, self-service, collaboration, managing results 
+ Data governance: Identify data owners, strategic leadership. data stewardship. data lineage, quality, and cost 
+ Access and security: RBAC, encryption, PII, access processes, audits, regulatory 
+ Retention and SLAs: Data tiers and retention, SLA's to the business 
+ 
+ Wrapping up 
+ This post explored the CrUX dashboard BI team can generate and the data strategy in a company. In the future, I will write more. 
+ If you are interested in or have any problems with CrUX or Business Intelligence, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  20/05/202024/08/2020 Categories  BigQuery ,  Business Intelligence ,  CrUX ,  Dashboards ,  Data Analysis ,  ETL ,  Google Cloud Platform ,  SQL Tags  Business Intelligence ,  Career ,  Google Cloud Platform ,  New Zealand ,  SQL Leave a comment on CrUX Dashboard&Data Strategy Lifecycle 
+ Tutorial: Using BigQuery to Analyze CrUX Data 
+ Last blog  I gave some examples of how we can use the Chrome User Experience report (CrUX) to gain some insights about site speed. This blog I will continue to show you how to use bigquery to compare your site with the competitors. 
+ Prerequisite: 
+ 
+ Log into Google Cloud, 
+ Create a project for the CrUX work 
+ Avigate to BigQuery console 
+ Add the  chrome-ux-report  dataset and explore the way the tables are structured in 'preview' 
+ 
+ Step one: Figure out what is the origin of your site and the competitor site 
+ like syntax is preferred (Take care of the syntax difference between Standard SQL and T-SQL) 
+  -- created by: Jacqui Wu
+  -- data source: Chrome-ux-report(202003)
+  -- last update: 12/05/2020
+  
+SELECT
+  DISTINCT origin
+FROM
+  `chrome-ux-report.all.202003`
+WHERE
+  origin LIKE '%yoursite'
+ 
+ Step two: Figure out what should be queried in the select clause? 
+ What we can query from CrUX? 
+ The specific elements that Google is sharing are: 
+ 
+ “Origin”, which consists of the protocol and hostname, as we used in step one, which can make sure the URL link 
+ Effective Connection Type (4G, 3G, etc), which can be queried as the network 
+ Form Factor (desktop, mobile, tablet), which can be queried as the device 
+ Percentile Histogram data for  First Paint, First Contentful Paint, DOM Content Loaded and onLoad (  **  these are all nested, so if we want to query them, we need to unnest them **  ) 
+ 
+ Here I create a SQL query of FCP percentage in different sites, which measures the time from navigation to the time when the browser renders the first bit of content from the DOM. 
+ This is an important milestone for users because it provides feedback that the page is actually loading. 
+ SQL queries: 
+   -- created by: Jacqui Wu
+  -- data source: Chrome-ux-report(202003) in diffrent sites
+  -- last update: 12/05/2020
+  -- Comparing fcp metric in Different Sites
+
+SELECT origin, form_factor.name AS device, effective_connection_type.name AS conn, "first contentful paint" AS metric, bin.start/1000 AS bin, SUM(bin.density) AS volume
+FROM(  
+SELECT origin, form_factor, effective_connection_type, first_contentful_paint.histogram.bin as bins
+FROM `chrome-ux-report.all.202003`
+WHERE origin IN ("your site URL link", "competitor A site URL link", "competitor B site URL link")
+)
+CROSSS JOIN UNNEST(bins) AS bin
+GROUP BY origin, device, conn, bin
+ 
+ Step 3: Export the results to the Data Studio(Google visualization tool) 
+ Here are some tips may be useful 
+ 
+ Line chart is preferred for comparing different sites in Visual Selection 
+ Set x-axis to bin(which we already calculate it to seconds) and y-axis to percentage of fcp 
+ Set filter(origin, device, conn) in Filtering section 
+ 
+ Wrapping up 
+ This post explored the data pipeline we can use CrUX report to analyze the site performance. In the future, I will write more about CrUX. 
+ If you are interested in or have any problems with CrUX or Business Intelligence, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  13/05/202024/08/2020 Categories  BigQuery ,  Business Intelligence ,  CrUX ,  Dashboards ,  Data Analysis ,  Google Cloud Platform Tags  Business Intelligence ,  Career ,  Learning ,  New Zealand ,  SQL 1 Comment on Tutorial: Using BigQuery to Analyze CrUX Data 
+ How to use CrUX to analyze your site? 
+ What is CrUX? 
+ CrUX stands for the Chrome User Experience Report. It provides real world and real user metrics gathered from the millions of Google Chrome users who load millions of websites (include yours) each month. Of course, they all opt-in to syncing their browsing history and have usage statistic reporting enabled. 
+ According to Google, its goal is 'capture the full range of external factors that shape and contribute to the final user experience'. 
+ In this post, I will walk you through how to use it to get insights of your site's performance. 
+ Why we need CrUX? 
+ We all know faster site results in a better user experience and a better customer loyalty, compared to the sites of competitors. It results in the revenue increasing. Google confirmed some details about how they understand the speed. They are available in CrUX. 
+ What are CrUX metrics? 
+ 
+ FP(First Paint): when everything loads on the page 
+ FCP(First Content loaded): when some text or an image loaded 
+ DCL(DOM content loaded): when DOM is loaded 
+ ONLOAD: when any additional scripts have loaded 
+ FID(First Input Delay): the time between when a user interacts with your site to when the server actually responds to that 
+ 
+ How to generate the CrUX report on PageSpeed Insights? 
+ PageSpeed Insights  is a tool for people to understand what a page's performance is and how to improve it. 
+ It uses the lighthouse to audit the given page and identify opportunities to improve performance. It also integrates with the CrUX to show how real users experience performance on the page. 
+ Take Yahoo as the example, after a few seconds, lighthouse audits will be performed and we will see sections for field and lab data. 
+ In the field data section, we can see FCP and FID (please see the table below as we can see the FCP and FID values). 
+ 
+ 
+ 
+ Metric 
+ Fast 
+ Average 
+ Slow 
+ 
+ 
+ 
+ 
+ FCP 
+ 0-1000ms 
+ 1000ms-2500ms 
+ 2500ms+ 
+ 
+ 
+ FID 
+ 0-50ms 
+ 50-250ms 
+ 250ms+ 
+ 
+ 
+ 
+ We can see the Yahoo site is in 'average' according to the table. To achieve the 'fast', both FCP and FID must be categorized as fast. 
+ Also, a percentile can be shown in each metric. For FCP, the 75th percentile is used and for FID, it is the 95th. For example, 75% of FCP experiences on the page are 1.5s or less. 
+ How to use it in BigQuery? 
+ In BigQuery, we can also extract insights about UX on our site. 
+ SELECT origin, form_factor.name AS device, effective_connection_type.name  AS conn, 
+       ROUND(SUM(onload.density),4) as density
+FROM `chrome-ux-report.all.201907`,
+    UNNEST (onload.histogram.bin) as onload
+WHERE origin IN ("https://www.yahoo.com")
+GROUP BY origin, device, conn
+ 
+ Then we can see the result in BigQuery. 
+ The raw data is organized like a histogram, with bins have a start time, end time and density value. For example, we can query for the percent of 'fast' FCP experiences, where 'fast' is defined as happening under a second. 
+ We can compare Yahoo with bing. Here is how the query look: 
+ SELECT
+  origin,
+  SUM(fcp.density) AS fast_fcp
+FROM
+  `chrome-ux-report.all.201907`,
+  UNNEST (first_contentful_paint.histogram.bin) AS fcp
+WHERE
+  fcp.start<1000
+  AND origin IN ('https://www.bing.com',
+    'https://www.yahoo.com')
+GROUP BY
+  origin
+ 
+ Wrapping up 
+ This post explored some methods to get site insights with CrUX report. In the future, I will write more about CrUX. 
+ If you are interested in or have any problems with CrUX or Business Intelligence, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  19/04/202024/08/2020 Categories  BigQuery ,  CrUX ,  Google Cloud Platform Tags  Business Intelligence ,  Career ,  CrUX ,  Learning ,  New Zealand ,  SQL 2 Comments on How to use CrUX to analyze your site? 
+ Google Analytics cheat sheets 
+   
+ Data-driven VS data-informed 
+ Data-driven: Decisions made only based upon statistics, which can be misleading. 
+ Data-informed: Decisions made by combining statistics with insights and our knowledge of human wants & needs. 
+ We will be able to use data and human creativity to come up with innovative solutions in a business. 
+ When we click into Google Analytics, we can see a large amount of lines, full of data, strange names. 
+ But don 't chill out, we can break things 
+ In this blog, I will illustrate  Analytics +Art = Creative Data Scientist 
+ Agenda 
+ 
+ Installing And Customising Google Analytics 
+ Learning Dashboard 
+ Analysing Behaviours 
+ User Acquisition 
+ Generate And Share Reports 
+ 
+ 1. Installing And Customising Google Analytics 
+ When we install the Google Analytics, there are several terms we should pay attention: 
+ 
+ Tracking code  : Which is a basic code snippet for a website. It starts as UA, which stands for Universal Analytics. 
+ Data collection  : Turn it on and it allows us to get data of users. 
+ User-ID  : Allow us to tracker users. Generate the unique user Id and make sure the right ID is assigned to the right user and associate the data in Google Analytics. 
+ Session setting:  Any time a user has loaded up your site on their device. We can set the session time here. 
+ Referral exclusive list:  Mostly, we set them as our own site URL. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2. Learning Dashboards: 
+ Admin page: account, property, view 
+ Under the account, there are several properties. 
+ Take one account as the example, there are many URLs associated with this account. 
+ In other words, we have a site. Under this site, we have a whole bunch of other properties that we’ve associated here. 
+ The tracking Id is the same, except for a number at the very end. 
+ **Google Ads and Google AdSense:  ** 
+ Ads are the words we buy from Google. They are links or text that appear on top of Google search pages. AdSense are the ads google sells that we can insert on our own site. We use AdSense if we are a publisher and we want to monetise our content. 
+ Set the ‘Bot Filtering’ in the view setting under the view page of Admin. 
+ It excludes all hits from known bots and spiders. Google, Yahoo and etc. They have programs to analyze and index the content. Bots is short for robots. Spiders are because these little programs crawl, web, spiders. 
+ It is not a must way to have it turn on, but we have a big site, for a professional who wants to do the analytics, we should gain insights about what the humans (content is for humans) excluding the robots. If we are interested in what users are doing on our site, maybe we can do this easy way to turn it on. 
+ Because the robots just crawl the data from our sites. 
+ Sidebar 
+ Then we can have a look at the sidebar. 
+ 
+ Customisation: Suggest to install a custom report to give it a try. 
+ Real-time: What users are doing the right very second. 
+ Audience: We will see who, what, when, where, from where. A big module. 
+ Acquisition: Where traffic comes from, how marketing efforts working. We can have a look at channel, we will see direct, paid search, organic search, (other), referral, email, social. And this tells us again, how people find me? How is my marketing working? Are we just wasting our money? 
+ Behaviour: This is kind of fascinating, think of this as being the security camera in the store. We are watching our uses picking up items or checking out or running out of the exits. 
+ Conversiond: It is the happy part. It is where we track and figure out how well our sites are turning our visitors into customers. 
+ 
+ 3. Analysing Audience Behaviour 
+ (1)  Conversion vs Engagement: 
+ Conversion: A one-time interaction. Granted, this is a powerful interaction, but it is the end goal of a chain of events. 
+ Engagement: Repeated use, that results in an emotional, psychological and sometimes near-physical tie that users have to products, e.g., apple fans. 
+ Build a hypothesis via the audience overview 
+ There are a lot of opportunities to grow if we were to take this site to have it available in other languages. 
+ (2)  Active users 
+ From the line in active users, we can see whether nothing is effective on the traffic. Or there is really no marketing being done. 
+ (3)  Cohort analysis 
+ Cohort is a group of users that all share a common characteristic, in this case, the acquisition date is the day they came to your site which here is known as day 0. Metrics here are used to analyse the user behaviour. 
+ We can see how is going on day 1? 
+ We can see how many people came back the next day. 
+ 
+ Track individual users with user explorer 
+ How to use segmentation to refine demographics and interests 
+ 
+ It helps us to know who our audience is and what type of contents we are trying to expose them-->impact the design choices. 
+ (4)  Demographics 
+ If it is young people who use smartphones mostly, we should simplify the navigation choices. 
+ (5)  Interests 
+ Target-rich environment for the site can be a place which is the combination of top 3 interests 
+ we can create a segment  ‘tablet traffic  ’ to give it a try and we can find whether there are some differences between the all users. 
+ 
+ (6)  Geo 
+ Language & Location. We can set the segment like ‘  converters  ’ to compare with the ‘all users’ to find some differences. 
+ 
+ (7)  Behaviours  : 
+ We can set the ‘  mobile and tablet traffic  ’ as the segment to compare with ‘all users’. We find after how many seconds, people are paying more attention. The numbers are trending up. Whether we got their attention for a long span of time. 
+ 
+ (8)  Technology 
+ Browser & OS:  Flash version is if we want to do ads on the website, we need to make sure that they actually display. 
+ Network: This can be a really big deal if we are working in users and areas where we know they have very slow connections. And do we need to simplify a new page for them? This is called adaptive design. 
+ (9)  Mobile 
+ If something is strange but not significant, we can just move on. 
+ 
+ Benchmarking and users flow 
+ Page Analytics (a plugin we can find in Chrome store) 
+ 
+ 4. User Acquisition 
+ (1)  Learning about channels, sources and mediums 
+ There are many questions here: 
+ Well, how do they get the site? 
+ Sources, searched and referrals 
+ SEO and what users are looking for 
+ Social statistics and … 
+ **Channels:  ** The general, top-level categories that our traffic is coming from, such as search, referral or social 
+ Sources:  A subcategory of a channel. For example, search is a channel. Inside that channel, Yahoo Search is a source. 
+ **Mediums:  ** By which the traffic from a source is coming to our site. That is, if the traffic is coming from Google, is it organic search or paid search? 
+ (2)  Differentiating between channels-organic search and direct 
+ (direct): direct traffic is where someone comes directly to our site, i.e., type the address into the browser bar or they click on the bookmark. 
+ ‘not provided’: the data comes through Google is now encrypted to keep governments or hackers or spies from getting value from it. 
+ (3)  Unlocking Mysterious Dark Social Traffic 
+ There are 6 ways that the dark social traffic can come to the site. 
+ 
+ Email, messages. The traffic is from someone’s email program. This is not tracked by Google Analytics because GA lives in browsers. 
+ Links in docs: it is in an application that is not tracked by Google Analytics 
+ Bit.ly, Ow.ly, etc. 
+ Mobile social: twitter etc. 
+ From https to http 
+ Search errors 
+ 
+ (4) Drilling down to track who goes where 
+ From source/mediums: trigger email 
+ (5) Spotting the ‘Ghost Spam’ in referrals 
+ **Ghost spam:  ** 
+ It isn’t really hurting anything. In fact if we really are organized and we are the only one looking at the reports. We can leave them alone and nothing happens. 
+ There are noxious visits to my site made with the nefarious intent of getting us to click on the links and visit the site of the spammer. They are not actual visits. These sessions and pageviews are from bots that either hit our site and execute the Google Analytics scripts or bypass the server and hit the Google Analytics directly. 
+ Firstly, we need to find out the ghost referrals: 
+ They came from host names that are not our site. 
+ Check it through:  Acquisition->All traffic->Referrals. 
+ We can see there is some websites that have 100% bounce rate and 0s average session duration. 
+ We can also see some things e.g., xxxxxx.com / referral in Acquisition->All traffic->Sources/Medium 
+ How to remove the ghost spam and fake traffic from Google Analytics? 
+ Next blog we will talk more about it. 
+ If you are interested in or have any problems with Business Intelligence or Google Analytics, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  13/04/202024/08/2020 Categories  Business Intelligence ,  Data Analysis ,  Google Analytics Tags  Business Intelligence ,  Career ,  Learning ,  New Zealand Leave a comment on Google Analytics cheat sheets 
+ A special Easter Day 
+ In this special Easter Day, New Zealanders need to stay in our own 'bubbles'. 
+ So, good time to do some learning stuff. 
+ Pluralsight is now offering all courses free in April. 
+ Completed the Google Analytics for Creative Professionals course on it. 
+ Highly recommended its methodology: 
+ 
+ Look for top-level outliers + Mix & Match (segment) 
+ Go to pages and look for issues (technical, content & design) 
+ 
+ Especially the part of spotting the ‘Ghost Spam’ in referrals and how to remove it with Regex, quite useful. 
+ In business, making decisions by combining statistics with insight and our knowledge of human wants & needs is called data-informed 
+ Next target: Architecting Data Warehousing Solutions Using Google BigQuery 
+ If you are interested in or have any problems with BigQuery or Business Intelligence, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  12/04/202024/08/2020 Categories  Business Intelligence ,  Data Analysis ,  Google Analytics Tags  Business Intelligence ,  Career ,  Learning ,  New Zealand Leave a comment on A special Easter Day 
+ Analyzing Google Analytics Data in BigQuery (Part1) 
+   
+ What is BigQuery? 
+ Among Google Cloud Platform family products, there are Google App Engine, Google Compute Engine, Google Cloud Datastore, Google Cloud Storage, **  Google Big Query (for analytics) ** , and Google Cloud SQL. 
+ The most important product for BI Analyst is Big Query, it is an OLAP Data Warehouse which supports DW, Join and fully managed. It can make developers use SQL to query massive amounts of data in seconds. 
+ Why BigQuery? 
+ The main advantage is BigQuery can integrate with Google Analytics. It means we can synchronize Session/Event data to BigQuery easily to make custom analytics, not only the Google Analytics functions. 
+ In other words, BigQuery can dump raw GA data into it. So it means some custom analytics which can't be performed with the GA interface now can be generated by BigQuery. 
+ Moreover, we can also bring in third-party data into it. 
+ What is the difficulty for BI Analyst, it means we need to calculate every metrics in queries. 
+ Which SQL is preferred in Big Query? 
+ Standard SQL syntax is preferred in Big query nowadays. 
+ How we can get the data from Google Analytics? 
+ A daily dataset can be got from GA to BigQuery. Any within each dataset, a table is imported for each day of export. Its name format is ga_sessions_YYYYMMDD. 
+ We can also set some steps to make sure the tables, dashboards and data transfers are always up-to-date. 
+ How to get it a try? 
+ Firstly, set up a Google Cloud Billing account. With a Google Cloud Billing account, we can use BigQuery web UI with Google Analytics 360. 
+ The next step is to run a SQL query and visualize the output. The query editor is standard and follows the SQL syntax. 
+ For example, here is a sample query that queries user-level data, total visits and page views. 
+ SELECT fullVisitorId,
+       visitId,
+       trafficSource.source,
+       trafficSource.medium,
+       totals.visits,
+       totals.pageviews,
+FROM 'ga_sessions_YYYYMMDD'
+ 
+ In this step, if we need to get a good understanding of ga_sessios_table in BigQuery, we need to make sure what is the available raw GA data fileds can be got in BigQuery. 
+ We can use an  interactive visual represe ntation as the reference. 
+ Next blog we will give more examples about how to analyze GA data in BigQuery according to data ranges or others like users, sessions, traffic sources, etc. 
+ If you are interested in or have any problems with Business Intelligence or BigQuery, feel free to  contact me . 
+ Or you can connect with me through  my LinkedIn . 
+ Author   Jacqui Posted on  04/04/202010/04/2020 Categories  BigQuery ,  Business Intelligence ,  Data Analysis ,  Google Cloud Platform Tags  Business Intelligence ,  Career ,  Learning ,  SQL Leave a comment on Analyzing Google Analytics Data in BigQuery (Part1) 
+ Posts navigation 
+ Page 1  Page 2  …  Page 4   Next page 
+ Categories 
+ 
+ 
+ Business Intelligence  (37) 
+ 
+ Dashboards  (5) 
+ Data Warehouse  (11) 
+ ETL  (7) 
+ OLTP  (6) 
+ SQL  (15) 
+ 
+ 
+ 
+ Data Analysis  (30) 
+ 
+ 
+ Data Mining and Machine Learning  (5) 
+ 
+ 
+ Google Analytics  (3) 
+ 
+ 
+ Google Cloud Platform  (6) 
+ 
+ BigQuery  (4) 
+ CrUX  (3) 
+ Google Cloud SQL  (1) 
+ 
+ 
+ 
+ Microsoft  (18) 
+ 
+ Azure  (2) 
+ Microsoft Learning  (3) 
+ Power BI  (3) 
+ SQL Server  (9) 
+ SQL Server Analysis Services  (2) 
+ SQL Server Data Tools  (2) 
+ SQL Server Intergration Services  (6) 
+ SQL Server Management Studio  (7) 
+ SQL Server Reporting Services  (2) 
+ 
+ 
+ 
+ Natural Language Processing  (4) 
+ 
+ 
+ Publications  (4) 
+ 
+ 
+ Soft Skills  (5) 
+ 
+ 
+ Summer Research Award  (5) 
+ 
+ 
+ Home 
+ 
+ 
+ My Linkedin 
+ 
+ 
+ Medium 
+ 
+ 
+ Facebook 
+ 
+ 
+ Twitter 
+ 
+ 
+ Contact me 
+ 
+ 
+ About me 
+ 
+ 
+ Jacqui in New Zealand   Blog at WordPress.com. 
+  Jacqui in New Zealand  
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

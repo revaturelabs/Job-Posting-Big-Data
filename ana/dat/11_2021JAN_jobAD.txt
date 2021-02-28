@@ -1,0 +1,43 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Manage Account 
+ Careers Page 
+ 
+ Can I use Google Analytics on my careers page? 
+ Nick DeSimone 
+ 
+ January 06, 2021 15:05 
+ Updated 
+ 
+ Follow 
+ Super Admins 
+ Core, Growth, Premier 
+ Workable has a Google Analytics integration available as part of the Advanced Careers Page. Activity throughout your careers page will be tracked in Google Analytics. You'll be able to see information on the number of visitors, time spent, their source and more. 
+ Add your Google Analytics tracking ID under the  Careers Page  settings  in Workable. 
+ To find your tracking ID in Google Analytics: 
+ 
+ Sign in to Google Analytics and click Admin 
+ Select an account and a property in the relevant columns 
+ Under Property, click Tracking Info, then Tracking Code and the tracking ID will be displayed at the top 
+ 
+ If you don't have an advanced careers page or Google Analytics, check out the    Reports  section of your Workable account. The  Candidate Sources report , for example, automatically tracks where candidates apply from. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 0 out of 0 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Adding an applicant conversion tracking pixel 
+ Using the Candidate Sources Report 
+ Managing an Advanced Careers Page 
+ Advanced Careers Page FAQ 
+ What happens if multiple people edit the Advanced Careers Page at the same time? 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 
