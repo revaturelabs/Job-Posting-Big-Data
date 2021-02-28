@@ -1,0 +1,307 @@
+SecurityHeadhunter.com -Our Blog 
+ Breaches, Tips, Stories & Insights from a true Security Headhunter 
+ Menu 
+ Skip to content 
+ 
+ Home 
+ About Me 
+ Contact Us 
+ 
+ Category Archives: Non Security Jobs 
+ IT Auditor w/SOX skills 
+ Posted on  February 22, 2010  by  Wils Bell 
+ Senior IT Auditor 
+ 
+ 
+ 
+ 
+ Job Type: 
+ Full Time 
+ 
+ 
+ 
+ 
+ Job Location: 
+ NJ 
+ 
+ 
+ Compensation: 
+ 100,000 -$120,000 plus bonus 
+ 
+ 
+ Telecommute: 
+ No 
+ 
+ 
+ Education: 
+ Degree a plus BUT not required 
+ 
+ 
+ Certifications: 
+ CISA is a must!!! 
+ 
+ 
+ Travel %: 
+ minimal 
+ 
+ 
+ Relo Paid: 
+ No relo offered 
+ 
+ 
+ 
+ Position Summary 
+ Successful candidate will have 5 - 10 years of IT internal audit and/or related work experience in the  financial or securities industry . 
+ Successful candidate must have  a CISA –no exceptions. 
+ Experience Needed 
+ Strong knowledge of IT systems configuration and operations to include; 
+ 
+ operating systems - Windows, Linux 
+ databases - Sybase, Oracle, SQL Server 
+ security & access configuration - infrastructure & application level 
+ business applications - general ledger, trading & clearing, risk management, etc. 
+ programming experience a plus - SQL, Java, C 
+ Strong knowledge of securities trading & back office activities - equities & fixed income: order routing & execution, settlement & clearing 
+ 
+ Position Responsibilities: 
+ 
+ Assess the IT control environment for audits assigned, develop audit scoping and test document (RAM) and effectively execute audit fieldwork. 
+ Identify and communicate audit issues and develop practical recommendations to assist departments to better control businesses and processes. 
+ Draft audit reports, identifying audit scope, findings, and conclusion. 
+ Meet with Senior Management to discuss audit coverage and the status of audit issue follow up. 
+ Appropriately update and execute the  Sarbanes Oxley IT Program  and identify control design and operational deficiencies. 
+ Maintain current in relevant technology trends, standards, requirements, and best practices. 
+ Assist in preparing presentations for management and the Finance & Audit Committee. 
+ Keep IT Audit Director and IA Managing Director updated on work in process. 
+ Execute special projects as required. 
+ 
+ For full details please contact: 
+ Wils Bell  **** 
+ Information Security Recruiter 
+ Security   Headhunter   .com, Inc. 
+ POB 620298 
+ Oviedo, FL 32762 
+ Desk:  407-365-2404 
+ Cell:  407-718-7764 
+ Email:   Bell@SecurityHeadhunter.com   
+ Posted in  Non Security Jobs ,  Security Jobs  | Tagged  IT Audit ,  SOX  |   Leave a comment 
+ IT Job: Sr. Linux Administrator 
+ Posted on  October 14, 2009  by  Wils Bell 
+ LINUX Systems Administrato r (senior) 
+ 
+ 
+ 
+ Job Type: 
+ Full Time 
+ 
+ 
+ 
+ 
+ Job Location: 
+ NJ 
+ 
+ 
+ Compensation: 
+ $120,000 base (maybe more)   +   20% -30% bonus 
+ 
+ 
+ Telecommute: 
+ No 
+ 
+ 
+ Education: 
+ Degree a plus, but not required –will consider experience 
+ 
+ 
+ Certifications: 
+ **** 
+ 
+ 
+ Travel %: 
+ minimal 
+ 
+ 
+ Relo Paid: 
+ N/A 
+ 
+ 
+ 
+ RESPONSIBILITIES: 
+ • Provide engineering direction and implementation for the firms Linux systems inclusive of: 
+ o  System performance tuning 
+ o Kernel configuration and memory management 
+ o Development and implementation of security polices in coordination w/ Security officer 
+ o System hardening for DMZ and like implementations 
+ o Establish consistency of server configuration and build process 
+ • Production support of 30+ trading systems 
+ • System admin of 1300+ growing Linux (CentOS/Red Hat) and 150+ shrinking Solaris server environment 
+ • Setup & manage Linux clusters for High Availability 
+ • Write complex Shell and Perl scripts 
+ • Benchmark server and storage systems 
+ • Manage FC/ iSCSI SANs (NetApp & EMC) using Veritas and LVM 
+ • Administration of SNMP based monitoring system 
+ • Support firm-wide Legato backup systems 
+ TARGET CANDIDATE QUALIFICATIONS: 
+ • 5 plus years of experience with Linux and Solaris OS (emphasis on Linux) 
+ • 4 year degree or equivalent experience 
+ • Must have excellent communication skills and be customer focused 
+ • Engineer level understanding of Linux memory & Kernel systems 
+ • Strong middleware messaging configuration & troubleshooting experience (TIBCO/RV, Wombat, 29West, etc) 
+ • Strong understanding of TCP/IP + UDP and network concepts 
+ • Strong knowledge of client/server services like NIS, NFS, X … 
+ • Strong understanding of DNS 
+ • Strong troubleshooting skills in a high pressure environment working with network, security and development teams 
+ • Experience with large storage systems like NetApp, EMC, HP … 
+ • Shell and Perl scripting and/or C or C++ 
+ • Experience in low latency/high performance environment in a financial setting or equivalent 
+ • Understanding of storage principles in high performance environment (RAID, file systems, etc) 
+ • Knowledge of Oracle, Sybase and MySQL performance tuning principles 
+ For additional information on this outstanding opportunity please contact: 
+ Wils Bell 
+ Recruiter 
+ 407-365-2404 
+ Posted in  Non Security Jobs  | Tagged  IT Job ,  Linux Administrator  |   Leave a comment 
+ IT Job: UNIX - C Sr. Application DEveloper to $100,000 
+ Posted on  July 2, 2009  by  Wils Bell 
+ Position Summary 
+ for 
+ C / UNIX Senior Application Developer 
+ 
+ 
+ 
+ Job Type: 
+ Full Time 
+ 
+ 
+ 
+ 
+ Job Location: 
+ Orlando   , FL  **** 
+ 
+ 
+ Compensation: 
+ $80,000 to $100,000  maybe more - +  Bonus 
+ 
+ 
+ Telecommute: 
+ No 
+ 
+ 
+ Education: 
+ BS Preferred, BUT not required 
+ 
+ 
+ Certifications: 
+ N/A 
+ 
+ 
+ Travel %: 
+ none 
+ 
+ 
+ Relo Paid: 
+ No – local talent only 
+ 
+ 
+ 
+ Details: 
+ 
+ Candidate will lead the technical design, development and documentation of cross-functional, multi-platform distributed application systems. 
+ Will analyzes, defines and documents requirements for data, workflow, and logical processes and interfaces with other systems. 
+ Will also ensures that expected application performance levels are achieved by coordinating, coding, testing, implementation and documentation. 
+ Will be responsible for all development responsibilities in support of formal SDLC process. 
+ Will must be able to provide support of the production system. 
+ Will must also be an effective oral and written communicator who can effectively run large meetings. 
+ 
+ Responsibilities: 
+ 
+ Success candidate will need a minimum 6 - 8 years experience required. 
+ Must have extensive knowledge of company's total computing environment, including all key IT functions, interdependencies and business impact of future IT plans. 
+ Must have prior lead experience selecting and implementing vendor-specific methodologies and prior consulting experience with structured methodologies. 
+ Extensive experience with developing and supporting distributed applications required. 
+ Must have broad experience with multi-platform development tools and toolkits. 
+ 
+ Skills: 
+ 
+ Financial systems experience a plus 
+ Strong C language coding experience is a must 
+ Strong SQL and Relational Databases (SYBASE/ORACLE) 
+ Strong Unix and shell scripting 
+ MQ and communications methodology understanding a plus 
+ Java J2EE understanding a plus 
+ 
+ Contact  Wils Bell  –  407-365-2404  for additional information on this position. 
+ Posted in  Non Security Jobs  |   Leave a comment 
+ Recent Posts 
+ 
+ Security Job - Director Cyber Security / NERC CIP Solutions & Business Development 
+ Security Breaches & Security News 
+ Breaches & Security News 
+ Security Job: AVP Infosec 
+ Security Breaches & Security News 
+ Latest Infosec News 
+ Where's that document I signed? 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Breaches, Security News & more… 
+ Security Breaches, Security News & More (week ending 2-17-12) 
+ Breaches, Cyber Crime & Security News Highlights 
+ Breaches & Information Security News 
+ Breaches From Across the Net Week ending 1-13-12 
+ Security Job: Due Diligence Marketing Representative 
+ Breaches and Security Articles from Around the Web 
+ Breaches & Security News from Around the Internet 
+ Breaches & Security Articles from Around the Web 12-14-11 
+ Breaches & Security News From Around the Web 12-06-11 
+ Breaches & Security Articles From Around The Web 12-2-11 
+ Interviewing Advice 
+ Security Job: Application Security Consultant 
+ 
+ Twitter Updates 
+ 
+ France rejects Google's appeal on right to be forgotten   csoonline.com/article/298505…  via @ csoonline   5 years ago 
+ RT @ Sec_Headhunter : The Next Wave of Cyberattacks Won’t Steal Data — They’ll Change It   defenseone.com/threats/2015/0…   #Security   #infosec   5 years ago 
+ 
+ Follow @Security_REC 
+ Blogroll 
+ 
+ About Us 
+ Blog Catalog 
+ Client Recommendations 
+ My LinkedIn Profile 
+ SecurityHeadhunter Website 
+ Today's Audit Journal 
+ Twitter - Follow Me 
+ WordPress.com 
+ 
+   Subscribe to RSS 
+ 
+ Security Job – Director Cyber Security / NERC CIP Solutions & Business Development 
+ Security Breaches & Security News 
+ Breaches & Security News 
+ Security Job: AVP Infosec 
+ Security Breaches & Security News 
+ 
+ Twitter Posts 
+ 
+ France rejects Google's appeal on right to be forgotten   csoonline.com/article/298505…  via @ csoonline   5 years ago 
+ RT @ Sec_Headhunter : The Next Wave of Cyberattacks Won’t Steal Data — They’ll Change It   defenseone.com/threats/2015/0…   #Security   #infosec   5 years ago 
+ 
+ Follow @Security_REC 
+ Categories 
+ 
+ HeadHunting Stories  (40) 
+ Helpful Tips: Candidates  (10) 
+ My LinkedIn Profile  (2) 
+ Non Security Jobs  (3) 
+ Security Articles  (22) 
+ Security Breaches  (18) 
+ Security Jobs  (15) 
+ Uncategorized  (6) 
+ 
+ Blog at WordPress.com. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  

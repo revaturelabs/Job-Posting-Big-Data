@@ -1,0 +1,198 @@
+Primary Menu Open Sidebar 
+ Skip to content 
+  JoeBustillos.com  
+ writer.educator.technologist 
+ Close Primary Menu 
+ 
+ 
+ Home 
+ 
+ About/Contact 
+ Joe Bustillos' Resume 
+ 
+ 
+ 
+ JBB's Final Thoughts (podcast) 
+ 
+ 
+ Adventures in Education 
+ 
+ About Adventures in Education 
+ the intentional educator 
+ Joe Bustillos' Academic Portfolio 
+ 
+ Pepperdine Papers 
+ 
+ 
+ Joe Bustillos' Teaching Portfolio 
+ Conference Notes 
+ Disruptive EdTech 
+ education re-examined 
+ Full Sail Experiences 
+ HP Fitzgerald Elementary 
+ Joe Bustillos' Resume 
+ 
+ 
+ 
+ In Bad Faith (religion) 
+ 
+ Biblical Studies 
+ 
+ Gospel of Matthew Commentary 
+ 
+ 
+ LMU: Religious Studies portfolio 
+ Biola: Biblical Studies portfolio 
+ Fuller: Theology MA portfolio 
+ 
+ 
+ 
+ DailyRandomSh*t 
+ 
+ 
+ Media & Tech Reflections 
+ 
+ video mondays/fridays 
+ copyright issues 
+ 
+ 
+ 
+ writing projects 
+ 
+ Journal Classics 
+ JBB's Life Issues 
+ Reflections from the Road 
+ Sex and the Single Brain Cell 
+ winter park short story society 
+ 
+ 
+ 
+ JBB's Media Projects 
+ 
+ People 
+ Pin-Up Photography 
+ Space Cadet 
+ LEGO & Robot Adventures 
+ Music/Concerts 
+ Joe Bustillos Music 
+ Oak Hill Drifters (Music) 
+ NEVA Music 
+ Travels & Events 
+ Video Projects 
+ 
+ 
+ 
+ Facebook 
+ 
+ 
+ LinkedIn 
+ 
+ 
+ Twitter 
+ 
+ 
+ Instagram 
+ 
+ 
+ Looking at the Tenures of Steve Jobs & John Scully at Apple Computer 
+ by  joe bustillos 2004-10-252020-05-11 
+ The following is my Leadership paper written in 2004 for EDET700: Leadership of Human Endeavor Course, Pepperdine University, Educational Technology Doctoral program. At the bottom of this post is a downloadable PDF version of the original submission. Enjoy . 
+ “I think there is a world market for maybe five computers.  ”   Thomas Watson, chairman of IBM in 1943 
+ Some technologies are so good that they survive and even flourish in spite of the personalities of the leaders charged with the care and growth of said technologies. This paper will look at two such leaders, Steve Jobs and John Scully, and attempt to measure their performance during years at Apple Corporation using Daniel Goleman’s emotional intelligences (Goleman 2004). 
+ A BRIEF HISTORY 
+ Steve Jobs co-founded Apple Computer in Cupertino, California, just south of San Francisco with Steve Wozniak on April Fools’ Day, 1976. Wozniak (or just “Woz”) was the actual design genius who created the first Apple I computer, but Jobs was the one who saw that there was a market for these devices and thus was instrumental in creating the Personal Computer industry. One year later the Apple ][ was released and Apple shot to the top of the nascent personal computer industry with the first computer designed for the mass market. 
+ By 1981 Apple Computer’s lead was being cut into by the introduction of the IBM PC and Apple needed to come up with something revolutionary. After getting a private tour of Xerox’s Palo Alto Research Center (PARC) Jobs got the inspiration he needed and began the push toward what would eventually become the Macintosh computer. Jobs hired former Pepsi CEO John Scully to take over the daily responsibilities as company president in 1983 so that he could head up the group creating the Macintosh. 
+ In 1984 the first Macintosh was introduced to much acclaim and fanfare. But by 1985 it wasn’t selling as well as Jobs had predicted and when Jobs’ plan to increase sale conflicted with Scully’s plan, Jobs was ousted from his position and then quit the company. Scully’s tenure as President and later as CEO lasted until 1993 (Freiberger, 1999). 
+ SELF-AWARENESS 
+ In Bob Cringely’s  Triumph of the Nerds  , 3Com founder, Robert Metcalf characterized Apple Computer Co-founder Steve Jobs saying, “He’s … obnoxious. This comes from his high standards. He has extremely high standards and he has no patience for people who don’t either share those standards or perform to them” (Cringely 1996). 
+ Jobs added about himself in a later interview, “and I’m also one of these people, I don’t really care about being right. I just care about success” (Cringely 1996). In terms of self-confidence and being comfortable talking about himself and his place in history, Jobs is obviously comfortable. As for Goleman’s other self- awareness traits, self-deprecating humor and realistic self- assessment, it is less clear where one would place Jobs. 
+ In terms of self-confidence John Scully, Job’s predecessor as Apple’s CEO, clearly had to work at projecting the presence that seemed to come naturally to Jobs. “John was very shy in crowds,” according to Barbara Krause, the head of Apple’s PR department during the Scully years (Carlton 1997, p. 32). One way Scully worked on projecting more self-confidence was to eat his lunch in the Apple cafeteria with the rest of the employees. But because many employees didn’t know how to react around him, he was often left to eat his peanut-butter and jelly sandwiches by himself. “We would sit down with him so he didn’t have to be alone,” Krause said (p. 32). 
+ Over time Scully became more comfortable with and actually seemed to enjoy being Apple’s front man. But whatever credibility he earned through his careful study of the high-tech culture he would simultaneously undermine by ostentatiously putting an old cathode-ray tube oscilloscope on his desk. John Warnock, Adobe Systems CEO, said, “I don’t think John understood the industry” (p. 33). 
+ As with Jobs, because much of what has been written about Scully or by Scully has been spun though the press relations mill, it is difficult to measure his real-self assessment or use of self- deprecating humor. 
+ SELF-REGULATION 
+ Anyone capable with succeeding in the high-tech industry would have to exemplify two of Goleman’s hallmarks of Self- Regulation: comfort with ambiguity and openness to change. The third hallmark: trustworthiness and integrity, is more problematic. Jobs’ trustworthiness and integrity will be examined below in the “Empathy” and “Social Skills” sections. 
+ Thus, on first read of Goleman’s definition of Self-Regulation: the ability to control or redirect disruptive impulses and moods; one would not imagine that the man called the “Terrorist” as having these qualities. But as with trustworthiness and integrity, it might be a mistake to judge Jobs’ working or motivation style with “anger issues” (Goleman 2004). 
+ Scully, on the other hand, was clearly a corporate- organization person who learned self-control and self-discipline growing up on Manhattan’s Upper East Side and from his years attending private schools (Carlton 1997, p. 31). 
+ MOTIVATION 
+ Jobs’ capacity to motivate his minions is so legendary that he has his own entry in the popular tech lexicon: 
+ 
+ reality-distortion field n.   An expression used to describe the persuasive ability of managers like Steve Jobs (the term originated at Apple in the 1980s to describe his peculiar charisma). Those close to these managers become passionately committed to possibly insane projects, without regard to the practicality of their implementation or competitive forces in the marketplace (Labalme 2004). 
+ 
+ During the development of the first Macintosh Jobs was upset that the computer took too long to boot or start up. So, according to designer Andy Hertzfeld, Jobs told the engineer that there were going to be millions of people using this computer and if they could shave five more seconds off the boot time that would be like millions of people saving five-second every day, which would be equivalent to fifty lifetimes, thus they’d be saving fifty lives. And so they did shave off those five precious seconds (Cringely 1996). 
+ Larry Tesler, Apple Chief Scientist, who had come over to Apple after heading up the science lab at Xerox PARC said of Jobs that “He wanted you to be great. And he wanted you to create something that was great. And he was going to MAKE YOU do that!” (Cringely 1996). 
+ Scully’s capacity to motivate was, as with his other emotional intelligence traits, based on his capacity to put top people in key positions (Carlton 1997, p. 34). 
+ EMPATHY 
+ Jobs may have his own definition for “Motivation” in the popular tech lexicon, but he clearly does not have one under “Empathy.” Before they founded Apple Computer Jobs got the other future founder of Apple, Steve Wozniak, to work with him on the creation of a follow-up computer arcade game for Pong creator Nolan Bushnell. Jobs told Woz that they’d split the $700 commission if they could design the game with less than 50 chips and $1000 if they could do it with less than 40 chips. Four- sleepless nights later they got the design down to 42 chips and Woz decided that that was as far as they could take it. After some delay Jobs got Woz’s $350 to him and then split for a commune in Oregon. Much later, in 1984, Woz read in a book about the Atari and gaming industry that Jobs claimed to have created the Breakout game, leaving Woz out of the credits, and that Jobs had been paid $5000 for the job. Woz was heartbroken, not because of the money (he would have done it for free) but because his good friend had lied to him. Woz later rationalized Jobs’ deception as a normal part of Jobs believing that if you agree to do a job for $350 you don’t have to change the deal just because the buyer decided to give you more money for it (Linzmayer 2004, p. 3-4). 
+ Thus, there seems to be a rather large disconnect in Jobs’ capacity to feel what others might feel as a result of his actions. This capacity to deceive, while “understandable” as just being part of business, does undermine ones’ credibility and trustworthiness (“Self-Regulation” Hallmarks). 
+ Scully had a decidedly different approach to working with subordinates and others. For example, when PR department head, Barbara Krause was pregnant, he made sure to send her flowers (Carlton 1997, p. 32). 
+ SOCIAL SKILL 
+ “When I wasn’t sure what the word ‘Charisma’ meant I met Steve Jobs and then I knew.” Larry Tesler, Chief Scientist, Apple Computer (Cringely 1996). While Jobs clearly has the more natural gift of persuasion and force of personality (some would say “cult of personality”), both men are quite capable of managing relationships and building support networks to see their visions and plans accomplished. 
+ CONCLUSION 
+ It might be a bit simplistic to say that Jobs was the visionary and Scully the corporate creation, and this cursory look at their careers using Goleman’s five traits leads me wonder if there isn’t a sixth “trait” that seems to have contributed to their rise and fall as leaders of Apple: Timing. 
+ 
+ It was just a little hobby company, like a lot of people do, not thinking anything of it. It wasn’t like we both thought it was going to go a long way. It was like, we’ll both do it for fun. But back then there was a short window in time where one person who could sit down and do some neat good designs could turn them into a huge thing like the Apple ][.   Steve Wozniak (Cringely 1996) 
+ 
+ References 
+ 
+ Carlton, J. (1997).  Apple: The Inside Story of Intrigue, Egomania, and Business Blunders . New York: Times Business/Random House. 
+ Cringely, Robert.  Volume 1: Impressing Their Friends  (Writer) (1996). [DVD]. In B. Cringely (Producer),  Triumph of the Nerds . United States: Ambrose Video Publishing. 
+ Cringely, Robert.  Volume 2: Riding the Bear  (Writer) (1996). [DVD]. In B. Cringely (Producer),  Triumph of the Nerds . United States: Ambrose Video Publishing. 
+ Cringely, Robert.  Volume 3: Great Artists Steal  (Writer) (1996). [DVD]. In B. Cringely (Producer),  Triumph of the Nerds . United States: Ambrose Video Publishing. 
+ Freiberger, P., & Swaine, M. (1999).  Fire in the Valley: The Making of the Personal Computer  (2nd ed.). New York: McGraw-Hill. 
+ Goleman, D. (2004).  What Makes a Leader?  Harvard Business Journal, 82(1), 82. 
+ Labalme, F. (2004).  reality-distortion field . Retrieved 10/02/2004, 2004, from  http://www.comedia.com/hot/jargon-  4.2.3/html/entry/reality-distortion-field.html 
+ Linzmayer, O. W. (2004).  Apple Confidential 2.0: The Definitive History of the World 's Most Colorful Company . San Francisco, California: No Starch Press. 
+ Watson, T. (1943). Retrieved 10/01/2004, 2004, from  http://www.quotationspage.com/quote/33253.html 
+ 
+ LOOKING AT THE TENURES OF STEVE JOBS & JOHN SCULLY AT APPLE COMPUTER 
+ JBB's Academic Portfolio by  Joseph Bruce Bustillos  is licensed under a  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License . 
+ Click Here to Return to Pepperdine EdD 2005-2009 
+ Click Here to Return to Joe Bustillos' Academic Portfolio 
+ Click Here to Return to Joe Bustillos' Resume 
+ Related 
+ Post navigation 
+ Pepperdine MA 2001-2002 
+ From Guitar Man to Soundman & Back 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ About/Contact 
+ 
+ Follow JoeBustillos.com via Email 
+ Enter your email address to follow JoeBustillos.com and receive notifications of new posts by email. 
+ Join 1,043 other followers 
+ Email Address: 
+ Follow 
+ Follow JoeBustillos.com on WordPress.com 
+ Recent Posts 
+ 
+ Video Mondays: Do You Love Me? Boston Dynamics  2021-01-04 
+ Happy New Year!  2021-01-02 
+ Joe Bustillos Media (YouTube): your 2020 Year in Review!  2020-12-29 
+ We’re Here. We Voted. Moving on.  2020-12-28 
+ 
+ Follow me on Twitter 
+ My Tweets  Close Sidebar 
+  Create a website or blog at WordPress.com  
+ 
+ Home 
+ About/Contact 
+ Joe Bustillos' Resume 
+ Joe Bustillos' Academic Portfolio 
+ Joe Bustillos' Teaching Portfolio 
+ JBB's Media Projects 
+ 

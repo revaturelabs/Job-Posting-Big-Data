@@ -1,0 +1,140 @@
+Rortybomb 
+ Skip to content 
+ 
+ About 
+ Portfolio 
+ 
+ <- What can the movie Bridesmaids tell us about the Recession and Keynesian Economics? 
+ What can the LPS Lawsuit Tell Us About Why Investigating Foreclosure Fraud Matters? -> 
+ A Quick Follow-Up on Unemployment by Duration Data: Job-Finding and Dropping Out of the Labor Force 
+ Posted on  May 25, 2011  by  Mike 
+ I want to get a few graphs on this blog before we leave this data set behind, not sure if they'll be of any use. I wrote a post last week about  unemployment by duration  and came to two conclusions. The first was that jobs are much more likely to be matched to the long-term unemployed and less likely to be matched to the short-term unemployed relative to their historical averages. The second was that the difficultly of finding a job has increase for all duration groups, which for the short-term unemployed is an interesting development. 
+ The graph for the second point was kind of ugly. I just thought of a much easier way of visualizing the second point. First, here's a graph of job finding as a function of unemployment duration going into the crisis, from Shimer's 2008 paper  The Probability of Finding a Job. 
+ 
+ At some point in the future we'll go into the CPS data and recreate that through the individual surveys. For now, let's just reorganize the data from the previous post in a similar manner, with the average monthly rate by duration from 2000 through 2007 plotted alongside the average for 2010 through April 2011, with the difference between the two also thrown on the graph: 
+ 
+ You won't get a sense of the shape of the curve as the x-axis isn't in constant units of length, but that's ok since I want to see the comparisons between the two time periods. What's your take? I didn't expect to see short-term unemployed take such a hit in finding a job throughout 2010 and later. 
+ What Can We Learn About Dropping Out of the Labor Force? 
+ One of the unique characteristics of this recession versus previous U.S. recessions is that this is the first time since at least the 1960s where  it is more likely for an unemployed person to drop out of the labor force rather than find a job over a month. 
+ 
+ Any readers here at the cutting edge of theory used in DMP job search models? Because from what I'm seeing the whole idea of dropping out of the labor force from unemployment is completely under-theorized in the literature. The more general idea of reservation wages that are a mixture of observing potential distributions of jobs and enjoying unemployment doesn't seem to fit conceptually with the idea of someone being more likely to quit searching for a job, especially if they still want to work. What could explain it? Are there good papers on this? 
+ This is especially interesting because the probability of dropping out of the labor force has actually declined from the pre-2008 Recession era. See how in the graph above the rate of dropping out of the labor force plummets in the current recession? I've always wondered about that since I first dug into it. And since I have the data open, I might as well see what unemployment duration is driving that drop. 
+ 
+ Interesting. Because the worry about the long-term unemployed dropping out of the labor force - which is happening in serious numbers - is tempered by a relative to historical trend drop in that rate. And that is almost certainly due to the extension of unemployment insurance. It's sad to see that instead of learning, building and expanding unemployment insurance programs they are under attack and likely to be descaled in many states. 
+ Share this: 
+ 
+ Tweet 
+ 
+ 
+ Email 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  Uncategorized . Bookmark the  permalink . 
+ <- What can the movie Bridesmaids tell us about the Recession and Keynesian Economics? 
+ What can the LPS Lawsuit Tell Us About Why Investigating Foreclosure Fraud Matters? -> 
+ 9 Responses to  A Quick Follow-Up on Unemployment by Duration Data: Job-Finding and Dropping Out of the Labor  Force 
+ 
+ 
+ Pingback:  Secondary Sources: Fed Crisis Loans, Long-Term Unemployment, U.S. Default - Real Time Economics - WSJ 
+ 
+ 
+ Martha Zeprun says: 
+ 
+ 
+  May 26, 2011 at 7:22 am 
+ Could the reduction in those that drop out of the labor force have to do with other issues. For example, lets say you have a husband and wife and the wife loses her job. In the past, the husband's wages may have been sufficent to cover the couple's needs sucht that at a certain point the wife drops out. But now, due to a variety of reasons (stock market, higher gas prices, health care costs etc.), the husband's wages are no longer sufficient, such that the wife continues to look for a job. Thus she is not dropping out of the labor force (Note: I am not an economist and this answer may be simplistic. But I thought it could not hurt to make a suggestion.) 
+ Reply 
+ 
+ Main Street Muse  says: 
+ 
+  May 27, 2011 at 6:02 am 
+ What exactly is meant by "dropping out of the labor force"? How do people subsist if they do not work and can no longer qualify for unemployment? Have we seen a corresponding increase in homelessness concurrently with this drop out rate? 
+ It's such a stunning concept - that millions of Americans have lost faith in their ability to find a job - that I'm struggling to understand what it means for the people who've dropped out. 
+ Reply 
+ 
+ chris says: 
+ 
+  May 27, 2011 at 8:13 am 
+ My first hypothesis would be that people aware of the recession are less likely to blame factors particular to themselves (either their own characteristics, or bias against them by employers) and, therefore, more likely to think that their luck could change in the future. But it would be interesting to interview a few hundred of the long-term unemployed -- both those who dropped out and those who didn't -- and see what their motivations are and if there are any significant demographic differences between the groups. 
+ Speaking of demographic differences, I also wonder if there are any significant demographic differences between the current LTE and people who are LTE in an overall healthy employment market. Maybe the latter are more likely to be old, have disabilities, criminal records, etc. but now that the LTE pool is flooded with people who are just out of work because of the recession, the nontraditional LTE types are driving the difference? 
+ Some commentators focus a lot on persistently low-value workers, but ISTM that if they existed, they would have been the LTE even before the crisis; the current phenomenon practically by definition has to consist largely of people who were employable (indeed, employed) in the up phase of the business cycle. 
+ Reply 
+ 
+ mizpat  says: 
+ 
+  May 30, 2011 at 1:59 am 
+ To quote Chris: "Maybe the latter are more likely to be old, have disabilities, criminal records, etc." 
+ This casual statement is more than any recruiter would dare say aloud, and yet it is confirmation that we are seen as detritus when we lose our jobs: "old" is equated here with "disabilities" - which have always faced discrimination - and "criminal records," those who have traditionally been banished from the job market. And Chris is talking about LTE (surely s/he meant LTU, for long-term unemployed) in an "overall healthy employment market." 
+ If we were detritus then, we are absolutely  invisible  now to younger people, many of whom are now recruiters and hiring managers. For us this is not a Great Recession; it's another Great Depression. 
+ And Mike is right: The only reason we don't see more bread lines now is because of unemployment insurance. And when that's gone, we tend to disappear. It's not just homeless rates we should look at, but suicide rates as well. I'll wager both are creeping up. 
+ Reply 
+ 
+ 
+ Pingback:  From Unemployed To Unemployable | Get News, Articles and other Informations 
+ 
+ 
+ Pingback:  When The Unemployed Become 'Effectively Unemployable' » 99dzh 
+ 
+ 
+ Greg Linn "The Famous Greg Linn" says: 
+ 
+ 
+  September 2, 2011 at 1:49 pm 
+ Yep, it's trench warfare out here! Business relationships have been squeezed. Businesses are gone. Folks have suffered. Worn-out assets are now collapsing… Whew, even keeping within guidelines has become "shades of grey". Margins are gone! Financial markets throughout the world shake in their boots. 
+ You had better come up with a "better mouse trap", and quick! 
+ Either you fix yourself, or fix the economy, right? 
+ Reply 
+ 
+ Pingback:  Checking in on the Unemployment by Duration Numbers, Fall 2011 Edition | Rortybomb 
+ 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ About 
+ 
+ 
+ About Mike Konczal 
+ Email Address 
+ Follow on Twitter 
+ Next New Deal Blog 
+ Roosevelt Institute 
+     
+ 
+ 
+ Search for: 
+ 
+ 
+ Archives 
+ 
+ 
+ Archives Select Month April 2012  March 2012  February 2012  January 2012  December 2011  November 2011  October 2011  September 2011  August 2011  July 2011  June 2011  May 2011  April 2011  March 2011  February 2011  January 2011  December 2010  November 2010  October 2010  September 2010  August 2010  July 2010  June 2010  May 2010  April 2010  March 2010  February 2010  January 2010  December 2009  November 2009  October 2009  September 2009  August 2009  July 2009  June 2009  May 2009  April 2009  March 2009  February 2009  January 2009  December 2008  November 2008  October 2008  September 2008  August 2008  July 2008  June 2008  May 2008  April 2008  March 2008  February 2008  January 2008  December 2007  November 2007  October 2007  September 2007 
+  Rortybomb  
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ %d bloggers like this: 

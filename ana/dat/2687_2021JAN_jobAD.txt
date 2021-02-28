@@ -1,0 +1,268 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Java/Kotlin Backend Engineer - Retail Operations 
+ [ 
+ Zalando SE 
+ ](/companies/zalando-se) 
+ Berlin, Germany 
+ 23 November, 2020 
+ Apply More jobs from Zalando SE About Zalando SE 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Java 
+ JavaScript 
+ KUBERNETES 
+ Kotlin 
+ Python 
+ Spring Boot 
+ Maven 
+ gradle 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Books 
+ Career advice 
+ Paid sick days 
+ Team lunches 
+ Health care contributions 
+ Onsite gym 
+ Pension 
+ Pension contributions 
+ Casual dress 
+ Fruit bowl 
+ Training 
+ Diversity dedicated staff 
+ Flexible parent working 
+ Flexible schedules 
+ Bike friendly 
+ Relocation budget 
+ Learning budget 
+ Free coffee 
+ Macbook air/pro 
+ Free breakfast 
+ Gym membership 
+ Health care 
+ Discounts 
+ Extended holiday time 
+ Transport discount 
+ Extra leave days 
+ Trainings 
+ Zalando discounts 
+ External partner discounts 
+ Cantine 
+ 40% zalando shopping discount 
+ Basketball court 
+ Free beverages & snacks 
+ Training budget 
+ Modern campus 
+ Gym 
+ Mentorship programs 
+ Rooftop 
+ Great tech stack 
+ Meetups 
+ New hq 
+ 
+ You will build Zalando’s next inventory replenishment platform 
+ Role overview 
+ As a Backend Engineer in the Retail Operations’ Competence Center In-Season Management, you will join the engineering team in their mission to build Zalando’s next inventory replenishment platform, which will lift the replenishment process to a new level. This new platform will become a major instrument for hundreds of internal and thousands of external users. 
+ Our cross-functional engineering team is mixed between full-stack and backend engineers. This is a very exciting time for us as we are currently laying the foundation of the new system, working closely together with business analysts for optimal data-driven decisions and our product managers who ensure all requirements are user-focused through strong collaboration with our customers. 
+ WHERE YOUR EXPERTISE IS NEEDED 
+ 
+ Design, develop and deploy microservices for our Kubernetes production environment, in collaboration with data engineers, frontend engineers, and direct interaction with users. 
+ Design and development of APIs and event-driven connections between services. 
+ Own the development cycle - from software design, implementation, and testing to deployment and maintenance of the products. 
+ Join a team where Continuous Integration, Code Quality, Code Reviews, Test Coverage, etc. are kept at very high standards. 
+ Share your knowledge by contributing to our growing frontend community and becoming part of our internal guilds. 
+ 
+ WHAT WE’RE LOOKING FOR 
+ 
+ 5+ experience in building server applications with Java/Kotlin. Experience with Maven/Gradle, and modern frameworks like SpringBoot in an agile and commercial setting 
+ Experience in at least one more language in production services (e.g. Python, JavaScript) 
+ Ability to write well formatted, structured and clean code that interacts with databases and UI clients 
+ Experience with CI/CD pipelines, Docker/Kubernetes, or AWS deployment is a plus 
+ 
+ WHAT WE OFFER 
+ 
+ Culture of trust, empowerment and constructive feedback,  open source  commitment, meetups, game nights, 70+ internal technical and fun guilds, knowledge sharing through tech talks, internal tech academy and  blogs , product demos, parties & events 
+ Competitive salary, employee share shop, pension scheme, 40% Zalando shopping discount on most products from the Zalando shop, discounts from external partners,  centrally located offices  , public transport discounts, municipality services, great IT equipment, flexible working times, additional holidays and volunteering time off, free beverages and fruits, diverse sports and health offerings 
+ Extensive onboarding, mentoring and personal development opportunities and an international team of experts 
+ Relocation assistance for internationals, PME family service and parent & child rooms* (*available only in select locations) 
+ 
+ We celebrate diversity and are committed to building teams that represent a variety of backgrounds, perspectives and skills. All employment is decided on the basis of qualifications, merit and business need. 
+ ABOUT ZALANDO 
+ Zalando is Europe’s leading online platform for fashion, connecting customers, brands and partners across 17 markets. We drive digital solutions for fashion, logistics, advertising and research, bringing head-to-toe fashion to more than 32 million active customers through diverse skill-sets, interests and  languages  our teams choose to use. 
+ At Retail Operations, we provide the technological backbone that drives our core retail business on the supplier-facing side. We build state-of-the art B2B & enterprise systems that connect Zalando seamlessly with our suppliers - from onboarding product catalogues to creating the best online multimedia content, and from aligning purchase quantities to scheduling deliveries into our warehouses. To our 2000+ suppliers, we offer easy ways to integrate and collaborate with Zalando - through our supplier portal, standard EDI and web-based REST APIs. To our 1000+ internal users we offer highly automated processes that allow them to focus on everything machines cannot do on their own. To do this, we build state-of-the systems using a variety of technologies, such as HTML/JS, Java, Scala, Kotlin and Python - all as cloud-based microservices. 
+ Please note that all applications must be completed using the online form and submitted in English - we do not accept applications via e-mail. 
+ 
+ [ 
+ Zalando SE 
+ ](/companies/zalando-se) 
+ 
+ 
+ 250+ 
+ 
+ 
+ Berlin, Germany 
+ 
+ 
+ Zalando is Europe’s leading online platform for fashion, connecting customers, brands and partners across 17 markets. We drive digital solutions for fashion, logistics, advertising and research, bringing head-to-toe fashion to more than 23 million active customers through diverse skill-sets, interests and languages our teams choose to use. 🌍. IT ALL STARTED WITH A SHOE... 👠...in a shared apartment/office/warehouse on Berlin’s trendy Torstrasse. Well, a few pairs of shoes actually. Since then we’ve sold a lot more shoes and have grown to be Europe’s largest online fashion retailer or you may call us Europe's most fashionable tech department. Today, we offer fashion-lovers in 15 different countries our wide range of products – from High Street favourites to designer brands, sportswear and kidswear for him and her. A lot has changed since then, but our core values have always remained the same – combining great fashion with the latest technology and exceptional customer service. A PROUD COMMUNITY Over the years, we have built a strong community. We love to share our passions, insights and expertise for technologies and topics we love through 100+ self-organised guilds, internal tech talks, training initiatives, demos, local meet-up events, conferences and more. In addition to encouraging an engaged community, we support you in building your reputation as tech leader - not only among your peers at Zalando but industry-wide. We know that every new technology and methodology we implement involves a learning curve, so our teams are dedicated to help everyone get up to speed on using the tools they need to work successfully. OPEN SOURCE 📢 We're passionate about collaboration and giving back to the community. Check out our open source projects to learn more about the technologies we are contributing to and building. (https://github.com/zalando) 
+ Retail Public Agile Visa Sponsorship Go AWS CI/CD Cats Books Career advice 
+ View 11 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from Zalando SE About Zalando SE 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Java 
+ JavaScript 
+ KUBERNETES 
+ Kotlin 
+ Python 
+ Spring Boot 
+ Maven 
+ gradle 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Books 
+ Career advice 
+ Paid sick days 
+ Team lunches 
+ Health care contributions 
+ Onsite gym 
+ Pension 
+ Pension contributions 
+ Casual dress 
+ Fruit bowl 
+ Training 
+ Diversity dedicated staff 
+ Flexible parent working 
+ Flexible schedules 
+ Bike friendly 
+ Relocation budget 
+ Learning budget 
+ Free coffee 
+ Macbook air/pro 
+ Free breakfast 
+ Gym membership 
+ Health care 
+ Discounts 
+ Extended holiday time 
+ Transport discount 
+ Extra leave days 
+ Trainings 
+ Zalando discounts 
+ External partner discounts 
+ Cantine 
+ 40% zalando shopping discount 
+ Basketball court 
+ Free beverages & snacks 
+ Training budget 
+ Modern campus 
+ Gym 
+ Mentorship programs 
+ Rooftop 
+ Great tech stack 
+ Meetups 
+ New hq 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Backend Engineer (Java / Kotlin) - Supply Chain CompetitiveZalando SEBerlin, Germany 
+ You will build the most important supplier facing tool to plan the delivery of approx. 1 million items per day 
+ aws java kubernetes kafka kotlin rest apis grafana 
+ More Info Apply 
+ Senior Java Engineer - Customer Facing ApplicationsCompetitiveZalando SEBerlin, Germany 
+ Design and implement a high performance API that serves around five-hundred thousand concurrent users 
+ Sponsorship 
+ api aws cassandra elasticsearch java kubernetes redis 
+ More Info Apply 
+ Backend Engineer (Java / Kotlin) - Retail Operations - Supply ChainCompetitiveZalando SEBerlin, Germany 
+ You will be building the most important supplier facing tool to plan the delivery of one million items a day 
+ Sponsorship 
+ aws cloud java 
+ More Info Apply 
+ Java/Kotlin Backend Engineer - Retail Operations 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

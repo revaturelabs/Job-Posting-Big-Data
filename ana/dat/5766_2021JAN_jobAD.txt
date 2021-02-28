@@ -1,0 +1,63 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Grain (W20) 
+ Grain transforms the debit card you already have into a credit card by linking it to a line of credit based on your cash flow. 
+ Software Engineer (Backend) 
+ $130k - $160k • 0.40% - 0.70% 
+ Location 
+ Oakland, CA / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 3+ years 
+ About Grain 
+ Grain replaces credit cards with a safe line of credit attached to the user’s existing debit card. So, we do not issue a card whatsoever. We give ~100M Millennials, Gen Zs and immigrants a line of credit based on their debit card activity that they can use to establish credit history or ease their cash flow. 
+ About the role 
+ Skills:  Node.js, Heroku, Serverless, Amazon Web Services (AWS) 
+ As the 5th employee, you will wear multiple hats as well as having the opportunity to: 
+ 
+ Make a massive impact & influence outcomes  for customers alongside passionate coworkers who believe in the mission. 
+ Make, own, and carry out  decisions related to product and engineering 
+ Talk to customers and collect feedback  to understand their needs, and help drive the prioritization of solutions that have the highest impact. 
+ 
+ About You: 
+ 
+ 5+ years of full-time experience as a Software Engineer 
+ BS in Computer Science or commensurate experience 
+ Architecturally sound and proficient in large scale system design 
+ Deep understanding of the semantics of Node.js (event loop, streams, events, etc) 
+ Experience scaling and optimizing performance of applications to support rapid growth 
+ Experience integrating with external APIs 
+ Experience with background job processing, queues, etc 
+ Strong experience with relational databases (Postgres or otherwise), including schema and query design, implementation, and optimization 
+ Ability to work autonomously while delivering timely results 
+ 
+ Technology 
+ Node.Js Javascript Swift 
+ Other jobs at Grain 
+ Software Engineer (Backend) 
+ fulltime 
+ Oakland, CA / Remote 
+ Backend 
+ $130k - $160k 
+ 0.40% - 0.70% 
+ 3+ years 
+ Technical Support Engineer 
+ fulltime 
+ / Remote 
+ $79k - $86k 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

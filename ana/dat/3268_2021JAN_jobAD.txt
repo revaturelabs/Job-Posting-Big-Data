@@ -1,0 +1,188 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Python Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ PythonWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior/Lead Software Engineer, Messaging Team 
+ [ 
+ Truecaller 
+ ](/companies/truecaller) 
+ Stockholm, Sweden 
+ 27 October, 2020 
+ Apply 
+ More jobs from Truecaller About Truecaller 
+ Salary 
+ 650K - 810K SEK 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Akka 
+ Distributed Systems 
+ Microservices 
+ Play 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Sponsorship available 
+ 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Role overview 
+ We at the Messaging Team  , own everything under the messaging domain at Truecaller - building, transforming, optimizing existing and new features to make messaging more reliable and secure. Currently, we are building a business messaging experience that will help users to communicate with enterprises efficiently. 
+ We are in search of someone who has an interest in system architecture, but a passion for getting things done. Willing to work with smart people and have fun building something great. Your challenge will be to build a scalable and reliable system while facing quickly growing global traffic. You will also be coding new features and have an active role in the definition of the backend architecture; which includes designing microservices and researching new alternatives and technologies together with the platform team. 
+ What we expect: 
+ 
+ 7+ years working experience work with Java, at least 2+ years experience with Scala 
+ Solid experience with microservice architecture and patterns. 
+ Experience working in a complex tech environment 
+ Experience with non-relational databases 
+ Experience with Akka 
+ Good understanding and working experience with high load and low-latency distributed systems 
+ 
+ What you will work on: 
+ 
+ Building new features and have an active role in the definition of the backend architecture. 
+ Effectively break down and scope of that work into workable chunks for 2 or more backend engineers. 
+ Design core backend software components. 
+ Build team cohesion and help them when they are stuck. 
+ Conduct design and code reviews 
+ Analyze and improve efficiency, scalability, and stability of various systems. 
+ 
+ **  Other technologies we use... ** 
+ 
+ Reactive systems 
+ Cassandra 
+ Apache Kafka 
+ Kubernetes 
+ Docker 
+ Redis 
+ Google Cloud Platform 
+ 
+ We offer: 
+ 
+ International team - 30+ nationalities working together! 
+ Competitive salary 
+ Medical insurance 
+ Learning & sharing environment 
+ Flexible working hours 
+ Exciting company parties & team activities – Running team, Geek lunch! 
+ Start the day with fresh fruit and cereals 
+ Stay refreshed: get juice, tea, coffee, and soft drinks 
+ 
+ 
+ [ 
+ Truecaller 
+ ](/companies/truecaller) 
+ 
+ 50-249 
+ 
+ Truecaller was born in 2009, Stockholm, Sweden, with the mission to provide more safe and efficient communication to everyone’s daily life. Today, Truecaller is loved by 200 million daily active users around the world, popular in South Asia, Middle East, Africa! We are the go-to app for Caller ID, spam blocking and payments. Truecaller is a Swedish company founded in 2009 in Stockholm, Sweden by Nami Zarringhalam and Alan Mamedi. The app began when our co-founders were just students who wanted to create a service that would easily identify incoming calls from unknown numbers. We have our strongest presence in South Asia, Middle East, Africa, and HQ in Sweden. We are backed by some of the most prominent investors in the world such as Sequoia Capital, Atomico, and Kleiner Perkins Caufield & Byers. 
+ Technology Late Stage Venture Big Data CI/CD Distributed Systems Golang Pension  sponsorship available 
+ View 6 jobs 
+ Engineers who find a new job through Python Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Truecaller About Truecaller 
+ Salary 
+ 650K - 810K SEK 
+ Contract type 
+ Full time 
+ Sponsorship offered 
+ Technologies & frameworks 
+ 
+ Akka 
+ Distributed Systems 
+ Microservices 
+ Play 
+ Scala 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Pension 
+ Sponsorship available 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Python Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior/Lead Software Engineer, Search Team650K - 810K SEKTruecallerStockholm, Sweden 
+ Changing the way hundreds of millions of people interact with each other every day 🤝 
+ Sponsorship 
+ devops distributed systems java microservices play scala 
+ More Info Apply 
+ Scala Engineer - Senior/Principle - Zalando Tech Logistics CompetitiveZalando SEBerlin, Germany 
+ Senior Scala Engineer working on complex challenges with Zalando's Tech Logistics team. Kotlin/Java/JS helpful 
+ sql akka distributed systems microservices nosql play scala spring restful api 
+ More Info Apply 
+ Scala Engineer - MarketplaceCompetitiveZalando SEBerlin, Germany 
+ Make Zalando the best high quality Marketplace in the Fashion Industry 👕 
+ Sponsorship 
+ aws distributed systems functional programming kubernetes microservices scala 
+ More Info Apply 
+ Senior/Lead Software Engineer, Messaging Team 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Python jobs Django jobs Ansible jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Python articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

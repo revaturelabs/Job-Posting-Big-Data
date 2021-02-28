@@ -1,0 +1,185 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through JavaScript Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ JavaScriptWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Full-Stack Software Developer 
+ [ 
+ Cytera CellWorks 
+ ](/companies/cytera-cellworks) 
+ London, United Kingdom 
+ 28 August, 2020 
+ Apply 
+ More jobs from Cytera CellWorks About Cytera CellWorks 
+ Salary 
+ £35K - 75K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Docker 
+ JavaScript 
+ Node.js 
+ React 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Team lunches 
+ 
+ Our solutions are going to transform the way every biotech works. Join us and help us get there! 
+ Role overview 
+ ABOUT US 
+ You rarely get the chance to change an entire industry. But that's position we find ourselves in. 
+ We're developing a machine that totally automates human cell production  🧬  - one of the most painful but important processes in biology. 
+ Cells are crucial for biotech and pharma 🔬They're used to discover and develop new drugs, AND they enable state-of-the-art cancer treatments where cells are the medicine. Cytera has the potential to impact cure development across the board. 
+ Today, every biotech loses so much time growing cells by hand! With our cell growing machines, for the first time they can hands-off grow and monitor cell batches from the cloud... ☁️ 
+ We've assembled a world-class team to take on this challenge, with ex-Dyson engineers and Nature-published scientists working hand-in-hand. You can learn more about your potential Cytera teammates here: 
+ Team 
+ Cytera is backed by Y Combinator, the most successful startup program in the world which produced companies such as AirBnb, Dropbox, and Ginkgo Bioworks. 
+ SOFTWARE AT CYTERA 
+ Our cloud app is mission-control for our users, and it's where they spend most of their time. Here, they do everything from controlling and monitoring their live cells, to analysing data and planning experiments. This is where we can really delight users with carefully user-tested powerful features 
+ We also use  on-system software  for orchestrating the underlying hardware, moving parts like pumps and imaging systems together to unlock user-facing functionality (PS It's very satisfying to see deployed code making physical things move around!) 
+ THE ROLE 
+ We’re looking for a high-growth software engineer to join our team. This is a fantastic opportunity to develop and learn from experienced colleagues within a high-autonomy environment. 
+ We believe in high-growth candidates autonomy 📈 and you should expect to execute on multi-week developments and attempt to overcome hurdles you encounter, with your colleagues available to advise and collaborate with as you require. 
+ The ideal candidate is someone who who can both quickly iterate to deliver software prototypes, as well as take time to consider well thought-out, scalable software when needed. 
+ Things you could expect to work on: 
+ 
+ Building out the  React-based web app  with user-facing features such as cell workflow design, as well as backend functionality such as notifications and authentication 
+ Implementing  containerized services  that run on the physical machine and coordinate between the hardware and the cloud 
+ Developing  data pipelines  to upload, store and analyse data such as images in  AWS 
+ Solving physical-world challenges involving the hardware, by implementing software algorithms such as autofocus 
+ 
+ Responsibilities: 
+ 
+ Writing software across the tech stack (excluding firmware) 
+ Working with founders and outcomes from user tests, to implement user-facing features 
+ Ideating and collaborating with biology and hardware teams to tackle cross-discipline product challenges 
+ Collaborating on architectural decisions with the other software engineers, as well as input from the firmware team 
+ 
+ Must have: 
+ 
+ Experience developing applications using  Javascript  and  Node (ideally  Typescript ) 
+ Experience developing hybrid mobile applications or web applications using modern web frameworks such as  React 
+ A firm understanding of  Docker  and containerisation 
+ Nice to have:  Python 3 
+ 
+ Benefits: 
+ 
+ Competitive £35,000-£75,000 salary + stock options 💰 
+ Lunch covered daily 🥯 
+ Collaborative team environment with very high potential to learn new skills 📚 
+ 
+ Our solutions are going to transform the way every biotech works. Join us and help us get there! 
+ 
+ [ 
+ Cytera CellWorks 
+ ](/companies/cytera-cellworks) 
+ 
+ 10-49 
+ 
+ You rarely get the chance to change an entire industry 🌍 But that's position we find ourselves in. We're developing a machine that totally automates human cell production - one of the most painful but important processes in biology 🧬 
+ React Technology Seed AWS TYPESCRIPT REACT JS Team Lunches 
+ View 1 job 
+ Engineers who find a new job through JavaScript Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Cytera CellWorks About Cytera CellWorks 
+ Salary 
+ £35K - 75K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ AWS 
+ Docker 
+ JavaScript 
+ Node.js 
+ React 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Team lunches 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through JavaScript Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through JavaScript Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Full Stack Developer CompetitiveMcKinsey & CompanyLondon, United Kingdom 
+ Digital McKinsey brings together the best of McKinsey’s digital capabilities. 
+ angular aws docker javascript kubernetes mongodb node.js react 
+ More Info Apply 
+ Full-stack Software Developer (Blockchain & Web3)$600 - 600 per dayQuazard Financial GamingUnited Kingdom 
+ Are you a Software Developer who breathes Blockchain with experience in trading and a passion for gaming? 
+ Remote 
+ javascript node.js react 
+ More Info Apply 
+ Software ArchitectCompetitiveMcKinsey & CompanyLondon, United Kingdom 
+ Digital McKinsey brings together the best of McKinsey’s digital capabilities to help our clients 
+ angular aws css docker html javascript kubernetes node.js react 
+ More Info Apply 
+ Full-Stack Software Developer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ React jobs Angular jobs NodeJS jobs Typescript jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ React articles Angular articles NodeJS articles Typescript articles ReasonML articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

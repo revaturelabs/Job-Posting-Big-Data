@@ -1,0 +1,127 @@
+
+ Work at a Startup Startup Jobs Software Jobs Remote Jobs Internships How it Works 
+ Log In › 
+ Routable (S17) 
+ We're building the simplest way to send and receive business-to-business payments. If you’re thinking “are they a replacement to Bill.com” then you’re spot on! 
+ Senior Full-Stack Software Engineer 
+ 
+ Location 
+ / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Routable 
+ Routable is simplest way to send and receive business-to-business payments. 
+ ✅ Send payments to vendors with just an email 
+ ✅ Get paid faster and keep track of unpaid invoices 
+ ✅ Automatically update your accounting software of choice 
+ We started Routable due to our personal experiences scaling business payments. 
+ Having built in-house solutions, custom integrations to accounting software, and understanding the importance of payments visibility to entire teams, we decided to devote our time to ensuring that companies can be set up with a solution that works for their finance and accounting needs today and in the future. 
+ About the role 
+ Skills:  Django, Python, React 
+ 🚝 Engineering at Routable 
+ You would work directly with the product, design, and engineering teams to help shape our product and culture. We’re looking for a Full Stack Engineer who excels at creating software in all layers of a web platform, understands databases and SQL, and is passionate about using cutting edge SaaS web-based technologies. Your focus will be to deliver high quality software solutions in a rapidly evolving B2B payments environment. It’s a unique chance to be an advocate for our incredible coding standards, efficiency, and reliability. 
+ 🕵️‍♀️Who we’re looking for: 
+ 
+ You are a highly knowledgeable and experienced Full Stack Engineer 
+ You are excited about building customer-facing features to help bring clarity to the confusing world of B2B payments 
+ You are interested in helping to set direction for the frontend team and play a part in the overall engineering vision 
+ You are comfortable implementing integrations with third-party APIs 
+ You are someone who thinks about testing while building a product 
+ 
+ 💻 Need to have: 
+ 
+ Bachelor’s degree in Computer Science, Software Engineering, Information Technology or the equivalent experience 
+ 5+ years of full-time employment building web applications, preferably with some start-up experience 
+ Demonstrated ability to write robust and reusable components 
+ Expertise building responsive layouts with CSS and HTML 
+ Excellent UX and design sensibilities and a zeal for sweating the details 
+ Experience writing automated unit tests, using unit testing frameworks, and providing mentorship to other team members around unit testing approaches 
+ Experience with Computer Science fundamentals (data representation, data structures, algorithms) 
+ Impeccable communication skills, both written and verbal 
+ Self-awareness, a positive attitude, a sense of humor, and empathy 
+ Experience with continuous integration and deployment automation concepts 
+ Team based development experience using an agile development methodology 
+ Passionate about building great products, innovation and solving complex customer problems. 
+ 
+ ➕ Nice to have: 
+ 
+ Experience with financial, accounting or payments systems 
+ Understanding of payment platforms (ACH, Check, Credit card, etc.) 
+ 2+ years experience with Python and Django 
+ 2+ years of experience with modern frontend technologies and frameworks - React, Redux 
+ 
+ Benefits 
+ 🚀 Remote 
+ 
+ We are a remote friendly culture! 
+ Rather than restrict ourselves to only find talent in one city, we’d rather find the absolute best people regardless of where they live. One amazing benefit to our remote culture, is that it enables our team to enjoy traveling ✈️ more regularly since they can literally work from wherever! 
+ 
+ 🤠 Rendezvous 
+ 
+ To help foster amazing relationships with our coworkers, we meet up quarterly as a whole team in some pretty awesome cities! 
+ In the past we’ve met up in San Diego, Seattle, and Austin. 
+ We’d rather invest money into memorable team events rather than expensive offices. 
+ During our meet-up team time, we love to spend time learning a new skill together, and solving problems. 
+ Most recently this has taken on the form of a bread-making class and defeating an Escape Room. Yeah.. We love to compete together as a team. 
+ 
+ 🧘‍♀️Recharge 
+ 
+ We encourage our team to relax and recharge each weekend. 
+ We’ve all been a part of startups before, and know how important it is to take care of yourself so that you can consistently contribute your best. 
+ Quality downtime enables quality uptime. 
+ Yes, we do have super-humans on the team, but even they need their R&R. 
+ 
+ Some Perks 
+ 🏥 Amazing health insurance 
+ 😁 Dental insurance 
+ 👀 Vision insurance 
+ 📈 Stock options 
+ 🚀 We're a remote team 
+ 📅 Unlimited PTO 
+ Technology 
+ 💻 Fronted stack: React / Redux 
+ ⚙️ Backend stack: Python (Django) 
+ Other jobs at Routable 
+ Principal Software Engineer 
+ fulltime 
+ United States / Remote 
+ Backend 
+ 11+ years 
+ Head of Sales (B2B)  
+ fulltime 
+ United States / Remote 
+ 6+ years 
+ Senior Product Designer 
+ fulltime 
+ / Remote 
+ UI / UX 
+ 6+ years 
+ Senior Full-Stack Software Engineer 
+ fulltime 
+ / Remote 
+ Full Stack 
+ 6+ years 
+ Software QA Manager  
+ fulltime 
+ / Remote 
+ Engineering Manager 
+ 6+ years 
+ Senior Technical Product Manager 
+ fulltime 
+ / Remote 
+ 6+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

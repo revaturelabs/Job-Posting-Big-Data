@@ -1,0 +1,514 @@
+__ 
+ your personal 
+ job radar 
+ Let’s find you some nice jobs! Doing this will make our website smart and your mailbox up-to-date. 
+ email notification push notification 
+ 
+ Name Email Department Select department Academy Business Support Marketing Product Development Product Implementation Recruitment Sales Solutions Engineering Strategy and Propositions Location Select location Amsterdam Atlanta Bangalore Boise Bristol Buenos Aires Cardiff Dubai Frankfurt Hyderabad Johannesburg Krakow London Melbourne Mexico City Princeton Providence Singapore Tokyo Toronto Utrecht Job Function Select function All jobs Backend Business Analyst Client Services Delivery Design / UX DevOps Frontend HR ICT Legal Marketing Mobile Product Owner Project Management QA Recruitment Sales Scrum Master Solution Architect 
+ I agree with the Backbase  privacy statement 
+ Submit job radar 
+ Department Select department Academy Business Support Marketing Product Development Product Implementation Recruitment Sales Solutions Engineering Strategy and Propositions Location Select location Amsterdam Atlanta Bangalore Boise Bristol Buenos Aires Cardiff Dubai Frankfurt Hyderabad Johannesburg Krakow London Melbourne Mexico City Princeton Providence Singapore Tokyo Toronto Utrecht Job Function Select function All jobs Backend Business Analyst Client Services Delivery Design / UX DevOps Frontend HR ICT Legal Marketing Mobile Product Owner Project Management QA Recruitment Sales Scrum Master Solution Architect 
+ Setup push notification Setup push notification Active notifications 
+   
+ __ 
+ 
+ about 
+ locations 
+ departments 
+ [email protected] 
+ all openings 
+ 
+ __ 
+ back 
+ Europe 
+ Netherlands 
+ Amsterdam   Utrecht 
+ Poland 
+ Krakow 
+ United Kingdom 
+ Bristol   Cardiff   London 
+ North America 
+ US 
+ Atlanta   Boise   Princeton 
+ Canada 
+ Toronto 
+ Mexico 
+ Mexico City 
+ Asia 
+ Singapore 
+ Singapore 
+ Middle East 
+ UAE 
+ Dubai 
+ __ 
+ back 
+ [ __ 
+ Academy 
+ Read more ](https://workatbackbase.com/department/academy/) [ __ 
+ Backbase-as-a-service 
+ Read more ](https://workatbackbase.com/department/backbase-as-a-service/) [ __ 
+ Business Support 
+ Read more ](https://workatbackbase.com/department/business-support/) [ __ 
+ Marketing 
+ Read more ](https://workatbackbase.com/department/marketing/) [ __ 
+ Product Development 
+ Read more ](https://workatbackbase.com/department/product-development/) [ __ 
+ Product Implementation 
+ Read more ](https://workatbackbase.com/department/product-implementation-2/) [ __ 
+ Sales 
+ Read more ](https://workatbackbase.com/department/sales/) [ __ 
+ Solutions Engineering 
+ Read more ](https://workatbackbase.com/department/solution-engineering/) [ __ 
+ Strategy & Propositions 
+ Read more ](https://workatbackbase.com/department/strategy-propositions/) 
+ Backbase Careers  __ Jobs  __ Senior Java Backend Developer - Product Development 
+ Senior Java Backend Developer - Product Development 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ job description  department  Amsterdam  application process  similar jobs 
+ [ __](https://telegram.me/share/url?url=https://workatbackbase.com/job/senior-java-backend-developer-product-development/&text=Check out Senior Java Backend Developer  and #8211; Product Development - Backbase Careers) [ __](https://api.whatsapp.com/send?phone=&text=Check out Senior Java Backend Developer  and #8211; Product Development - Backbase Careers | https://workatbackbase.com/job/senior-java-backend-developer-product-development/) 
+ apply now 
+ **check yourself 
+ ** before... 
+ JOB FUNCTIONS 
+ [All jobs](/jobs?search=&location=&depart=subcat=All jobs)  Backend 
+ To develop and deliver a production-ready banking platform across all verticals, therefore, being full stack is a big plus. 
+ 
+ 
+ __You have a solid background in software development including design; 
+ 
+ 
+ __You are able to communicate clearly and confidently across all levels to get buy-ins from technical stakeholders as well as from your team members; 
+ 
+ 
+ __Experience in the banking domain or Fintech products will be considered an advantage; 
+ 
+ 
+ __You have excellent communication skills in English, spoken and written; 
+ 
+ 
+ __You have experience with Java, Spring, Maven, CI and CD; 
+ 
+ 
+ __You have experience with microservices (Netflix OSS is a plus); 
+ 
+ 
+ __Cloud and traditional application servers (WebSphere, JBoss, …); 
+ 
+ 
+ __Knowledgeable of relational databases; 
+ 
+ 
+ __You have experience with non-functionals such as security, performance, scalability etc.; 
+ 
+ 
+ __Being a Full Stack developer is a huge advantage; 
+ 
+ 
+ __You have a solid understanding of Enterprise Integration Patterns. 
+ 
+ 
+ More about this opening 
+ In Backbase, I learn something new every single day. Working on Service SDK is challenging but exciting at the same time. Backbase is definitely a place to be if you want to constantly evolve and grow as a professional. 
+ Allie Ward Senior QA Engineer, UK Hub 
+ I'm a huge fan of diversity at Backbase. I love the freedom and ownership opportunities at work. I'm proud of the new solution that we are building. We had a simple idea and the solution that I've proposed is the one that we are working on. 
+ Hari Vignesh Android Engineer, EMEA Hub 
+ What excites me most about working at Backbase is understanding the diverse needs of our customers and working with the team to solve them within the real-world constraints. 
+ Grace Brady Product Owner, EMEA Hub 
+ Call me crazy but I love my job. I get paid to work on puzzles with my friends, play pool and learn new tech. 
+ Patrick Newcombe Senior Full Stack Engineer, UK Hub 
+ The biggest challenge I overcame with my team was creating an entirely new mobile product from scratch, aligning an entirely new team with people from very different backgrounds and creating a way of working which has the DNA of Backbase in it. 
+ Harneek Singh Senior QA Engineer, EMEA Hub 
+ Bringing a mobile-first approach to an industry with brick and mortar companies is not about the solutions or products you deliver but about that mentor-mentee relationship you develop with them along the way. 
+ Tibor Beke Android Engineer, EMEA Hub 
+ __ 
+ __ 
+ trust me, 
+ it's my job 
+ THE JOB AT BACKBASE 
+ This role is part of a Backbase product team in R&D.; It is a multidisciplinary team of experienced and highly skilled UX designers, software developers, QA engineers, and technical writers. As part of the team, you will contribute to new and existing functionalities, proof of concepts, and technical improvements that will be implemented in the Digital Banking Platform. Your autonomous team is responsible for the entire software development life cycle for the digital banking product suite: from idea to release. We work in Scrum in order to deliver new product increments through short cadences by closely cooperating with other departments as well as customers. You are expected to take ownership of what you build and proactively collaborate with architects, QA engineers and other team members to ensure implementation is done according to our technical vision and best practices. 
+ Backbase provides a modern software solution developed in microservices architecture, ensuring financial institutions can build on the top of cutting-edge technology. As such, many modern principles have been adopted such as continuous integration and delivery. We have also adopted Agile practices that contribute to rapid delivery, with decisions being driven out of the team with autonomy rather than top down. 
+ The underlying technology runs on the best of breed technology available today such as Spring Boot, Netflix OSS, coupled with our own in-house libraries to ensure consistent delivery to a highly regulated banking market. Our technology drives solutions in a variety of ways for customers, from cloud native, globally scaled deployments to on-premise managed application servers, demanding smart thinking and innovative solutions from our people.  apply now 
+ REASONS TO 
+ JOIN BACKBASE 
+ develop yourself 
+ Join one of the knowledge-sharing breakfasts to discover more or come to a guild meeting to share ideas. 
+ a global community 
+ With 60+ nationalities working side-by-side in 9 offices around the world, Backbase is a place where you can work on projects with people from all over the world. 
+ pride and fun 
+ We take pride in our achievements and we love to celebrate them. We host a variety of parties, celebrations, team outings, games nights and office drinks in all our global hubs. 
+ __ 
+ __ 
+ trusted by 
+ leading banks 
+ We leave when our clients are happy. Not a day earlier. This committed way of working has won over a lot of our clients’ hearts. This isn't our first rodeo. 
+ join us to 
+ reach our 
+moonshot 
+ This is the place you need to be… We want to know you and your skills. 
+ Application form 
+ First Name * 
+ Last Name * 
+ Email * 
+ Phone 
+ Resume 
+ Upload from Device 
+ Please select a PDF, DOCX or DOC file. 
+ Cover Letter 
+ Upload from Device 
+ Please select a PDF, DOCX or DOC file. 
+ LinkedIn Profile 
+ Website 
+ I agree with the Backbase  privacy statement  Submit application 
+ Backbase Careers 
+ you build it, 
+ you run IT 
+ PRODUCT DEVELOPMENT 
+ Our code lines translate into developments and features that make banking easier for 100+ million users around the globe. We’re building a product that gives financial institutions digital speed and flexibility, and empowers end-users to fully control their finances on any device, 24/7. 
+ team  challenge 
+ PRODUCT DEVELOPMENT 
+ The pressure to keep our platform safe, secure, adaptable and integrated with hundreds of core systems is a big challenge. That’s why we work in small, cross-functional teams to build capabilities fast and meet the needs of our clients globally. We’re building a spaceship in mid-air, so expect to feel comfortable with being uncomfortable at all times. Your reward: a mark on a product used by millions. 
+ your impact 
+ Your code influences the way millions of people experience banking every day around the world. 
+ latest technology 
+ If we talk frontend - we talk Angular. If we talk backend - it’s Java. Mobile? Kotlin and Swift, of course. 
+ hands-on learning 
+ You’ll constantly need to reinvent yourself to stay relevant. If you are hungry to learn and ready to explore different ways - this is the place to be. 
+ smart heads 
+ You will get to work with the smartest people in the industry. We constantly challenge each other. 
+ it must be true 
+ if   they say it 
+ [email protected] 
+ [ 
+ Breaking engineering stereotypes: Patrick, Fullstack Developer in Cardiff 
+ More about Patrick __ People Meet Patrick ](https://workatbackbase.com/breaking-engineering-stereotypes-patrick-fullstack-developer-in-cardiff/) [ 
+ Q&A with Jose, Product Manager in Amsterdam 
+ More about Jose __ People Meet Jose ](https://workatbackbase.com/meet-jose-product-manager-at-backbase/) [ 
+ Growing future tech talents 
+ More about Sima __ Giving Meet Sima ](https://workatbackbase.com/creating-opportunities-sima/) [ 
+ My first 11 months as a Backbase Mobile Dev 
+ More about Arthur __ Careers Meet Arthur ](https://workatbackbase.com/my-first-11-months-as-a-backbase-mobile-dev/) 
+ Backbase people are much more than their job titles. Just like a family, we bring every part of ourselves to work each day. Meet people who build software that gives financial institutions digital speed and flexibility and empowers millions of end-users every day. 
+ all stories 
+ Take a glance at our technologies 
+ [ Spring ](/jobs?search=&location=&depart=Product Development&subcat=) [ Kotlin ](/jobs?search=&location=&depart=Product Development&subcat=) [ Swift ](/jobs?search=&location=&depart=Product Development&subcat=) [ Google Cloud ](/jobs?search=&location=&depart=Product Development&subcat=) [ AWS ](/jobs?search=&location=&depart=Product Development&subcat=) [ Kubernetes ](/jobs?search=&location=&depart=Product Development&subcat=) [ Docker ](/jobs?search=&location=&depart=Product Development&subcat=) [ Jenkins ](/jobs?search=&location=&depart=Product Development&subcat=) [ Angular ](/jobs?search=&location=&depart=Product Development&subcat=) [ TypeScript ](/jobs?search=&location=&depart=Product Development&subcat=) [ JavaScript ](/jobs?search=&location=&depart=Product Development&subcat=) [ Android ](/jobs?search=&location=&depart=Product Development&subcat=) [ Sketch ](/jobs?search=&location=&depart=Product Development&subcat=) 
+ find your next job 
+ at Backbase 
+ __ 
+ Location 
+ 
+ Amsterdam 20 
+ Atlanta 1 
+ Boise 2 
+ Cardiff 4 
+ Dubai 1 
+ Frankfurt 1 
+ Princeton 1 
+ Providence 1 
+ Singapore 3 
+ 
+ Jobs All jobs __ 
+ No luck finding your job? Setup your personal job radar. 
+ [ 
+ Graduate (Junior) Application Security Engineer 
+ ](https://workatbackbase.com/job/graduate-junior-application-security-engineer-2/) 
+ __Cardiff  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ Millions of people around the world rely on the products… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs) 
+ [ 
+ Mobile QA Engineer 
+ ](https://workatbackbase.com/job/mobile-qa-engineer/) 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ The Backbase Mobile Banking Apps offer banking app solutions to… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs)  QA 
+ [ 
+ Principal Backend Engineer 
+ ](https://workatbackbase.com/job/principal-backend-engineer/) 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ Use your extensive experience and expertise to deliver a platform… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs)  Backend 
+ [ 
+ Senior Java Backend Developer - Product Development 
+ ](https://workatbackbase.com/job/senior-java-backend-developer-product-development/) 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ To develop and deliver a production-ready banking platform across all… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs)  Backend 
+ [ 
+ Product Owner 
+ ](https://workatbackbase.com/job/product-owner-2/) 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ As Product Owner - Onboarding & Origination, you are responsible… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs) [Product Owner](/jobs?search=&location=&depart=&subcat=Product Owner) 
+ Job radar 
+ No luck finding your job? 
+Set up your personal job radar 
+ show all job openings 
+ be the one 
+ we're looking for! 
+ apply now 
+ Senior Java Backend Developer - Product Development 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development) 
+ Backbase Careers 
+ the bicycle capital 
+ of the world 
+ BACKBASE IN AMSTERDAM 
+  __Amsterdam 
+ Where it all began! Two guys, our founder Jouk and his partner, set out on a mission “to make the internet more beautiful”. Fast-forward 16 years, our offices in Amsterdam are home to over 480 people. The Amsterdam HQ is the largest of our offices and boasts an international mix of talented people. Working in software engineering, sales, marketing, academy or business support, we have a great team that’s driving our growth. 
+ Located in Amsterdam-Oost (East), our EMEA HQ offices are a stone’s throw away from the beautiful Tropenmuseum, the Amsterdam Royal Zoo and famous windmill brewery Brouwerij ‘t IJ. Famous for its breathtaking architecture, canals, and over 881,000 bikes, Amsterdam is a city that’s easy to fall in love with. 
+ #international 
+ CULTURE 
+ Our Amsterdam office is home to people from all over the world working in small, lean teams. Loud and busy sometimes but always friendly, helpful, and super fun. We love to celebrate each other’s achievements, share jokes, and our love for food, movies, traveling, and sports. We’re one big and diverse family working towards the same goal. 
+ With graffiti of Marilyn Monroe and Pulp Fiction stars John Travolta, and Samuel L. Jackson looking cool on our walls, you can probably guess that we love entertainment. From games nights and parties to boat rides and Dj gigs - you name it, we have it. 
+ lunch 
+ Free, healthy lunches every day. Plus snacks and drinks. 
+ social 
+ Friday parties every month. Office boat you can use with your team. 
+ health 
+ Discounted gym membership through our corporate fitness plan. 
+ training budget 
+ Specific budget for your personal development. 
+ find your next job 
+ at Backbase 
+ __ 
+ Location 
+ 
+ Amsterdam 65 
+ Atlanta 12 
+ bangalore 1 
+ Boise 8 
+ Buenos Aires 1 
+ Cardiff 16 
+ Dubai 2 
+ Frankfurt 3 
+ Ho-Chi-Minh 1 
+ Hyderabad 1 
+ Krakow 11 
+ Melbourne 3 
+ Mexico City 12 
+ Mumbai 1 
+ Princeton 2 
+ Providence 1 
+ Singapore 6 
+ Tokyo 7 
+ Toronto 6 
+ Utrecht 1 
+ Show all openings 
+ 
+ Jobs All jobs __ 
+ No luck finding your job? Setup your personal job radar. 
+ [ 
+ Principal UX Researcher 
+ ](https://workatbackbase.com/job/principal-ux-researcher/) 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ Lead the User Research Team across the organisation - and… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs) [Design / UX](/jobs?search=&location=&depart=&subcat=Design / UX) 
+ [ 
+ UX Researcher 
+ ](https://workatbackbase.com/job/ux-researcher/) 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ This is an exciting opportunity for a talented UX Researcher… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs) [Design / UX](/jobs?search=&location=&depart=&subcat=Design / UX) 
+ [ 
+ UX Designer - Digital Sales 
+ ](https://workatbackbase.com/job/ux-designer-digital-sales/) 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ As a UX Designer in Digital Sales, you carry multiple… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs) [Design / UX](/jobs?search=&location=&depart=&subcat=Design / UX) 
+ [ 
+ Tech Recruiter - Product Development 
+ ](https://workatbackbase.com/job/tech-recruiter-product-development/) 
+ __Amsterdam   Recruitment 
+ As Backbase is scaling, we're on the lookout for a… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs)  Recruitment 
+ [ 
+ Technical Trainer - Java Developer 
+ ](https://workatbackbase.com/job/technical-trainer-java-developer/) 
+ __Amsterdam   Academy 
+ Backbase is looking for a Java developer who is able… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs)  Backend 
+ Job radar 
+ No luck finding your job? 
+Set up your personal job radar 
+ show all job openings 
+ it must be true 
+ if  they say it 
+ [email protected] 
+ [ 
+ From a refugee to a developer 
+ Backbase & Hack Your FutureHack Your Future and Backbase started their collaboration back in 2018, when the coding school was looking for a new ho… Read more __ ](https://workatbackbase.com/creating-opportunities-story-of-aya-al-abrash/) [ 
+ Anything is possible if you embrace change 
+ I believe that people who embrace change are the ones who will succeed - says Thomas Fuss, Vice President of Technology at Backbase.Located in a… Read more __ ](https://workatbackbase.com/thomas-fuss-anything-is-possible-if-you-embrace-change/) [ 
+ No regrets: Relocating to The Netherlands 
+ Read more __ ](https://workatbackbase.com/relocating-to-the-netherlands-by-william-suane-2/) 
+ We are a passionate,smart bunch. We work really hard to help our clients innovate, and love creating things that have a real impact. Backbase people are much more than their job titles. Just like a family, we bring every part of ourselves to work each day… 
+ all stories 
+ curious 
+ OUR VALUES 
+ We explore new routes. We don’t shy away from being critical of ourselves, our products and our industry. We are open, direct and always questioning the status quo; to keep on learning and keep ourselves and others on their toes. 
+ can do 
+ OUR VALUES 
+ No matter the challenge, we use our creative minds to find ways to make things happen. We are ambitious to be the best in class in the industry. Raising the bar. Pushing each other’s limits to bring out our best. We are determined & pragmatic. No Fluff. Just Stuff. 
+ entrepreneurial 
+ OUR VALUES 
+ We solve hard problems and look for new opportunities for growth. We inspire. We mobilize the right talent to succeed in our mission. We persevere where others would give up. We feel proud when our vision comes true. 
+ craftspeople 
+ OUR VALUES 
+ We are a company of builders, designers, makers, and doers, always open to learn and improve, shaping the future of banking together with our customers. We ask for feedback and constantly seek insights that make us better. 
+ together 
+ OUR VALUES 
+ We are strong. We come from all over the world and embrace diversity. We believe in open dialogue among a small team of people who trust one another, who are focused outside themselves. This way we create shared consciousness and shared authorship of ideas that no single person could have arrived at independently. 
+ __ 
+ __ 
+  __ life_at_backbase  
+   
+   
+   
+ curious 
+ can do 
+ entrepreneurial 
+ craftspeople 
+ together 
+ match your  craft 
+ DEPARTMENTS 
+ Meet the teams and the people who power Backbase. 
+ [ __ 
+ Academy 
+ Read more ](https://workatbackbase.com/department/academy/) [ __ 
+ Backbase-as-a-service 
+ Read more ](https://workatbackbase.com/department/backbase-as-a-service/) [ __ 
+ Business Support 
+ Read more ](https://workatbackbase.com/department/business-support/) [ __ 
+ Marketing 
+ Read more ](https://workatbackbase.com/department/marketing/) [ __ 
+ Product Development 
+ Read more ](https://workatbackbase.com/department/product-development/) [ __ 
+ Product Implementation 
+ Read more ](https://workatbackbase.com/department/product-implementation-2/) [ __ 
+ Sales 
+ Read more ](https://workatbackbase.com/department/sales/) [ __ 
+ Solutions Engineering 
+ Read more ](https://workatbackbase.com/department/solution-engineering/) [ __ 
+ Strategy & Propositions 
+ Read more ](https://workatbackbase.com/department/strategy-propositions/) 
+ be the one 
+ we're looking for! 
+ apply now 
+ Senior Java Backend Developer - Product Development 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development) 
+ you applied 
+ what now? 
+ APPLICATION PROCESS 
+ Your upcoming steps in the hiring journey with us depend on the role that you have applied for, however, this is what you can expect. In the meantime, if you have any questions, please contact us at  [email protected] . 
+ Let 's Connect 
+ Your application just landed on our desk and one of the recruiters will get back to you as soon as possible. 
+ Let 's Meet 
+ Let’s find out how you and Backbase can work together. We’ll call you for an open discussion, so feel free to ask any questions that you might have. 
+ Let’s DeepDive 
+ The next step in your journey is to meet us in person. Our secret sauce is hiring people with different perspectives. Show us your special powers in a case or a technical test. Again, the process differs per role, your Recruiter will tell you all about it. 
+ Welcome to the family! 
+ It’s official – let’s make it happen together! We look forward to shaping the future of banking with you. 
+ recruiter 
+ MEET Deke 
+ be the one 
+ we're looking for! 
+ apply now 
+ Senior Java Backend Developer - Product Development 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development) 
+ find your next job 
+ like Senior Java Backend Developer - Product Development 
+ __ 
+ Location 
+ 
+ Amsterdam 72 
+ Atlanta 12 
+ Bangalore 1 
+ Boise 6 
+ Bristol 10 
+ Buenos Aires 1 
+ Cardiff 16 
+ Dubai 2 
+ Frankfurt 5 
+ Hyderabad 2 
+ Johannesburg 1 
+ Krakow 17 
+ London 3 
+ Melbourne 3 
+ Mexico City 14 
+ Princeton 2 
+ Providence 1 
+ Singapore 10 
+ Tokyo 5 
+ Toronto 9 
+ Utrecht 2 
+ Show all openings 
+ 
+ Jobs All jobs __ 
+ No luck finding your job? Setup your personal job radar. 
+ [ 
+ Senior UX Designer (Business Banking) 
+ ](https://workatbackbase.com/job/senior-ux-designer-business-banking/) 
+ Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ Create beautiful, interactive, validated and user-tested experiences within Backbase’s Business… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs) [Design / UX](/jobs?search=&location=&depart=&subcat=Design / UX) 
+ [ 
+ Senior Technical Writer 
+ ](https://workatbackbase.com/job/senior-technical-writer/) 
+ Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ Write the documentation so system integrators and developers can adopt,… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs) 
+ [ 
+ Principal Backend Developer (IAM) 
+ ](https://workatbackbase.com/job/principal-backend-developer-iam-2/) 
+ Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ You will join the team working on the core of… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs)  Backend 
+ [ 
+ Senior iOS Developer 
+ ](https://workatbackbase.com/job/senior-ios-developer-2/) 
+ Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ Extend and enrich our iOS reference banking app which is… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs)  Mobile 
+ [ 
+ Principal UX Researcher 
+ ](https://workatbackbase.com/job/principal-ux-researcher/) 
+ Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development&subcat=) 
+ Lead the User Research Team across the organisation - and… 
+ Read more 
+ [All jobs](/jobs?search=&location=&depart=&subcat=All jobs) [Design / UX](/jobs?search=&location=&depart=&subcat=Design / UX) 
+ Job radar 
+ No luck finding your job? 
+Set up your personal job radar 
+ [show all job openings](/jobs?search=&location=Amsterdam&depart=Product Development&subcat=) 
+ be the one 
+ we're looking for! 
+ apply now 
+ Senior Java Backend Developer - Product Development 
+ __Amsterdam  [Product Development](/jobs?search=&location=&depart=Product Development) 
+   
+  __    __    __        __    __ 
+ Privacy Policy   Terms and Legal   Contact 
+ (C) Backbase | All Rights Reserved. 
+ Cookies on Backbase Careers 
+ Backbase uses cookies and related technologies on workatbackbase.com for statistical, preferences and marketing purposes. Google Analytics cookies are anonymized and third-party social media sites may also place cookies that may track your internet behavior. You can adapt your cookie preferences by clicking 'Change options' below. More information on the use of cookies and related technologies on workatbackbase.com may be found in our Privacy and Cookie Policy. By clicking 'Accept' you accept the use of the relevant cookies as described in our  Backbase Privacy and Cookie policy . 
+ Necessary 
+ Necessary cookies help make a website usable by enabling basic functions like page navigation and access to secure areas of the website. The website cannot function properly without these cookies. 
+ Preferences 
+ Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in. 
+ Statistics 
+ Statistic cookies help website owners to understand how visitors interact with websites by collecting and reporting information anonymously. 
+ Marketing 
+ Marketing cookies are used to track visitors across websites. The intention is to display ads that are relevant and engaging for the individual user and thereby more valuable for publishers and third party advertisers. 
+ Change options Accept 

@@ -1,0 +1,172 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Software Engineer, DABL Team 
+ [ 
+ Digital Asset 
+ ](/companies/digital-asset) 
+ New York, NY, US 
+ 21 September, 2020 
+ Apply 
+ More jobs from Digital Asset About Digital Asset 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ DAML 
+ KUBERNETES 
+ Python 
+ React 
+ Scala 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Generous pto 
+ Full healthcare coverage 
+ Stock options 
+ Pension 
+ Parental leave 
+ 401k 
+ Competitive salary 
+ 
+ Build DABL - Digital Asset's Big Ledger as part of a cross functional team with lots of Haskell experience 
+ Role overview 
+ Digital Asset is a leading provider of distributed ledger technology (DLT) that solves real-world business challenges. We combine deep industry expertise with scalable technology, including a distributed ledger platform and an intuitive smart contract language originally developed by Digital Asset, called DAML. Digital Asset enables financial institutions and organizations across a variety of industries to bring efficient, modern and scalable DLT systems into production. 
+ We work with some of the world’s largest companies, to build scalable and flexible systems that streamline business operations. Digital Asset is a global company with offices in New York, London, Budapest, Zurich, Hong Kong, and Sydney. 
+ As we grow our team, we will maintain the dynamic, collaborative and pragmatic way of working that has grounded our efforts from the beginning. If you seek to develop solutions others are yet to contemplate, this opportunity may be right for you. 
+ DABL (www.projectdabl.com) is a leading-edge product that allows customers to build multi-party applications with DAML without the overhead of developing back-end environments. This allows our customers to get to market quicker without being an expert in DLT and related technologies, such as cryptography, security, and messaging infrastructure. As part of the DABL team, you will be building the infrastructure and innovative tools that bring DAML to new markets and use cases. 
+ 
+ Ideally 4+ years of experience in an innovation or new technology development environment 
+ Experience rapidly building products on small, dynamic teams 
+ Demonstrated success delivering projects from concept to product 
+ Curiosity, experimental bias, and enthusiasm for continuous learning 
+ Polyglot with excellent programming skills 
+ Strong programming fundamentals (data structures and algorithms) 
+ Excels when faced with ambiguity and change 
+ Courage of convictions balanced with a high degree of humility. Embraces constructive feedback and is resilient. 
+ BS or MS in computer science, or related discipline. 
+ 
+ 
+ [ 
+ Digital Asset 
+ ](/companies/digital-asset) 
+ 
+ 
+ 50-249 
+ 
+ 
+ New York, NY, US 
+ 
+ 
+ Digital Asset is on a mission to create the global economic network of seamlessly interconnected businesses. By building a state-of-the-art platform and developer tools and leveraging the best modern infrastructure providers, we can change how businesses interact. Ambitious teams — from startups to the enterprise — are joining the network to build fundamentally new applications that span industries. The changing nature of business Businesses are more interconnected than ever before, and current technologies enable data replication but not shared processing. Inaccessible assets, undifferentiated replication, and incompatible APIs lead to duplicated efforts and siloed infrastructure. There is a better way. Digital Asset’s global economic network enables teams to get to market faster, focus on their core value, and unleash web-paced innovation for all industries. Backed by global innovation leaders Digital Asset is backed by 17 strategic investors, including leading financial and technology companies that are uniquely positioned to help drive the adoption of Digital Asset’s developer tools and DLT solutions on a global scale. 
+ Java C++ JavaScript Technology Early Stage Venture distributed ledger technology DAML Generous PTO Full Healthcare Coverage 
+ View 14 jobs 
+ Engineers who find a new job through WorksHub average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Digital Asset About Digital Asset 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ DAML 
+ KUBERNETES 
+ Python 
+ React 
+ Scala 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Generous pto 
+ Full healthcare coverage 
+ Stock options 
+ Pension 
+ Parental leave 
+ 401k 
+ Competitive salary 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through WorksHub average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Back-end Engineer$60K - 100K + Equityx.aiUnited States of America 
+ Help build artificial intelligence super-powered productivity software! 
+ Remote 
+ aws docker javascript node.js python scala typescript api integrations 
+ More Info Apply 
+ Data Scientist IICompetitiveMediaMathNew York, NY, US 
+ NLP, ML, AI 
+ python scala scikit-learn tensorflow 
+ More Info Apply 
+ Distributed Systems Engineer (Go)CompetitiveDigital AssetNew York, NY, US 
+ Develop distributed ledger technology with Go + Kubernetes 
+ go docker haskell kubernetes scala 
+ More Info Apply 
+ Software Engineer, DABL Team 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

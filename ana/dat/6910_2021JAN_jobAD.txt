@@ -1,0 +1,252 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through WorksHub average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ WorksHub 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ Haskell Jobs 
+ Browse jobs for developers working across a wide range of technologies 
+ 
+ Show filters 
+ We found 25 jobs matching 'Haskell Jobs' 
+ Software Engineer - DAML Application RuntimeDigital Asset, New York, NY, US 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ scala clojure haskell java kotlin 
+ This team is responsible for all software and tooling used in the development of Ledger client applications. 
+ More Info Apply 
+ Software EngineerScarf, United States of America 
+ Competitive 
+ Full time 
+ 1-9 Staff 
+ haskell web development amazon aws typescript/javascript 
+ Help open-source developers by building cutting edge software distribution tools that put maintainers first 
+ More Info Apply 
+ Remote 
+ Software Engineer - DAML Application RuntimeDigital Asset, London, United Kingdom 
+ £70K - 125K 
+ Full time 
+ 50-249 Staff 
+ scala clojure haskell java kotlin 
+ This team is responsible for all software and tooling used in the development of Ledger client applications. 
+ More Info Apply 
+ Functional Developer for Smart Contracts (No Smart Contract Experience required)EMURGO, United States of America 
+ Competitive 
+ Full time 
+ 10-49 Staff 
+ scala haskell 
+ Join a team using functional programming to build the future of Blockchain in Cardano. 
+ More Info Apply 
+ Remote 
+ Senior Protocol EngineerO(1) Labs, United States of America 
+ $140K - 160K + Equity 
+ Full time 
+ 10-49 Staff 
+ haskell ocaml blockchain cryptography cryptocurrency functional programming smart contracts 
+ Build a protocol that brings formal verification to the blockchain 
+ More Info Apply 
+ Remote 
+ Distributed Systems Engineer (Go)Digital Asset, New York, NY, US 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ scala haskell docker go kubernetes 
+ Develop distributed ledger technology with Go + Kubernetes 
+ More Info Apply 
+ Functional Software DeveloperMoixa, London, United Kingdom 
+ £50K - 75K + Equity 
+ Full time 
+ 50-249 Staff 
+ haskell rust linux aws functional programming typescript aws lambda 
+ Distributed smart energy technology. 
+ More Info Apply 
+ Haskell Developer Scrive, Sweden 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ haskell elm javascript 
+ “Come help us build the digitisation platform powering successful businesses across Europe.” 
+ More Info Apply 
+ Remote 
+ Functional Compiler EngineerMetastate, Switzerland 
+ Competitive 
+ Full time 
+ 10-49 Staff 
+ haskell agda compiler compiler design compilers functional programming idris open source coq agda2 compiler engineering 
+ Smart contracts are not secure enough for finance, law, or systems engineering. 
+ More Info Apply 
+ Remote 
+ Join our newsletter 
+ Join over 111,000 others and get access to exclusive content, job opportunities and more! 
+ your email address 
+ Subscribe 
+ Thanks for signing up. 
+We'll see you soon 👋 
+ Type Theorist & Formal Verification Engineer Metastate, Switzerland 
+ Competitive 
+ Full time 
+ 10-49 Staff 
+ haskell agda dependent types formal methods idris open source formal verification coq agda2 formal language theory type theory 
+ Smart contracts are not secure enough for finance, law, or systems engineering. 
+ More Info Apply 
+ Remote 
+ Zero-Knowledge Cryptographer & Protocol DeveloperMetastate, Switzerland 
+ Competitive 
+ Full time 
+ 10-49 Staff 
+ haskell ocaml rust agda cryptography idris mathematics coq applied cryptography discrete mathematics zero-knowledge proofs 
+ Apply the latest zero-knowledge cryptographic protocols to concrete problems in the blockchain space. 
+ More Info Apply 
+ Remote 
+ Scala Backend DeveloperNarrative, United States of America 
+ $80K - 150K + Equity 
+ Full time 
+ 10-49 Staff 
+ scala haskell aws 
+ Join an experienced team that is shaping the future of data. 
+ More Info Apply 
+ Remote 
+ Functional ProgrammerChordify, Utrecht, Netherlands 
+ Competitive 
+ Full time 
+ 10-49 Staff 
+ haskell functional programming git mysql servant 
+ A pro-active, independent and creative functional programmer who wants to improve the Chordify back-end. 
+ More Info Apply 
+ Solutions EngineerDigital Asset, New York, NY, US 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ scala haskell java daml distributed ledgers agile 
+ Digital Asset is on a mission to create the global economic network of seamlessly interconnected businesses. 
+ More Info Apply 
+ Software Engineer - DAML Application RuntimeDigital Asset, Zürich, Switzerland 
+ 100K - 160K CHF 
+ Full time 
+ 50-249 Staff 
+ scala clojure haskell java kotlin 
+ This team is responsible for all software and tooling used in the development of Ledger client applications. 
+ More Info Apply 
+ Rust and Haskell Software DeveloperSerokell, Estonia 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ haskell rust http 
+ Contribute to the performance-critical subsystems of our customers’ systems. 
+ More Info Apply 
+ Remote 
+ Experienced Haskell Developer Stack Builders, United States of America 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ haskell 
+ (Remote - Full Time) 
+ More Info Apply 
+ Remote 
+ HaskellerTontineTrust, Ireland 
+ Competitive 
+ Full time 
+ 10-49 Staff 
+ haskell 
+ Help build something seriously important for the world with chilled people 
+ More Info Apply 
+ Remote 
+ Senior Scala Data EngineerSignal Vine, Inc., United States of America 
+ Competitive 
+ Full time 
+ 10-49 Staff 
+ scala haskell api data engineering elasticsearch kafka 
+ Sr. dev working on building data pipelines for our microservice based SaaS platform 
+ More Info Apply 
+ Remote 
+ Software EngineerDigital Asset, Budapest, Hungary 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ scala haskell python java daml distributed ledgers 
+ Digital Asset is on a mission to create the global economic network of seamlessly interconnected businesses. 
+ More Info Apply 
+ Formal Methods EngineerDigital Asset, Zurich, Switzerland 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ scala haskell java javascript daml 
+ Digital Asset is on a mission to create the global economic network of seamlessly interconnected businesses. 
+ More Info Apply 
+ Software Engineer Digital Asset, Zurich, Switzerland 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ scala haskell python java daml distributed ledgers 
+ Digital Asset is on a mission to create the global economic network of seamlessly interconnected businesses. 
+ More Info Apply 
+ Software EngineerDigital Asset, Zürich, Switzerland 
+ Competitive 
+ Full time 
+ 50-249 Staff 
+ scala haskell python daml distributed ledgers 
+ Digital Asset is on a mission to create the global economic network of seamlessly interconnected businesses. 
+ More Info Apply 
+ Haskell DeveloperTypeable, Russian Federation 
+ Competitive 
+ Full time 
+ 10-49 Staff 
+ haskell rust 
+ Join us to be a contributor in a technology innovation movement and be on the frontier where Business meets FP 
+ More Info Apply 
+ Remote 
+ 
+ 1 
+ 2 
+ 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ Highest in-demand talent 
+ Hire Software Engineers Hire Java Developers Hire Remote Developers Hire Blockchain Developers Hire Data Scientists Hire Functional Programmers Hire Javascript Developers Hire Python Developers Hire Golang Developers 
+ Locations 
+ Hire developers in NYC Hire developers in London Hire developers in San Francisco Hire developers in Berlin 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ Employers 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

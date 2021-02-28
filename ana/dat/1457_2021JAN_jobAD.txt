@@ -1,0 +1,166 @@
+Teknowledgies 
+ Teknowledgies, LLC, is a Silicon Valley-based consulting service. www.teknowledgies.com 
+ Skip to content 
+ 
+ Home 
+ About 
+ 
+ <- What We Do 
+ MYaaS Is Now Online -> 
+ Bet a Beer – and Maybe Your Career – on HyEx 
+ Posted on  February 18, 2013  by  teknowledgies 
+ I just read yet another so-called white paper touting the advantages of an OpEx-centric approach to datacenter services. The message is that you have to be an idiot if you actually  buy  IT infrastructure rather than rent it. It further stated that you can save loads of money and have fewer headaches with an OpEx expense versus a CapEx investment. 
+ Is OpEx really better? The answer… it depends. 
+ If your company is small, growing, and wants to maximize cash flow, then OpEx is your likely answer. In this specific case, it will be more advantageous to lease, e.g., lease an email server from GoDaddy.com rather than buy a Proliant server with MS Exchange and manage it day-to-day. 
+ If your company’s exit strategy is ultimately to be purchased, OpEx again is your likely answer. Your company doesn’t want to saddle its books and salability with expensive, obsolete-the-second-you-bought-it hardware. 
+ So when is a CapEx investment strategy the best way to go? Honestly, most of the time. If your firm is an established, profitable entity and you’re on a  Built to Last  [i]  (vs. built to flip) trajectory, you should be CapEx-focused. Purchasing a piece of capital equipment outright is usually better if 1) you keep it and use it over a several year period and/or 2) you qualify for a one-time capital full-depreciation of a capital asset (as described in Section 179 of the IRS tax code). 
+ How about a real life comparison—leasing a car vs. buying a car. If like me, you like to buy cool cars and then drive them into the ground, you would write a check, i.e., CapEx, for the car, depreciate it, and write off the operating expenses (gas, repairs, etc.). If you are like my better half, you would lease, i.e., OpEx, a more modest car and write off the lease payments and mileage expenses. In the end, our strategies work best for each of us. 
+ Is there a better alternative out there? HyEx  is a term I have coined for using a combination of CapEx and OpEx. I strongly suggest that most companies which invest in IT infrastructure seriously consider using a combination of CapEx investment and OpEx expense or…  HyEx. 
+ Here is an example. If your company is a mid-sized to large-sized company and your data centers run out of capacity during peak transaction periods at month-end or end-of-year, you may want to lease extra capacity to allow for “bursting” during those times. (Rumor has it that Cisco’s Intelligent Automation for Cloud will one day let set up a menu-driven burst-over process with public cloud providers such as Amazon (EC2), Rackspace, Savvis, and others, based on price, response time, or other required value. To me, that is the epitome of a hybrid cloud. 
+ So there you have it. The next time someone tells you that their product is better because it eliminates the evil CapEx cost, ask that person to do a TCO including tax advantages, the time value of money and other factors. Then just for fun,  bet him or her a beer  you can prove them wrong – you will win every time with  HyEx  in your back pocket. 
+ 
+ [i] Jim Collins wrote an excellent book that highlighted the values of companies that were built for the long-term, companies like HP, Disney, and Marriott. More information can be found at this site:  http://www.jimcollins.com/article_topics/articles/building-companies.html 
+ Share this: 
+ 
+ Twitter 
+ Facebook 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ About teknowledgies 
+ Teknowledgies, LLC, is a Silicon Valley-based consulting service. It was founded by Kim Lain and Tom Doherty who, collectively have over four decades of experience and expertise to offer. Our goal is to provide exceptional business consulting services to companies of all types and sizes. 
+  View all posts by teknowledgies ->  
+ This entry was posted in  Uncategorized  and tagged  Teknowledgies . Bookmark the  permalink . 
+ <- What We Do 
+ MYaaS Is Now Online -> 
+ Leave a Reply  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ 
+ 
+ Search for: 
+ 
+ 
+ Archives 
+ 
+ July 2017 
+ February 2013 
+ January 2013 
+ 
+ 
+ 
+ Meta 
+ 
+ Register 
+ Log in 
+ 
+ 
+ 
+ Recent Posts 
+ 
+ Scaling to $1 Billion – Backoffice Basics 
+ Cool Stuff! Listen While You Work! 
+ MYaaS Is Now Online 
+ Bet a Beer – and Maybe Your Career – on HyEx 
+ What We Do 
+ 
+ 
+ 
+ Calendar 
+ 
+ 
+ 
+ 
+ 
+ February 2013 M 
+ T 
+ W 
+ T 
+ F 
+ S 
+ S 
+ 
+ 
+ 
+ 
+ 1 
+ 2 
+ 3 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4 
+ 5 
+ 6 
+ 7 
+ 8 
+ 9 
+ 10 
+ 
+ 
+ 11 
+ 12 
+ 13 
+ 14 
+ 15 
+ 16 
+ 17 
+ 
+ 
+ 18 
+ 19 
+ 20 
+ 21 
+ 22 
+ 23 
+ 24 
+ 
+ 
+ 25 
+ 26 
+ 27 
+ 28 
+ 
+ 
+ 
+ 
+ 
+ 
+ « Jan   Jul » 
+ 
+ 
+ Like Us On Facebook 
+ 
+ 
+ 
+ Like Us On Facebook 
+ 
+ 
+ 
+ * [RSS - Posts](https://teknowledgies.wordpress.com/feed/ "Subscribe to Posts")
+ 
+ 
+ RSS - Comments 
+ 
+ 
+ 
+  Teknowledgies  
+ Blog at WordPress.com. 
+ %d bloggers like this: 

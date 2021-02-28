@@ -1,0 +1,81 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Repl.it (W18) 
+ Collaborative in-browser IDE 
+ Site Reliability Engineer 
+ 
+ Location 
+ San Francisco / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ 6+ years 
+ About Repl.it 
+ We're building a first of its kind developer platform that can be used to learn and practice programming, build and deploy applications, and share and discuss with a community of peers. We realize this is an ambitious plan, but we think it's high time someone built this. There is no good reason for the insane fragmentation in programming tools today -- someone learning to code needs to learn at least ten disjointed tools and platforms to do anything interesting with programming. 
+ About the role 
+ Skills:  Go, JavaScript, Kubernetes, TypeScript, Google Cloud, Docker, PostgreSQL 
+ Millions of people come to Repl.it to learn how to code, prototype ideas, and build applications. When we go down, it's not a mere annoyance; it's whether thousands of students learn to code that day and whether a developer's apps are up. As our founding SRE, not only will you have a real tangible effect on people's lives, you get to influence our engineering culture and how we build and scale services, and, in the future, grow and lead the SRE team. 
+ Roles & Responsibilities 
+ 
+ Build tools to reduce ops toil & babysitting 
+ Keep Repl.it up and fast 
+ Influence architecture decisions to take into account availability, performance, scalability, and fault-tolerance. 
+ Identify trouble spots & single points of failure and delegate fixing to system owners 
+ Own and evolve our incident response practices 
+ 
+ Key Qualifications 
+ 
+ 5+ years experience 
+ Systems programming experience (Go, Rust, or C/C++) 
+ Experience with profiling and performance optimizations 
+ Comfortable debugging production systems (instrumentation, monitoring, etc) 
+ Experience working on large projects at scale 
+ Self-directed and comfortable working autonomously 
+ 
+ Bonus Points 
+ 
+ Appreciation for simplicity and pragmatism 
+ Experience building Platform/Infrastructure/Runtime as a Service 
+ Experience with distributed systems, containers, and/or filesystems 
+ 
+ Job Location: 
+ SF or Remote (currently only open to +/-4 hours from pacific time zone) 
+ About Us: 
+ We're on a mission to make programming more accessible by building the best, simplest, and fastest coding environment. Replit is a place to not only learn and practice programming but also to collaborate and ship applications. It's exciting that we've been able to build a community of millions of users with a small team of 18 and investment from a16z, Paul Graham, and other phenomenal investors. 
+ Ready to build the world's largest developer platform? 
+ Technology 
+ Most of our time is spent building two core areas of our technology -- the IDE and the container infrastructure. We created the world's  fastest and first server-rendered IDE . The IDE has a small functional core -- borrowing ideas from Redux -- everything is a plugin. This architecture allows us to build an adaptable IDE where it starts very simple and grows with the user as they learn more and require more features -- this is crucial for new programmers. 
+ As for our infrastructure, we're building a new kind of  computing platform : it's Serverless in that users don't have to care about the underlying resources, but it's not Serverless in that it's stateful. This way it's interactive, and since we're focused on newcomers, it's a much more natural programming model. We're also building a filesystem abstraction that allows your working directory to travel with your container between development and production and as it goes offline and online -- a persistent and versioned working directory. 
+ Other jobs at Repl.it 
+ Customer Success & Teacher Community 
+ fulltime 
+ / Remote 
+ 3+ years 
+ Site Reliability Engineer 
+ fulltime 
+ San Francisco / Remote 
+ Backend 
+ 6+ years 
+ Senior Coding Interface Designer  
+ fulltime 
+ San Francisco, CA / Remote 
+ Frontend 
+ 6+ years 
+ Growth Product Manager 
+ fulltime 
+ San Francisco / Remote 
+ 3+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

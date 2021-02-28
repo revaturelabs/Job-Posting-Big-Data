@@ -1,0 +1,94 @@
+Workopolis Logo 
+ Job Title, Keywords 
+ City, Province 
+ Menu 
+ 
+ Browse Jobs 
+ Advanced Job Search 
+ 
+ 
+ Français 
+ 
+ 
+ 
+ Post a job 
+ Senior Front-End Web Developer 
+ Channel 1 Media Solutions Inc. 
+ __Toronto, ON 
+ Apply Now 
+ About Our Client 
+Channel 1 Media (www.channel1media.com) is an award-winning digital marketing agency that specializes in creating exciting interactive online sales tools for over 200 sports teams and venues within the Professional Sports Industry. We are looking for an experienced and talented Front-End Web Developer - skilled in bridging the art of design with the art of programming - to join our growing team! You will be responsible to accurately translate UI/UX design to actual code, resulting in engaging products for our clients. You will work closely with designers to bridge the gap between graphical design and technical implementation, to define how the applications look and operate. Your portfolio must be very strong, showcasing your best web & mobile projects. If you are a passionate individual who meets all the the criteria above AND live in the Greater Toronto Area, please apply! 
+ Responsibilities 
+ 
+ Develop cross-platform desktop and mobile responsive websites using both WordPress and other development tools 
+ Accurately translate designs from the creative department using standards and accessibility compliant markup 
+ Build reusable code and libraries for future use 
+ Debug UI on all browsers and platforms including mobile 
+ Assure that all user input is validated before submitting to back-end 
+ Operate independently or as a member of a team as appropriate for individual projects 
+ 
+ Education 
+ 
+ Bachelor's Degree, computer science or related field 
+ College Diploma, computer science or related field 
+ Associate's Degree, computer science or related field 
+ 
+ Qualifications 
+ 
+ Minimum 5 years of experience with WordPress, web markup, including HTML5, CSS3, and JavaScript including jQuery 
+ Proficient understanding of the inner workings of WordPress, cross-browser compatibility issues, and ways to work around them 
+ Proficient understanding of code versioning tools, such as Git 
+ Understanding of client-side scripting and JavaScript frameworks like Vue.js or React.js 
+ Some knowledge of at least one Back-End programming language such as C# / ASP.NET, Java, PHP or Node.js 
+ Experience in optimizing page rendering/performance, animation, deeper level JavaScript 
+ Experience with Asana or other project management tools 
+ Knowledgeable in Continuous Integrations and Deployment 
+ Basic understanding of server-side CSS pre-processing platforms, such as LESS and SASS 
+ Proficient understanding of Webpack or similar build tools 
+ Experience with connecting to API’s and integrations with other services 
+ Experience with 2D/3D rendering APIs (Canvas/WebGL) 
+ 
+ Skills 
+ 
+ Must work from our office location in Toronto, Canada 
+ Great attention to detail 
+ Work well in a team 
+ Perform well under stress 
+ Ability to meet deadlines 
+ Excellent verbal and written communication skills 
+ 
+ Compensation 
+$85,000++ per year 
+ Position Type 
+Full-Time 
+ Benefits 
+ 
+ Fully paid extended medical/dental plan 
+ Tuesday lunches 
+ Fully stocked kitchens 
+ Access to full bathrooms, including showers 
+ Semi-annual office parties 
+ Subsidized parking 
+ 
+ Apply Now 
+ For Job Seekers 
+ 
+ Find a Job 
+ Advanced Job Search 
+   New  Privacy 
+ Privacy Center 
+ Terms & Conditions 
+ Security 
+ 
+ Workopolis 
+ 
+ About us 
+ Contact Us 
+ Site Map 
+ 
+ (C) 2021 WP Online Holdings Limited - an Indeed partner. All rights reserved. 
+ 
+ 
+ 
+ 
+ 

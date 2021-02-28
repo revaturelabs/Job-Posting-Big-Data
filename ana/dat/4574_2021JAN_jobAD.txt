@@ -1,0 +1,219 @@
+Scientist Sees Squirrel 
+ Seldom original. Often wrong. Occasionally interesting. 
+ Menu Skip to content 
+ 
+ Home 
+ About 
+ Comment moderation 
+ The Scientist's Guide to Writing 
+ Charles Darwin’s Barnacle 
+ 
+ 
+ Asking for feedback on job applications: attitudes and practices 
+ 3 Replies 
+ Image: Feedback © Alan Levine  CC BY 2.0 
+ This post is jointly written by Steve Heard and Jacquelyn Gill, and appears in addition on Jacquelyn’s blog   The Contemplative Mammoth 
+ Early this summer, we asked for your experience and your attitudes about the practice of candidates’ asking for feedback on their (unsuccessful) job applications (with respect to university/college academic jobs).  We polled both job candidates and search committee members , and here we’ll report the results and give you some of our thoughts. We also hope you’ll leave your own thoughts and share your experiences in the Replies. 
+ (1) It’s hard to write a poll 
+ The first thing we realized is that it’s hard to write a poll. Yes, I can hear every social scientist ever born rolling their eyes;  of course it is  , they’re saying with exasperated sighs. Some of our questions were straightforward, but some were less so and we didn’t anticipate all possible answers*. More importantly, we didn’t think hard enough at the outset about the universe we wanted to sample from. In particular: were we asking about university jobs only? “Academic” or “research” jobs in government and at NGOs? (And are “academic” and “research” jobs the same thing?) Jobs in North America or jobs worldwide? (North American and UK searches, for instance, tend to follow very different procedures.) After some quick but belated thinking, we edited the post to define our interests as “university/college academic job market”, without limiting it by region. This doesn’t mean that we value jobs outside universities and colleges any less – we simply had to limit our sampling somehow, and those are the job searches we know best (and that inspired this post). Whether we got this circumscription right is arguable; after all, the North America/UK axis may explain as much or more variation as the university/NGO axis. (Thanks to  Alex Bond  for pushing us on this one). We’d love to hear, for example, if cultural norms differ by region or among industries – please feel free to make that point in the Replies! 
+ (2) Asking for feedback is quite common 
+ 44% of responding candidates have asked for feedback after a job application, and 59% of search committee members have been asked. Steve was somewhat surprised to see just how common asking for feedback is. Jacquelyn, in contrast, wasn’t surprised, having been advised that it’s good to get feedback (in fact, she’s asked for feedback on several applications herself, and has also given it as a member of a search committee). 
+ (3) People are more likely to ask someone they already know 
+ Candidates are much more likely to ask for feedback from someone they already know. This isn’t immediately obvious from the poll data, because those just report the number of asks: 
+ Since the average candidate (left-hand plot) is likely to know only a small fraction of the academics who staff search committees, the 45% who asked at least one person they knew is presumably far above the rate expected at random. We don’t know how to quantify this effect, though. 
+ We’re not sure how to interpret the higher rate of familiarity when gauged from the search committee side (61%; right-hand plot) – although amusingly, this is consistent with candidates forgetting that they’ve already met the search committee members they’re interacting with. Steve an embarrassing story along these lines,  which he has told elsewhere . More likely, but less amusingly, it’s just the small sample size. 
+ A bias towards asking for feedback inside pre-existing relationships might be read as implying candidates are being sneaky about it, but we don’t think that’s the case. We suspect it’s more of a comfort thing (Jacquelyn’s personal anecdata support this). Most candidates ask either the Chair of the search committee or the Chair of the department, which is completely consistent with an above-board communication strategy: 
+ (4) Asking for feedback works – a little bit. 
+ To Steve’s considerable surprise, most candidates who ask for feedback get some. Over 80% of respondents who were asked for feedback provided some – although the bulk of those gave what they categorized as “limited” feedback: 
+ What we don’t know, and should have asked, is whether the asking candidates were satisfied with this limited feedback. We think it’s quite likely that they weren’t. In Steve’s experience, candidates given a small bit of feedback have nearly always asked for more, with the cycle repeating longer than was comfortable. (He’s not blaming the candidates; this was his own inclination when he was on the job market, too). We also don’t know what the “limited” information might have been – if it’s only “There were X candidates; we interviewed Y of them and the one we hired was the one we felt had the best fit”, then it’s probably not much better than no information at all. 
+ Jacquelyn, as both a giver and a receiver of job-market feedback, stresses that some things, like “fit,” are real but difficult to take advantage of in reshaping your approach to future applications. Other things, such as “we would like to see more first-author papers this far out of your PhD,” or “you didn’t have a good sense of your future research directions, so we didn’t feel like you were read for a tenure track position,” are more specific and actionable. 
+ (5) Candidates and search committee members who avoid feedback agree on why 
+ For both candidates who don’t ask for feedback and search-committee members who don’t answer when asked, by far the most common reason was thinking such discussions are inappropriate. Relatively few respondents took the stronger position that such discussions were  not allowed . A few candidates didn’t want to know, while a fair number of search committee members wanted to avoid the awkwardness of saying, which we think is conflict avoidance seen from both ends. 
+ On this point, Steve has learned something. It is true that at some institutions, HR policies forbid the giving of feedback to candidates**. However, at many institutions there is no such proscription. Some organizations even  require  the provision of feedback to unsuccessful candidates who ask for it (for instance, the Canadian federal government); others require the provision of feedback whether candidates ask for it not (for instance, Norwegian state-funded universities***). Steve will hereby back down from “don’t ask for feedback” as categorical advice, although he’s still firmly in the camp that prefers not to offer it (for reasons discussed in the original post). Jacquelyn, in contrast, was happy to see that her support for asking for (and giving) feedback was not an outlier perspective – when constructive, it can be a useful piece of information as we work on revising and refining our job market performance. 
+ However, Steve doesn’t think candidates should take this as carte blanche to ask away. A large fraction of search committee members (and of candidates) think asking for, or offering, feedback is inappropriate. Given that, Steve suggests candidates should balance the (perhaps limited) value of receiving the feedback against the costs of taking an action search committees may find inappropriate. This is, though, a much more nuanced position that he took in  the original post ! And Jacquelyn thinks that the benefits will usually outweigh the risks – they’ve already turned you down for a job, after all. You may not get meaningful feedback, or even a response, but if you do learn something useful, that could make all the difference for future applications. If you’re that concerned, she recommends reaching out to someone you know in the department (even if they’re not on the search committee). 
+ Steve and Jacquelyn agree on one thing: if you do ask, be gracious, and consider phrasing your question in a way that gives the person you’re asking an out: “Thank you so much for the opportunity to meet with your department. If you have any feedback on my performance (e.g., job talk, teaching seminar), that would be really helpful – though no worries if you aren’t allowed to or would rather not.” 
+ Concluding thoughts 
+ Perhaps the best summary of all this is that attitudes about job-market feedback are quite mixed, with asking for or giving feedback widely, but far from universally, suspected of being inappropriate (and Jacquelyn hypothesizes that this may be generational – another data point we didn’t get!). Despite this, the practice of asking for feedback (and giving at least limited feedback) is not uncommon. Whether it’s helpful or not, we leave to the discussion. 
+ Like a lot of things, it’s easy to jump to an opinion on job-market feedback and not realize there are other viewpoints. Steve seems to have done this with respect to the supposed inappropriateness of asking for feedback. He suspects job applicants have done the same, thinking about feedback as something due to them. Some commenters on Twitter, for example, suggested things like “applying for jobs is a lot of work, so applicants deserve some feedback” – but this doesn’t seem to acknowledge the search-committee side of things. As someone who has been recently on both sides of the interviewing table, Jacquelyn wants to stress that search committees are a lot of work, too (and by the way, being on a search committee in grad school was far more valuable than any job search feedback she’s been given). Feedback on practice job talks, materials, and teaching is something you should aim to get at all stages of the process – not just after the interview. 
+ We hope that the (admittedly unscientific) data we’ve gathered help both candidates and search-committee members understand the variety of viewpoints out there. The job-search process is full of awkwardness and stress and angst; we’d be very pleased if our data can reduce this, even a little. 
+ © Stephen Heard and Jacquelyn Gill September 6, 2017 
+ __ Thanks to all who voted and commented! 
+ 
+ *^For instance, we changed the “Was the person you asked someone you knew” from yes/no to yes/no/both after someone pointed out that one could ask more than once. Edits like these probably didn’t affect our coarse results very much. 
+ **^Apparently this is quite comprehensive and includes evaluations of all candidates, albeit with some redaction of personal details. Steve, at least, finds this quite startling, and it’s a good reminder that lots of different systems can work, even those we’re deeply sceptical of on first encounter. Thanks to  Viktor Baranov  for this example. 
+ ***^Or other considerations. The faculty collective agreement at Steve’s university, for example, specifies that all search committee deliberations are confidential. Conversely, though, at Jacquelyn's institution, all written notes and deliberations (including email) must be kept on file for three years, and can potentially be reviewed by job applicants. 
+ Share this: 
+ 
+ Click to share on Twitter (Opens in new window) 
+ Click to share on Facebook (Opens in new window) 
+ Click to share on LinkedIn (Opens in new window) 
+ Click to share on Reddit (Opens in new window) 
+ More 
+ 
+ 
+ 
+ Click to share on Tumblr (Opens in new window) 
+ Click to share on Pinterest (Opens in new window) 
+ 
+ 
+ Click to email this to a friend (Opens in new window) 
+ 
+ 
+ Click to print (Opens in new window) 
+ 
+ 
+ Click to share on Pocket (Opens in new window) 
+ 
+ 
+ 
+ 
+ Like this: 
+ Like Loading... 
+ Related 
+ This entry was posted in  job applications ,  Uncategorized  and tagged  job searches ,  polls  on  September 6, 2017  by  ScientistSeesSquirrel . 
+ About ScientistSeesSquirrel 
+ I'm an evolutionary ecologist and entomologist at the University of New Brunswick. I think about a lot of random things... some of them appear here. 
+  View all posts by ScientistSeesSquirrel ->  
+ Post navigation 
+ <- Thoughts in memory of my father   The statistics of pesto -> 
+ 3 thoughts on "Asking for feedback on job applications: attitudes and practices" 
+ 
+ Gary Grossman   September 6, 2017 at 4:46 pm 
+ 
+ I don't know that I've ever been asked to provide feedback from a candidate, although I have offered it on occasion. I do think that there are more considerations than you have described in your post, for example emotional stability or interviewing ability. I had a graduate school applicant that I turned down who then proceeded to write me nasty semi-threatening letters that also detailed sad aspects of his past and claiming that no one would give him a chance. I later learned that he did this to other faculty at other institutions. My point is you don't really know what you're getting into when you give substantive feedback especially to someone that's been rejected. My second point involves candidates who don't interview well. They seem to come in multiple morphs, the "arrogant", the terminally shy who are applying for a position that includes teaching, and the person who lacks interpersonal skills and somehow says something inappropriate to a faculty or committee member. I don't really think that it's my job to give those people feedback: it's their job to make sure that they have the skills to interview well and their major profs/post-doc advisor/student colleagues job. In some respects the whole feedback thing usually can be avoided by just saying "as long as you're getting interviews you're doing the right thing and it's just a matter of finding the right fit". I've sat on search committees for over 30 years and I have always been shocked by how frequently some unrelated criterion is applied to a candidate by one or more members of the search committee (sorry if this is disturbing for students to hear) but the advice about "fit" is valid and stress-reducing. Well these are just some thoughts. g2 
+ Like Like 
+ Reply  ↓ 
+ 
+ 
+ Pingback:  Friday links: Hidden Figures lego shirts, is theoretical ecology dying, and more | Dynamic Ecology 
+ 
+ 
+ Pingback:  Poll: where do you stand on asking for feedback on unsuccessful job applications? | Scientist Sees Squirrel 
+ 
+ 
+ Comment on this post:  Cancel reply 
+ Enter your comment here... 
+ Fill in your details below or click an icon to log in: 
+ 
+   
+ Email (required) (Address never made public) 
+ Name (required) 
+ Website 
+ ****You are commenting using your WordPress.com account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'wordpress' );) /  Change ) 
+ ****You are commenting using your Google account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'googleplus' );) /  Change ) 
+ ****You are commenting using your Twitter account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'twitter' );) /  Change ) 
+ ****You are commenting using your Facebook account. ( [Log Out](javascript:HighlanderComments.doExternalLogout( 'facebook' );) /  Change ) 
+ Cancel 
+ Connecting to %s 
+ Notify me of new comments via email. 
+ Notify me of new posts via email. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ Search for: 
+ Follow Scientist Sees Squirrel on WordPress.com 
+ Email Address: 
+ Follow Scientst Sees Squirrel via e-mail 
+ Recent Posts 
+ 
+ What if the way Covid-19 forces us to teach is actually better? 
+ Three reasons for the red pen 
+ A year of books comes to an end 
+ 2020 was weird for blogging, too 
+ 
+ Follow me: 
+ 
+  Twitter  
+  Facebook  
+ 
+ My Tweets 
+ 
+ Archives 
+ 
+ January 2021 
+ December 2020 
+ November 2020 
+ October 2020 
+ September 2020 
+ August 2020 
+ July 2020 
+ June 2020 
+ May 2020 
+ April 2020 
+ March 2020 
+ February 2020 
+ January 2020 
+ December 2019 
+ November 2019 
+ October 2019 
+ September 2019 
+ August 2019 
+ July 2019 
+ June 2019 
+ May 2019 
+ April 2019 
+ March 2019 
+ February 2019 
+ January 2019 
+ December 2018 
+ November 2018 
+ October 2018 
+ September 2018 
+ August 2018 
+ July 2018 
+ June 2018 
+ May 2018 
+ April 2018 
+ March 2018 
+ February 2018 
+ January 2018 
+ December 2017 
+ November 2017 
+ October 2017 
+ September 2017 
+ August 2017 
+ July 2017 
+ June 2017 
+ May 2017 
+ April 2017 
+ March 2017 
+ February 2017 
+ January 2017 
+ December 2016 
+ November 2016 
+ October 2016 
+ September 2016 
+ August 2016 
+ July 2016 
+ June 2016 
+ May 2016 
+ April 2016 
+ March 2016 
+ February 2016 
+ January 2016 
+ December 2015 
+ November 2015 
+ October 2015 
+ September 2015 
+ August 2015 
+ July 2015 
+ June 2015 
+ May 2015 
+ April 2015 
+ March 2015 
+ February 2015 
+ January 2015 
+ 
+ Privacy 
+ I participate in the Amazon Services LLC Associates Program, an affiliate advertising program, and its equivalent at Chapters.ca. If you follow a link from my blog to Amazon or Chapters, your origin here will be tracked only for the purpose of paying me a pittance (with no effect on pricing for you). If you prefer not to be tracked, you can always visit an online or bricks-and-mortar bookseller directly. I promise I won't follow you there. 
+ Copyright 
+ Except as otherwise marked, all posts are © Stephen B. Heard (sheard@unb.ca) and all rights reserved. Short extracts may be posted as links to this blog. 
+ Blog at WordPress.com. 
+ Add your thoughts here... (optional) Post to 
+ Cancel 
+ Send to Email Address Your Name Your Email Address 
+ Cancel 
+ Post was not sent - check your email addresses! 
+ Email check failed, please try again 
+ Sorry, your blog cannot share posts by email. 
+ Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use. 
+To find out more, including how to control cookies, see here:   Cookie Policy  
+ %d bloggers like this: 

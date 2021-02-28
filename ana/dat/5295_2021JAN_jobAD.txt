@@ -1,0 +1,352 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Freelance Jobs from Singapore 
+ Sign up, create your profile and send your proposals. As easy as that! 
+ Sign up 
+ [ 
+ Find the best freelancers from  Singapore 
+ ](https://www.workana.com/en/freelancers/singapore) 
+ 4 months ago 
+ Seo/Sem Freelancer 
+ Published: 4 months ago  Bids: 9 
+ Require an expert freelancer who is well trained in seo/sem. 
+ - Keywords (Research & analysis) 
+- Google page 1 
+- On-page SEO 
+- Off-page SEO 
+- Content optimization 
+- Conversion optimization 
+- Monthly ranking report 
+- Monthly review 
+- Google Singapore (Web & Mobile) 
+- Yahoo / Bing Singapore 
+- Google my business optimization 
+- Digital marketing expert 
+- Google search specialist & rater 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Large 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : As needed 
+ API Integrations  : Social media (Facebook, Twitter, etc.), Payment Processor (Paypal, Stripe, etc.), Other (Other APIs), Cloud Storage (Dropbox, Google Drive, etc.) 
+ Published by:  S. Last reply: 3 months ago  Singapore 
+ USD 250 - 500 
+ 4 months ago 
+ Senior Backend Developer website - long term project 
+ Published: 4 months ago  Project duration: 3 - 4 months Bids: 24 
+ We are looking for a Senior Backend Developer with a desire to work/collaborate in an International Apps directory that creates a platform to suggest and recommend Apps in a multi-language platform. 
+ You will be a core member of a dynamic team and have a huge impact on the Company. Also being able to work collaboratively with the team members. 
+ If you love creating great software, enjoy challenges and want to be a part of an international project, this role is for you. 
+ Responsibilities 
+Develop and improve the current web application. 
+Develop with the latest technologies and improvements from the backend´s  point of view 
+Upgraded .- Migrate Symfony version (current one is 1.4 and we want to move to latest one) 
+develop api-rest 
+improve queries performance of the current site 
+implement ddd & tdd in current platform 
+ requirements 
+ 5 years experience in web development. 
+Excellent back-end development knowledge (Web architecture / PHP 7 / 
+Symfony / MySQL / AMP / Solr Memcache / Redis / mvc frameworks / rest api 
+/ ...) 
+Good front-end development knowledge (CSS3 / HTML5 / JavaScript / CSS b 
+bootstrap / Responsive design)* Good Linux/Unix knowledge. 
+Ability to work both autonomously & within a team. 
+Fluency in English or Spanish will be a plus. 
+ We expect proactivity to find and solve problems in our product and solve. 
+Scrapping experience PHP will be plus 
+ What We Offer 
+Work from home, with flexible working schedules 
+Project Location: Remote 
+Long term agreement 
+Start date: As soon as possible 
+Language requirements: English, Spanish will be a plus 
+ answer the following questions when submitting a proposal: 
+What part of this project most appeals to you? 
+Which of the required job skills do you feel you are strongest at? 
+How many hours are you online working as a freelance per day ? 
+How many hours are you online ? 
+Do you have experience to upgrade / migrate symfony ? from version to version ? 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ Is this a project or a position?  : Project 
+ I currently have  : Not applicable 
+ Required availability  : Part time 
+ Roles needed  : Developer 
+ Published by:  J. C. Singapore 
+ USD 20 - 30 / hour 
+ 4 months ago 
+ Hiring Odoo developers on hourly basis 
+ Published: 4 months ago  Bids: 2 
+ We are looking for long term Odoo developers to work on multiple projects, tasks include module creation, bug fixing, and deployment. 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ I currently have  : I have specifications 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  G. W. Singapore 
+ USD 250 - 500 
+ 4 months ago 
+ Virtual reality for aircraft cockpit instrument checks 
+ Published: 4 months ago  Deadline: 99 Bids: 2 
+ Create a Virtual reality environment for the user to experience and trained before steeping into the real aircraft cockpit. 
+ Small size single pilot plane. 
+ Category  : IT & Programming 
+ Subcategory  : Other 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ I currently have  : I have an idea 
+ Required availability  : As needed 
+ API Integrations  : Cloud Storage (Dropbox, Google Drive, etc.) 
+ Published by:  B. L. Last reply: 4 months ago  Singapore 
+ Over USD 3,000 
+ 4 months ago 
+ Need help to collect data from cnc machine 
+ Published: 4 months ago  Deadline: 8 Bids: 1 
+ Need to collect data from NTX1000 cnc machine. And push it to kepware. Data types like, program numbers, specific usage time, machine status 
+ Category  : IT & Programming 
+ Subcategory  : Data Science 
+ Project size  : Small 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  K. Singapore 
+ USD 50 - 100 
+ 4 months ago 
+ Graphics designer for children's worksheets 
+ Published: 4 months ago  Bids: 4 
+ We are an enrichment centre looking for someone to create professional looking bilingual Chinese and English worksheets. You will need to know how to read Chinese. Our team will provide the content and the layout in draft format, but need someone to design graphics and make it look professional. 
+ We have templates already created. 
+ This can be done remotely from home. 
+ Adobe and Illustrator is a must 
+ Category  : Design & Multimedia 
+ Subcategory  : Banners 
+ What do you need?  : Create banners from a sketch 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Published by:  T. X. Singapore 
+ USD 50 - 100 
+ 4 months ago 
+ React Native developer 
+ Published: 4 months ago  Bids: 2 
+ Hiring for react native developer. 
+Experience in API design and development 
+- Design SQL or NoSQL databases as per the requirement of projects with scalability and optimisation of resources. 
+- Intermediate to expert level of CSS3, HTML5, JS 
+ Category  : IT & Programming 
+ Subcategory  : Web development 
+ What is the scope of the project?  : Medium-sized change 
+ Is this a project or a position?  : Project 
+ Required availability  : As needed 
+ Roles needed  : Developer 
+ Published by:  N. A. Last reply: 4 months ago  Singapore 
+ USD 500 - 1,000 
+ Previous 
+ Next 
+ 
+ 1 
+ 2 
+ 3 
+ 4 
+ 5 
+ … 
+ 
+ Create profile 
+ In order to send a message or place a bid on a project, you need to complete your profile. 
+ Create profile  Cancel 
+ Register as Freelancer 
+ Start working right now 
+ 
+ Hire a Freelancer 
+ Get the best freelancers in just minutes 
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

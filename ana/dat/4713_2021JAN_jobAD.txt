@@ -1,0 +1,305 @@
+  
+ 
+ 
+ Freelancers 
+ 
+ 
+ Jobs 
+ 
+ 
+ How it works 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ Register 
+ 
+ 
+ Sign in 
+ 
+ 
+ Post a project 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Workana  
+  Freelance Jobs  
+  Accounting jobs  
+ 
+ Evaluating bids 
+ Kioskto Go 
+ Published on the January 02, 2021 in Finance & Management 
+ 
+ Project 
+ Project Insights New 
+ 
+ About this project 
+ finance-management / accounting-1 
+ Less than USD 50 
+ Hello there. We are looking for a good and committed professional to build our project. 
+Please, we appreciate if you read all the informations above. 
+ And feel to make any questions by email, here, or even a Skype talk. 
+We are looking forward for a long period partner, so it's important to doesn't matter how we go, make a video call before any 
+agreement, anyways. 
+That’s the resume of the project: 
+KIOSKGO 
+We need an app to make deliveries for Kiosks in Germany, initially in Frankfurt with potential to expand the whole Germany. 
+ Most of the sales will be around products like Beers, Cigarettes, Sweets, Chips… Fast delivery for people in the streets or parks around 
+the city and in their homes. 
+The app is not exactly like a food delivery app, because we will not have the list of the Kiosks (provider, like a restaurant) in the Front 
+App. The client will just choose the product in a single Catalog and buy it. 
+ But each Kiosk will have their own storage management. 
+With this functionality we need some specific changes in the normal process. We are listing the buying route above tagging some 
+particular specifications of our product. 
+ Introduction: 
+1. We need the App for the Driver, The Kiosks and the Front app for the Costumers. 
+2. The App will have one single catalog of products with categories and just us, the administrators will manage the front catalog. 
+3. The Kiosks (providers) that are registered on the App, will be able to select the products that we have in the App Catalog and 
+than select the amount of storage they have for each product in their own storage. 
+4. The storage of the Catalog will come from the Kiosks. 
+5. So, we control the Catalog, the Kiosks control the storage they have of our products. 
+6. If any of the Kiosks have some of the products, the product will disappear from the front-end Catalog. 
+Buying Process: 
+1. The Customer opens the app and chooses the products, add in the cart and finalize the purchase. 
+ 2. The App will calculate first wich Kiosk gonna have all the products for that order, and the Kiosk needs to accept the order in 
+his app, let's suppose in 1 minute maximum. 
+3. If the Kiosk don't accept the order, the App will calculate the next closest Kiosk. 
+4. If none of the Kiosks have all the products at once, the App will calculate the order with 2 or maximum 3 Kiosks in a radius of 
+5km and divide the orders according to the storage (we need to able to control this functions). 
+5. Example: 1 Kiosk have 3 beers + Cigarette, and the second closest Kiosk have the Wine. 
+6. After the Kiosks accept the order, the App will search the closest Drivers and the offers the order, the first Driver wich accept 
+the delivery will get the order. 
+7. The Driver will drive to the first (or only) Kiosk, get the first delivery, apply the withdraw in the App and drive to the next Kiosk 
+to get the other products. And activate the delivery process for the Customer. 
+8. Emergency: It can happens that the Driver gets in the Kiosk and the Kiosk with the approved order says that he dont have the 
+product anymore, so there must be a button of Emergency, that will make the App recalculate new Kiosks with the storage, 
+and the Kiosk that missed the order will be blocked until we unblock it on the system. 
+9. After the Driver confirmed the withdraws, the Customer will receive the new time delivery process "Delivering". 
+10. After the delivery, the Driver confirm it and the order its done. 
+ Needs and Observation: 
+1. All the processes will be kept into our system, where the administrative can check in a Desktop panel or website. 
+2. Extra information: When the client finishes the purchase process if there is a cigarette or alcohol in the cart it will be necessary 
+to insert an ID verification. We need to check for a German api of id card, use as a reference: 
+ https://tabakstore.de/produkt/pueblo-tabak-kaufen/ 
+3. * Besides the api of the id german card, the user should be able to upload a photo of an document (check the page) 
+4. 
+ *Extra step in the delivery process: When the Driver delivers the pack, he asks for the ID card or document for comprove, and 
+he can have the possibility to takes a photo of it in the last step of the delivery. The ID card will be attached in our system with 
+the client who made the purchase. 
+5. We need to have a central administrator user to control all the purchases and to know how much we need to pay for each 
+Kiosk every week or 2 weeks, we need to able to control that. 
+6. We need someone who can be present and with a good contact for support afterwards. 
+7. The Driver need to have a full register with a photo in the app, and uploaded documents for verification in our side. 
+8. We need to be able to control the distance in Kms for the Kiosks and delivery rate. 
+9. We need to rate the users of the app in each step. So when the Driver withdraw the order he just select 1 to 5 stars for the 
+Kiosk. When the client receive the delivery he can evaluate 1 to 5 stars for the driver. 
+ Category: IT & Programming 
+Subcategory: Apps programming. Android, iOS and others 
+What is the scope of the project?: Create a new app 
+Is this a project or a position?: Project 
+I currently have: I have specifications 
+Required availability: As needed 
+Required platforms: Android, iPhone 
+I need to: Create an app 
+App type: Other 
+Back-end is required: Yes 
+Payment gateway: Yes 
+ Category  Finance & Management 
+Subcategory  Accounting 
+What do you need?  For a startup 
+Is this a project or a position?  Project 
+Required availability  As needed 
+ Deadline: Not specified 
+ Skills needed 
+ Microsoft Excel   Accounting   Financial Analysis 
+ Want to start working on this project? 
+ Log into  your Workana account or  Register  today. Boost your freelance work! 
+ Are you looking for a freelancer to do a similar project? 
+ Create your project and get bids from the best freelancers. 
+ Publish your own project   Send your proposal now 
+   
+  D.  
+ 1 
+ Published projects 
+ 0 
+ Projects paid 
+ Member since: January 2021 
+ Project activity 
+ 2 
+ Bids 
+ 2 
+ Interested freelancers 
+  __Previous project  
+  __Next project  
+   
+ (C) 2012 - 2021 | Workana LLC - All rights reserved 
+               
+ 
+ 
+ Contact us 
+ 
+ 
+ Who are we? 
+ 
+ 
+ About us 
+ 
+ 
+ Join the Workana team 
+ 
+ 
+ Contact us 
+ 
+ 
+ Blog 
+ 
+ 
+ Glossary 
+ 
+ 
+ Workana Policies 
+ 
+ 
+ Privacy Policy 
+ 
+ 
+ Terms of Service 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ Resources 
+ 
+ 
+ Help Center 
+ 
+ 
+ How it works 
+ 
+ 
+ How hourly projects works 
+ 
+ 
+ Membership Plans 
+ 
+ 
+ Press 
+ 
+ 
+ Workana Time Report 
+ 
+ 
+ Sitemap 
+ 
+ 
+ Find work 
+ 
+ 
+ IT & Programming 
+ 
+ 
+ Design & Multimedia 
+ 
+ 
+ Writing & Translation 
+ 
+ 
+ Sales & Marketing 
+ 
+ 
+ Admin Support 
+ 
+ 
+ Legal 
+ 
+ 
+ Finance & Management 
+ 
+ 
+ Engineering & Manufacturing 
+ 
+ 
+ Freelancers 
+ 
+ 
+ Freelancers Malaysia 
+ 
+ 
+ Freelancers Singapore 
+ 
+ 
+ Freelancers Hong Kong 
+ 
+ 
+ Freelancers Indonesia 
+ 
+ 
+ Freelancers Philippines 
+ 
+ 
+ International partners 
+ 
+ 
+ Bdjobs (Bangladesh) 
+ 
+ 
+ Catho (Brazil) 
+ 
+ 
+ Jobberman (West Africa) 
+ 
+ 
+ jobsDB (S.E. Asia) 
+ 
+ 
+ JobStreet (S.E. Asia) 
+ 
+ 
+ Jora (Worldwide) 
+ 
+ 
+ Manager (Brazil) 
+ 
+ 
+ OCC Mundial (Mexico) 
+ 
+ 
+ SEEK (Australia) 
+ 
+ 
+ Zhaopin (China) 
+ 
+ 
+ Jora (Argentina) 
+ 
+ 
+ Jora (Brazil) 
+ 
+ 
+  View more  
+ 
+ 
+  View less  
+ 
+ 
+ You are leaving Workana 
+ The previous page is sending you to 
+ Are you sure you want to continue? 
+ IMPORTANT:  Remember not to share personal data or passwords with third parties. 
+ Continue 
+ Return to Workana 

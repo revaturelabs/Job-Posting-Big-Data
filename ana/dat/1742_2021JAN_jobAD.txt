@@ -1,0 +1,62 @@
+
+ Role 
+ Description 
+ 
+ Like what you see? Apply Now or hit the back button to search additional career options. 
+ Site Reliability Engineer - Networking 
+ Apply Now 
+ As a Site Reliability Engineer, you are someone on a mission to design and automate performant and highly available infrastructure. That's great, because it fits perfectly into our view of infrastructure: adaptive, flexible, reconfigurable to the needs of a dynamic business. We are Power Home Remodeling, a nationwide home remodeler that thrives in a technology-first world. We need your help to make us faster and more dynamic while delivering a technology platform that never stops. 
+ Power Home Remodeling is looking for a Site Reliability Engineer, with a Networking focus, to join the Business Technology team at our headquarters, just outside of Philadelphia, PA. We are reinventing the home remodeling industry and to do that, Power needs a reliable and innovative SRE who will design, continuously improve, and automate a performant and highly available infrastructure. This position will emphasize the Networking aspects of site reliability, including LAN and WAN responsibilities. 
+ At Power, you will have the opportunity to work on challenging technology initiatives and design solutions that are creative, sustainable, impactful to the business. You will be part of a diverse Site Reliability team and work alongside other top talent, including our growing team of application architects, UX designers, and software developers. You will be empowered to make decisions and enjoy great latitude in choosing the right tools, equipment and methods for the job. As an experienced network engineer, you will be expected to bring your knowledge to help us expand and maintain an adaptive, flexible, and reconfigurable infrastructure which is designed to meet the needs of an expanding business. We need your help to strengthen the speed of our systems while supporting a dynamic technology platform that never stops. 
+ As Power’s technology-focused business unit, our mission is to deliver a platform for applications, enabling developers to rapidly iterate and support business priorities as quickly and efficiently as possible utilizing Agile methodologies. To date, we have put effort into making our network infrastructure automated with tools like Ansible. We are now moving into the next generation with containers using Kubernetes, enabling rapid development of new services. Our team is growing. As we continue to expand the company into new territories throughout the continental United States, we want to ensure that the network capacity is prepared for the increased utilization, and monitored for consistent availability and predictive trends. 
+ Come be part of an amazing team and see what it’s like to love where you work. 
+ What we do here 
+ At Power, our technology team builds a custom suite of products that run our entire business. We create and deploy complete solutions for marketing, sales, operations, finance and more. We even have a custom communications platform that connects everyone in the company. We use cutting edge technologies like augmented reality, computer vision, machine learning, speech recognition and processing, geospatial data and a variety of mobile platforms. These applications are delivered using modern technology operating from in-house datacenters. 
+ We enjoy all the benefits of a startup to move fast, ship rapidly and iterate quickly, but within a well established organization that is profitable and growing. 
+ We get to dip our toes in many different, fascinating areas and solve unique, challenging problems that could on their own be standalone apps or companies. 
+ We are a tech powerhouse hidden inside a remodeling company. 
+ We value diversity of all types at Power and our team is made up of a kind, thoughtful group of people with a wide range of backgrounds. 
+ We actively try to find people with different perspectives and experiences to the ones we already have. 
+ Power has been awarded one of Fortune Magazine’s Top 100 Companies to Work For, Computerworld’s Best Places to Work in IT, Fortune #1 Workplace for Millennials, one of Glassdoor’s Best Places to Work, one of Inc. 5000’s Fastest Growing Private Companies, and Philadelphia Magazine Coolest Companies. 
+ Required Qualifications 
+ 
+ 5+ years of relevant industry experience, especially with networking 
+ Knowledge of Firewall and Network technologies (LAN/WAN, Switching, Routing, IP Addressing, Firewall Policy, IDS/IPS, BGP) 
+ Proven track record of delivering incremental value continuously 
+ Proven track record of network automation 
+ Operational experience in high-availability environments 
+ 
+ Preferred Experience 
+ 
+ Network Platform: Cisco & Meraki 
+ Server Operating System: Ubuntu Linux 
+ Virtualization: Kubernetes/Docker, VMware 
+ Storage: NFS, Object Storage (S3/NetApp) 
+ Automation: Ansible, Puppet, Jenkins, Terraform 
+ Telephony: SIP, Asterisk 
+ Organizational tools: Scrum, Git, Github 
+ Multi-site WAN links, fiber, metro ethernet and DMVPN 
+ Routing & switching, wireless networks 
+ Private cloud technologies, especially Kubernetes & Docker 
+ PaaS and/or IaaS 
+ Appreciation for Agile methodologies such as Scrum 
+ 
+ Benefits 
+ 
+ Full medical, dental, life and disability insurance plans that can be tailored to your specific needs and the needs of your family 
+ A competitive 401(k) retirement savings program matched by Power 
+ Competitive salary 
+ All the tech you need - We'll pay for whatever hardware and software you need to work and make sure you're regularly upgraded to the latest versions 
+ Personal development - Personal development books, courses and conferences 
+ Paid parental leave - When the time comes to welcome a new member of the family, we offer paid parental leave 
+ 3 events per year focused on internal development and improvement 
+ 
+ Location 
+Power Home Remodeling’s corporate headquarters, which is located in Chester, Pennsylvania, just south of Philadelphia. During the COVID-19 pandemic, most work will be remote. 
+ Apply Now 
+ Power Home Remodeling Group is an equal opportunity employer and we are committed to hiring a diverse and talented workforce. 
+ ** 
+ Thanks again for your interest in PHRG. 
+ ** 
+ PHRG is an Equal Opportunity Employer committed to diversity in our workspace. 
+ © Copyright 2021 PHRG - All rights reserved. 

@@ -1,0 +1,179 @@
+
+  __Likes  
+  __Followers  
+  __Subscribers  
+ 
+ __Sign in 
+ __ 
+ Welcome, Login to your account. 
+ Forget password?  Remember me 
+ __Sign in 
+ Recover your password. 
+ A password will be e-mailed to you. 
+ 
+ Tuesday, January 19, 2021 
+ Home 
+ About 
+ 
+ Work At Home Success FAQ 
+ Privacy & Disclosures 
+ 
+ 
+ Contact 
+ Media 
+ Advertise 
+ Guest Blog 
+ 
+  Publisher -   
+ 
+ Start Here 
+ Home Biz 
+ Online $ Ideas 
+ 
+ Blogging 101: How to Start and Make Money from a Blog 
+ Affiliate Marketing 101 
+ How to Work At Home In Freelance Writing 
+ 
+ 
+ WAHS TV 
+ Free Stuff 
+ 
+ __ 
+   
+ 
+ Home 
+ Scam Alert 
+ Scam Alert: Job Email from "CareerBuilder" 
+ 
+   
+ Scam Alert 
+ Scam Alert: Job Email from "CareerBuilder" 
+  By  wahsuccess    On  Jul 22, 2014 
+ __ 0 
+ Share   __ [ ](https://twitter.com/share?text=Scam Alert: Job Email from “CareerBuilder” @ltruex&url=https%3A%2F%2Fwww.workathomesuccess.com%2Fscam-alert-job-email-from-careerbuilder%2F)[ ](https://reddit.com/submit?url=https%3A%2F%2Fwww.workathomesuccess.com%2Fscam-alert-job-email-from-careerbuilder%2F&title=Scam Alert: Job Email from “CareerBuilder”)[ ](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.workathomesuccess.com%2Fscam-alert-job-email-from-careerbuilder%2F&media=https://www.workathomesuccess.com/wp-content/uploads/2014/07/scamalert.jpg&description=Scam Alert: Job Email from “CareerBuilder”)[__](mailto:?subject=Scam Alert: Job Email from “CareerBuilder”&body=https%3A%2F%2Fwww.workathomesuccess.com%2Fscam-alert-job-email-from-careerbuilder%2F) 
+ I received this email about a "job" that on first glance appears to be from CareerBuilder. However, red flags always go up when I receive an email about a job and upon closer investigation, I can say this email is a scam or possibly worse, a way to hijack your computer. Here's why: 
+ 
+ 
+ 
+ 
+ 
+ It's to "undisclosed recipients". This means it's bulk mailed to thousands of people. No company is going to bulk mail thousands of people with a job offer or announcement. 
+ 
+ 
+ What is a secret consumer? I'm guessing it's mystery shopping, but the fact that it doesn't use that term suggests to me that this email isn't from the United States. 
+ 
+ 
+ It has an attachment. Always be suspicious of attachments, even from people and companies you know unless you're expecting it. Obviously I didn't open the attachment, but I suspect it's some sort of script to hijack my machine and/or get access to information that would allow identity theft. 
+ 
+ 
+ Although the email says from "jobs@careerbuilder.com", taking a look at the email headers, we can can that CareerBuilder's email is being spoofed. 
+ 
+ 
+ 
+ Tracing the IP address of 78.46.124.177, I find that it's located in Germany. And if you look at the bottom, it says that "78.46.124.177 is not allowed to send mail from careerbuilder.com." Plus you'll see that it passed through a variety of servers (127.0.0.1 is in Sweden and 212.227.94.60 is in Germany). My email gets spoofed all the time, which makes me crazy! Scammers use well-known names (i.e. CareerBuilder, The Red Cross, etc) in hopes you'll be tricked into a false sense of security. After all, you trust these companies. 
+ What's important for you to understand and remember is that the odds of you getting a legitimate job offer or announcement in your email is practically nil. It's so unlikely that you should be suspicious of any email about a job you get. Employers don't have to send out bulk email or search job databases to find employees because they're already inundated with applications. If you get an email from CareerBuilder or any other job site, log into your account to get information (don't click on links in these types of email either). Even then, be careful as scammers will contact you through job search sites. 
+ The only time you should consider an email about a job is from an employer you applied to. That email should be directed specifically to you by name and be clear that it's related to a specific job you applied to. Any time you apply to a job, keep a list of the name and job title so you can refer to it to make sure the email is legitimate. 
+ __ Scam Alert scams 
+ __ 0 
+ __ Share   __Facebook [ __Twitter](https://twitter.com/share?text=Scam Alert: Job Email from “CareerBuilder” @ltruex&url=https%3A%2F%2Fwww.workathomesuccess.com%2Fscam-alert-job-email-from-careerbuilder%2F)[ __ReddIt](https://reddit.com/submit?url=https%3A%2F%2Fwww.workathomesuccess.com%2Fscam-alert-job-email-from-careerbuilder%2F&title=Scam Alert: Job Email from “CareerBuilder”)[ __Pinterest](https://pinterest.com/pin/create/button/?url=https%3A%2F%2Fwww.workathomesuccess.com%2Fscam-alert-job-email-from-careerbuilder%2F&media=https://www.workathomesuccess.com/wp-content/uploads/2014/07/scamalert.jpg&description=Scam Alert: Job Email from “CareerBuilder”)[ __Email](mailto:?subject=Scam Alert: Job Email from “CareerBuilder”&body=https%3A%2F%2Fwww.workathomesuccess.com%2Fscam-alert-job-email-from-careerbuilder%2F) 
+   
+ wahsuccess  3140 posts 552 comments 
+ 
+ __ 
+ 
+ Leslie Truex is an ideaphoric writer, speaker, entrepreneur, social worker and mom trying to do it all from the comfort of her home. Since 1998, she's been helping others create careers they love by providing work-at-home information and resources through Work-At-Home Success. 
+ __Prev Post 
+ Work At Home Jobs July 22, 2014 
+ Next Post __ 
+ Work At Home Jobs July 23, 2014 
+ You might also like More from author 
+ Scam Alert 
+ 
+  12 Tricks Scammers Use to Con You in Work At Home Scams   
+ Scam Alert 
+ 
+  5 Tips to Avoid Email Work-At-Home Job Scams   
+ Scam Alert 
+ 
+  Scam Alert: Bait and Switch Fake Check Job Scam   
+ Home Business Tips and Tools 
+ 
+  How to Keep Your Home Business Secure   
+ __Prev Next __ 
+ Leave A Reply 
+ Cancel Reply 
+ Your email address will not be published. 
+ Save my name, email, and website in this browser for the next time I comment. 
+ This site uses Akismet to reduce spam.  Learn how your comment data is processed . 
+ Recent Posts 
+ 
+ 3 Keys to Managing a Home Reno While Working From Home 
+ Top 5 Seasonal Work at Home Jobs 2020 
+ 4 Ways to Improve Your Project Management as a Home-Based Business 
+ 7 Tips for Growing Your YouTube Channel in 2020 
+ Social Security: Do you qualify for Social Security if you work from home? 
+ 
+ Categories 
+ Categories Select Category Affiliate Marketing Auctions and eBay Blogging Business Tips Direct Sales/MLM Ecommerce Email Marketing Expert Tips Extra Income Ideas Favorite Resources Featured Freelance Writing Freelancing Home Business Ideas Home Business Tips and Tools Home Office Inspiration and Motivation Legal Life Working At Home Marketing Money and Taxes Networking Tips New Posts News Flash Newsletter Online Income Podcast Productivity/Time Management Scam Alert Social Media Social Networking Success Stories Technology Telecommuting Tips & Resources Throwback Thursday Uncategorized Videos Virtual Assistant Website/Blog Design Work At Home Ideas Work At Home Jobs Work At Home Reviews 
+ SEARCH Work-At-Home Success 
+ 
+ Produce Read-Only or Write Protected USB Flash Drives with Nexcopy  USB Duplicator  Systems 
+ 
+ Quick Links 
+ 
+ 
+ 
+ 
+ WAH Reviews 
+ 
+ 
+ 
+ 
+ Disclosure 
+ Work-At-Home Success contains advertising as well as screened work-at-home jobs and resources. Some posts may contain affiliate links, which means I may receive compensation if you register or buy using the link. 
+ Work-At-Home Success is a free resource that is supported through advertising and affiliate programs. WAHS’s screens all paid ads (see ad policy) but cannot make any guarantees. Work-At-Home Success also offers resources in the form of ads, reviews or recommendations that may provide compensation. These reviews and recommendations are on products or service that WAHS has tested, used or screened. Occasionally WAHS receives free items or services for review purposes. Reviews are always WAHS’s opinion of the product. Please read  WAHS's Disclosure, Use and Privacy Policy  for more information. 
+ 
+ 
+  __Facebook Join us on Facebook  
+ 
+ 
+  __Twitter Join us on Twitter  
+ 
+ 
+  __Youtube Join us on Youtube  
+ 
+ 
+ Work At Home Success Home 
+ 
+ 
+ About 
+ 
+ 
+ Work At Home Success FAQ 
+ 
+ 
+ Privacy & Disclosures 
+ 
+ 
+ Media 
+ 
+ 
+ Advertise 
+ 
+ 
+ Contact 
+ 
+ 
+ © 2021 - Work At Home Success. All Rights Reserved. 
+ Website Design:  BetterStudio 
+ __ 
+ Want to earn a great living working from home? 
+ Get the Work At Home Job Blueprint FREE and learn how to find high paying work from home opportunities TODAY! 
+ Your information will  never  be shared or sold to a 3rd party. 
+ __Sign in 
+ __ 
+ Welcome, Login to your account. 
+ Forget password?  Remember me 
+ __Sign in 
+ Recover your password. 
+ A password will be e-mailed to you. 

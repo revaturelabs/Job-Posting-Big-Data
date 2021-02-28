@@ -1,0 +1,219 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register 
+ to save interesting jobs! 
+ Login or register 
+ to get personalised job recommendations! 
+ Login or register 
+ to get access to all your job applications! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through JavaScript Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ JavaScriptWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Engineering Manager (Consumer Apps) 
+ [ 
+ MotoRefi 
+ ](/companies/motorefi) 
+ Arlington, VA, US 
+ 21 January, 2021 
+ Apply More jobs from MotoRefi About MotoRefi 
+ Salary 
+ $150K - 195K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Functional Programming 
+ Node.js 
+ Python 
+ React 
+ Ruby 
+ Scala 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Books 
+ Paid sick days 
+ Daily stand up 
+ Full healthcare coverage 
+ Dental insurance 
+ Vision insurance 
+ Onsite gym 
+ Stock options 
+ Coffee machine 
+ Stocked kitchen 
+ 
+ MotoRefi improves our customers’ financial health with painless online refinancing and insurance. 
+ Role overview 
+ * Position also available in Austin, TX and Denver, CO 
+ About the Job 
+ Our growth and expansion means that our consumer web application needs to be highly polished, yet designed with sufficient flexibility to add new products, customize workflows, and cobrand with our partners. We also develop and maintain internal applications that provide significant leverage to our operations teammates. The backend that runs all of this is evolving toward an event sourced architecture that supports the highly asynchronous and multi-modal workflows we are automating. Our current stage provides a engineering manager with a healthy mix of familiar and novel challenges, and a high degree of agency to solve them. 
+ About you: 
+ 
+ You most likely identify with many of these qualities: 
+ Passionate software engineer that loves building polished products 
+ Collaborator that thrives in a social atmosphere and actively contributes to improving processes, workflows, and communication 
+ People person and leader with transparent approach to team management 
+ Maker who doesn’t relent until finding a both elegant and practical solution to a problem 
+ Systems thinker who understands the value of automation and infrastructure as code 
+ Quick study that readily picks up new languages, frameworks, and tools 
+ Person who cares deeply that your work realizes positive outcomes for our world 
+ 
+ What we are looking for: 
+ There are always exceptions, and we are looking for exceptional individuals, so nothing on this list is strictly required. However, if some of these match your experiences, then you would likely thrive in this role: 
+ 
+ Extensive frontend development experience with either  React / Angular / Vue 
+ Experience working on consumer facing applications 
+ Experience managing teams and recruiting new engineers. 
+ Built and maintained web services that were subjected to a high request volume 
+ Implemented monitoring and alerting to understand the health of the apps and diagnose issues 
+ Experience in full stack/backend development with any backend language 
+ Utilized a variety of databases for different use cases (e.g., relational, document, graph, object storage) 
+ Scaled out infrastructure using automation tooling (e.g.,  Pulumi ,  Terraform , CDK) 
+ An interest in functional programming libraries, and/or functional programming languages in general 
+ 
+ Technologies we teach and use: 
+ 
+ ReactJS ,  TypeScript ,  Scala ,  Ruby ,  Python 
+ Pure FP TypeScript libraries (fp-ts, io-ts, matechs) 
+ Postgresql, Redis, FireStore, BigQuery, S3/GCS 
+ Google Firebase, Apache Beam, Scio, Rails 
+ Heroku, Google Cloud (PubSub, Functions, and others) 
+ Rollbar, Segment, CodeFresh, LogDNA 
+ 
+ Perks: 
+ 
+ Flexible hours and remote work 
+ Fantastic health, dental, and vision 
+ Three weeks of annual PTO 
+ 6-10 weeks of parental leave 
+ Culture focused on cross-functional collaboration 
+ Early stage equity 
+ Lots of choice in workstation, peripherals, tools, etc. 
+ Coffee, tea, soda, and healthy snacks (once office reopens) 
+ Coworkers are passionate about working in our customers’ best interests 
+ 
+ MotoRefi is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, pregnancy status, marital status, military or protected veteran status, genetics, or any other characteristic. 
+ 
+ [ 
+ MotoRefi 
+ ](/companies/motorefi) 
+ 
+ 50-249 
+ 
+ MotoRefi is a ~3 year old company that saves people money through an online, transparent, and customer-friendly auto loan refinance process. We partner with credit unions and community banks to offer competitive rates from trustworthy organizations. While our core business continues to grow aggressively, we are also expanding into new ways to improve our customers' financial health. 
+ Finance Series A CI/CD Code Reviews Continuous Delivery Continuous Deployment Books Paid Sick Days 
+ View 5 jobs 
+ Engineers who find a new job through JavaScript Works average a 15% increase in salary. 
+ Apply See more 
+ Apply More jobs from MotoRefi About MotoRefi 
+ Salary 
+ $150K - 195K 
+ Contract type 
+ Full time 
+ Technologies & frameworks 
+ 
+ Functional Programming 
+ Node.js 
+ Python 
+ React 
+ Ruby 
+ Scala 
+ TYPESCRIPT 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Flexible working 
+ Health insurance 
+ Books 
+ Paid sick days 
+ Daily stand up 
+ Full healthcare coverage 
+ Dental insurance 
+ Vision insurance 
+ Onsite gym 
+ Stock options 
+ Coffee machine 
+ Stocked kitchen 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through JavaScript Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through JavaScript Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Full Stack Engineer CompetitiveMotoRefiArlington, VA, US 
+ Simple, transparent auto refinancing. We use technology to help car owners save money. 
+ functional programming javascript python react ruby scala typescript 
+ More Info Apply 
+ Engineering Manager (Consumer Apps)$150K - 195KMotoRefiDenver, CO, US 
+ MotoRefi improves our customers’ financial health with painless online refinancing and insurance. 
+ functional programming node.js python react ruby scala typescript 
+ More Info Apply 
+ Full Stack Engineer CompetitiveMotoRefiDenver, CO, US 
+ Simple, transparent auto refinancing. We use technology to help car owners save money 
+ functional programming python react ruby scala typescript 
+ More Info Apply 
+ Engineering Manager (Consumer Apps) 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ React jobs Angular jobs NodeJS jobs Typescript jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ React articles Angular articles NodeJS articles Typescript articles ReasonML articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

@@ -1,0 +1,65 @@
+Top 
+   
+ Submit a request   Sign in 
+ 
+ Workable Support 
+ Job & Workflow Setup 
+ Creating a Job 
+ 
+ Creating a job in Workable 
+ Nick DeSimone 
+ 
+ October 18, 2020 19:48 
+ Updated 
+ 
+ Follow 
+ All users   except Reviewers & External Recruiters 
+ All plans 
+ Admins and standard members on your account are able to create jobs in Workable. Start by clicking  Create a New Job  in the upper right of the main job dashboard. 
+ Important: 
+ 
+ While regular users can create job drafts,  only admins are able to publish jobs . 
+Jobs created by regular members will be stored as drafts until an admin reviews them. 
+ Job boards have their  own guidelines  for jobs that they will accept. 
+Follow the guidelines on the right side of the job editor to ensure that your job gets approved for posting on all available boards. 
+ 
+ 
+ Job title and department details 
+ The first thing you’ll see when you create a new job is the space to add a job title. As you type, a wide range of options are auto-suggested. These are common job titles – and the ones most likely to be searched by potential candidates on job boards. 
+ While it can be tempting to advertise jobs using a title like ‘Happiness Manager’, it makes it much harder for potential candidates to find you via a job board search. 
+ Select one of the departments added to your account from the dropdown menu. This will impact the filtering options on the main dashboard and in reports, the department name shown on your careers page and any  feature segmenting by department . Super Admins can add new departments by visiting the    Departments  settings page. 
+ To make sure your job post is advertised to the most appropriate candidates, add an accurate location. Locations will be auto-suggested as you type. The majority of job boards will not list jobs without a location, so it’s important to choose the country, state and city where the person will be working. 
+ If the job is for a remote worker, tick the ‘remote job’ box, and include the address of your head office as the location. 
+ 
+ The job description 
+ Next fill out the job description, requirements and benefits. The information included in these sections will form your public-facing job advert. This is your chance to explain to potential candidates what the job involves. You’ll see a short list of tips on the right-hand side of your page. Take note of these as they will help speed up the job board review process. 
+ Along with these tips, you’ll also find links to two libraries of editable templates. Search over 400 job description templates and import the sections you need. Alternatively, import benefits from your previous jobs, or from the most common benefits in your location. 
+ Format the text in your description using the toolbar. You can add images and text emphasis to give it some flair. 
+ Images and embedded links may not appear on job board posts, but will always appear on your careers page. Important links (e.g. a link to a GDPR or privacy policy) should be copied and pasted into the description as normal text. 
+ 
+ The job targeting details 
+ At the bottom of the page, you’ll see a short section with the information required to better target your job post. These include Industry, Function, Salary, Employment type etc. To speed up the process, these will be auto-filled where possible, but fully editable, so that you can change the details if you need to. 
+ The fields here map to filtering options on the job board. Completing these fields helps qualified candidates find your job more easily. 
+ 
+ ‘Save draft’ or ‘Save & Continue’ 
+ After completing the fields, you’ll see two options and the end of the page. 
+ Save draft:  choose this option if you need other members of your team to feedback on the job before it’s published, or you need to stop working on the job before it’s complete. The draft will be saved and accessible via the link at the top right of the dashboard on your return. 
+ Save & continue:  choose this option to continue to the next step: creating an application form. 
+ If you have already saved a job and are returning to this page, you’ll see the option to ‘Publish‘ the job at the top right. Depending on how you like to hire, there are multiple publishing options. 
+ 
+ Facebook 
+ Twitter 
+ LinkedIn 
+ 
+ Was this helpful? 
+ 26 out of 29 found this helpful 
+ Have more questions?  Submit a request 
+ Related articles 
+ 
+ Hiring Manager: Getting Started  
+ Utilizing the salary field 
+ How to embed jobs on your website 
+ Managing departments 
+ Workable Texting [Beta] 
+ 
+ Not using Workable yet?  Try for free , or  Talk to us .  Privacy Policy    Site Status 

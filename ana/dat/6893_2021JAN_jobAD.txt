@@ -1,0 +1,179 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Backend Engineer 
+ [ 
+ 3Box 
+ ](/companies/3box) 
+ 
+ Remote 
+ 08 July, 2020 
+ Apply 
+ More jobs from 3Box About 3Box 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ Cloud 
+ JavaScript 
+ Node.js 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Learning budget 
+ Travel opportunities 
+ Retreats at unique locations 
+ Great tech stack 
+ Flexible budget available to attend learning and development opportunities such as meet-ups and conferences 
+ Modern tech-stack 
+ 
+ Drive the development of 3Box's core infrastructure and node software 
+ Role overview 
+ Key Outcomes & Responsibilities 
+ 
+ Ensure extremely reliable infrastructure that never fails, with smooth and efficient devops 
+ Drastically improves the performance of our distributed data infrastructure 
+ Architects creative solutions for monitoring and metrics on a distributed network 
+ Contributes ideas, IP and thought leadership about open network design to 3Box and related developer communities 
+ 
+ A successful candidate will in 6 months take on a leading role in defining and deploying the infrastructure needed to support the launch and scaling of the Ceramic Netowork. This includes spinning up nodes and testing the CeramicCore software, making a plan for how to roll out a public Ceramic Gateway and a flexible system for spinning nodes for customers that require their own instances, as well as capturing the relevant metrics from our infrastructure. 
+ In addition to this main project the candidate will also have 
+ 
+ Built automated load testing tools for the most critical parts of our current infrastructure that allows us to make updates and changes with confidence 
+ Contributes to ceramic core development by insights from simulations, deployments, and code 
+ Solidified our alert system so that we have granular insight into changes within our systems 
+ Streamlined our metrics based on business needs (ceramic / 3Box tradeoff) 
+ 
+ You make a great candidate if 
+ 
+ Have been responsible for large scale infrasturcture deployments 
+ Have shipped high quality javascript products that is used at scale 
+ Demonstrate an aptitude for understanding and designing distributed systems 
+ Extremely good at quickly understanding new problem areas, weighing tradeoffs, and recommending a path forward 
+ Ships quality code fast 
+ Frequently experiment with new technologies and think about better ways to build things 
+ 
+ 
+ [ 
+ 3Box 
+ ](/companies/3box) 
+ 
+ 1-9 
+ 
+ The user data cloud, built on unstoppable and open distributed data infrastructure and powering a new generation of apps that let devs built lighter, faster, more secure, more amazing products, with ease. #BuildBetter 
+ Node.js JavaScript Blockchain Seed Ethereum TYPESCRIPT Learning budget Travel opportunities 
+ View 1 job 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from 3Box About 3Box 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ Blockchain 
+ Cloud 
+ JavaScript 
+ Node.js 
+ 
+ Benefits & perks 
+ 
+ Remote working 
+ Learning budget 
+ Travel opportunities 
+ Retreats at unique locations 
+ Great tech stack 
+ Flexible budget available to attend learning and development opportunities such as meet-ups and conferences 
+ Modern tech-stack 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Full-stack Software Developer (Blockchain & Web3)$600 - 600 per dayQuazard Financial GamingUnited Kingdom 
+ Are you a Software Developer who breathes Blockchain with experience in trading and a passion for gaming? 
+ Remote 
+ javascript node.js react 
+ More Info Apply 
+ Remote Senior Software Engineer - Distributed Systems$100K - 140K + EquityAudiusUnited States of America 
+ Put power back into the hands of audio content creators 
+ Remote 
+ go javascript node.js python 
+ More Info Apply 
+ Remote Software Engineer - Product Engineering (Full Stack)$100K - 140K + EquityAudiusUnited States of America 
+ Put power back into the hands of audio content creators 
+ Remote 
+ go javascript node.js python 
+ More Info Apply 
+ Backend Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 

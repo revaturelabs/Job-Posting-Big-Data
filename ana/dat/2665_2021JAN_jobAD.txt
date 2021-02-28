@@ -1,0 +1,191 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Senior Software Engineer | Java 
+ J.P.Morgan 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Senior Software Engineer | Java 
+ J.P.Morgan 
+ [](mailto:?subject=Senior%20Software%20Engineer%20%7C%20Java&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14307879/senior-software-engineer-java/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ January 14, 2021 
+ Location: 
+ Glasgow, United Kingdom 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ Senior Software Engineer 
+ The role is in a co-located Agile development team which forms part of a larger global development group. You will be responsible for all aspects of software development and delivery with a particular focus on high quality maintainable code. You will have the opportunity to work as part of a Feature team covering a broad range of technologies including components at every level of the software stack. From user interface to message oriented server side processing, integration and database. We value enthusiastic technologists with a drive to build the right software in the right way. You will be joining a team of highly motivated and skilled software engineers who will help you to lay the foundations of a great career at JP Morgan. 
+ This is a hands-on role and you will be a highly experienced and skilled developer who is passionate about code quality and can help drive some of our planned initiatives such as DevOps, BDD, microservices and migration to a Cloud platform 
+ We value enthusiastic technologists with a drive to build the right software in the right way. You will be joining a team of highly motivated and skilled software engineers who will help you to lay the foundations of a great career at JP Morgan. 
+ This is a unique opportunity to join a rapidly expanding and successful team where we value our work-life balance and where you will be encouraged to help shape your own role and responsibilities. 
+ Responsibilities 
+ 
+ Design, develop, test and support mission critical enterprise applications using sound object oriented analysis and design principles. 
+ Provide technical leadership and direction 
+ Coach and mentor other members of the team 
+ Help define and implement best practices 
+ Proactively seek technical improvements and take the initiative to communicate / implement quality solutions 
+ Keep abreast of current developments and trends in area of expertise 
+ Participate and represent area in cross-functional groups with senior stakeholders 
+ 
+ Position requirements: 
+ 
+ Effective team player 
+ Excellent interpersonal, verbal and written communication skills. 
+ Self-starter prepared to work in a fast-paced, business-facing environment. 
+ Experience of working in an Agile environment 
+ Hands-on experience in designing and developing mission critical applications using Core Java (1.7 & 1.8) and Java EE 
+ Hands-on experience working on messaging technologies like JMS and MQ 
+ Hands-on experience working on Java Frameworks such as Spring & Hibernate 
+ Hands-on experience working on database technologies like Oracle or Sybase 
+ Strong knowledge of design patterns and their application in problem solving. 
+ Prior Experience with industry standard tools like Jenkins, JUnit, Maven and GIT 
+ Experience of modern software development practices like TDD and Pair Programming 
+ Detailed understanding of system development lifecycle, infrastructure best practices and risk management concepts. 
+ Knowledge of business system interactions, infrastructure dependencies. 
+ Experience of building and enhancing testing frameworks. 
+ Strong ability to learn and apply new / emerging technologies. 
+ Strong analytical and problem solving skills. 
+ Experience in financial services industry is preferred bot not necessary 
+ Experience of training and coaching a plus 
+ Exposure to Angular or other JavaScript frameworks a bonus 
+ 
+ 
+ 
+ Internal Number: 9782205 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at J.P.Morgan 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Senior Java Developer, Associate 
+ __  Singapore, Singapore 
+ 
+ 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ Principal Software Engineer 
+ __  Jersey City, New Jersey 
+ 
+ 
+ BNY Mellon 
+ __Today 
+ 
+ 
+ Software Engineer Lead, Cash Management - VP 
+ __  Singapore, Singapore 
+ 
+ 
+ J.P.Morgan 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

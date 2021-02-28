@@ -1,0 +1,126 @@
+  
+ 
+ Company
+ 
+ About us 
+ Competences 
+ Innovation 
+ Partners 
+ Tools 
+ Podcast & Youtube 
+ 
+ 
+ Services
+ 
+ Tool Chain Analysis 
+ Qualification 
+ Tool Usage 
+ Tool Configuration 
+ Test Automation 
+ AUTOSAR 
+ 
+ 
+ Products
+ 
+ TCA 
+ QST 
+ QKits 
+ QKit IBM DOORS 
+ QKit IBM ELM 
+ QKit Math Libraries 
+ Safety Plan 
+ Qualification Database 
+ 
+ 
+ Career 
+ Contact 
+ De   En 
+ 
+ Menu 
+ 
+ Company
+ 
+ Back 
+ About us 
+ Competences 
+ Innovation 
+ Partners 
+ Tools 
+ Podcast & Youtube 
+ 
+ 
+ Services
+ 
+ Back 
+ Tool Chain Analysis 
+ Qualification 
+ Tool Usage 
+ Tool Configuration 
+ Test Automation 
+ AUTOSAR 
+ 
+ 
+ Products
+ 
+ Back 
+ TCA 
+ QST 
+ QKits 
+ QKit IBM DOORS 
+ QKit IBM ELM 
+ QKit Math Libraries 
+ Safety Plan 
+ Qualification Database 
+ 
+ 
+ Career 
+ Contact 
+ De   En 
+ 
+ 
+ 10 July 2017 
+ Validas AG is looking for interns (m/f/d)! 
+ Are you studying and looking for an interesting part time job opportunity? 
+ Validas AG offers internships to students of Computer Science and comparable study courses. The work usually requires good knowledge in dealing with Java and Eclipse, but also provides an opportunity for familiarization with new topics. The working hours at Validas are flexible, such that one can balance work and studies quite efficiently. 
+ In addition to an attractive and pleasant environment in the heart of Munich, we offer interesting tasks and the opportunity to create a Bachelor / Master thesis. Topics for this can be discussed together with us. 
+ If you are interested, we look forward to receiving your application and will gladly make an appointment. 
+ Current tasks 
+ Conception and realization of a graphic model editor for tool chains with Eclipse 
+ The Tool Chain Analyzer (TCA) is a tool for modeling and error analysis of Tool chains developed by Validas AG and is used by numerous customers in the field of Functional safety to classify and qualify tools. The structure of a tool chain model essentially consists of tools (nodes) and files (edges) that are used (read or written) by the tools. Currently, the TCA models are created with EMF editors (textual) or with Excel. There is no way to display tool chains graphically, clearly and modularly. 
+ The aim of the work is to close this gap and create a graphical editor for the TCA. For this, the Eclipse-Framework SIRIUS should be used. 
+ The conceptual part is to find a suitable graphical representation with which the modeled tool chains can also be displayed hierarchically (modularly). As part of a research project with the TU Clausthal, Validas is currently exploring the relationship between tool chain and process models. 
+ Requirements and environment: 
+ 
+ Development with Eclipse and Java 
+ Use of Eclipse Modeling Framework (EMF) and SIRIUS 
+ Modeling with UML / EMF / SIRIUS 
+ Independent work in an innovative environment and a small company 
+ Collaboration/contribution to a research project 
+ Good support by experts with experience in research and practice 
+ 
+ The work can either be performed as a Master thesis or as a work student activitity. It is also possible to do the work in a two person team. In this case, both a tool chain editor and a similar editor for process models would be created. 
+ Test generation for AUTOSAR software components 
+ AUTOSAR is a standard for describing software components. Interfaces between software components (applications) and interfaces to the system (services) can be specified. The specification is in XML. 
+ In this work, a test generator is to be created, which generates specified test components and stub functions for the corresponding AUTOSAR software components. The specification of expected behavior is done as a sequence of calls (e.g., as MSC). Based on this sequence, AUTOSAR software components shall then be tested. Actual reactions of the components must be compared with expected responses and possible deviations should be examined more closely. 
+ The test generator to be developed can be demonstrated on simple software components and in case of success, industrial examples can also be tested. 
+ 
+ I had the impression that my supervisors were really interested in my learning success. 
+ Helene Weiss, intern 
+ 
+ Apply at 
+ Dr. Peter Braun 
+Tel  +49 (89) 5388669-0 
+E-Mail 
+ This website uses cookies to ensure you get the best experience on our website.  More info 
+ Got it! 
+   
+ 
+ Validas AG 
+ Arnulfstr. 27 
+ D-80335 Munich 
+ Tel  +49 (89) 5388669-0 
+ Fax  +49 (89) 5388669-10 
+ Mail  info@validas.de 
+ Imprint 
+ Privacy Policy 
+ 

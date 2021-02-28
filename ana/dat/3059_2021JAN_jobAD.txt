@@ -1,0 +1,217 @@
+
+ 
+  Navigate OSA      
+ 
+ OIDA 
+ OSA Publishing 
+ Optics & Photonics News 
+ Optics for Kids 
+ OSA History 
+ 
+ Optics Education Directory 
+ Green Photonics Guide 
+ WorkinOptics 
+ 
+ 
+ 
+ Not a Member? Join OSA. 
+ 
+ 
+ Log In 
+ 
+ 
+   
+   
+ Toggle navigation  Main Menu 
+ 
+ Job 
+Seekers 
+ Employers 
+ Internships 
+ Career 
+Fairs 
+ Professional 
+Development 
+ 20 Free 
+Job Postings  
+ 
+ Job Seeker 
+ Employer 
+ __Help/FAQs 
+ Home 
+ Jobs 
+ Internships 
+ Your Profile 
+ Resources 
+ __SIGN IN 
+ Job Seekers Sign In 
+ New Job Seeker? Sign Up 
+ Overview 
+ Saved Jobs 
+ Job Alerts 
+ Profile 
+ Documents 
+ Applications 
+ __ 
+ __ 
+ Loading... 
+ __ Job Seekers, Welcome to WORKinOPTICS.com 
+ 
+  Search   
+  Browse   
+  Explore   
+  Your Job Alerts   
+  Your Saved Jobs    0 
+ 
+ __Back to Search 
+ Software Engineer III 
+ S&P; Global 
+ SAVE [savedJobs]( "Save Job") 
+ SAVE [savedJobs]( "Save Job") 
+ Software Engineer III 
+ S&P; Global 
+ [](mailto:?subject=Software%20Engineer%20III&body=I found this job on WORKinOPTICS.com (http://jobs.workinoptics.com) and thought you might be interested. %0D%0A %0D%0A View this job @: https://jobs.workinoptics.com/jobs/14239282/software-engineer-iii/ "Email")  
+ Application 
+ Apply Now 
+ The application opened in a new tab. 
+ By using this feature you agree to our  Terms and Conditions  and  Privacy Policy . 
+ Details 
+ Posted: 
+ December 23, 2020 
+ Location: 
+ Centennial, Colorado 
+ __ Show Map 
+ Salary: 
+ Open 
+ Type: 
+ Full Time 
+ The Team: The Xpressfeed team is responsible for generating content feeds for the overall Data Management Solutions platform. Currently we have 12 agile teams working on Xpressfeed development and are looking to add 1 additional team to help scale out for the strong demand we are seeing from the business. 
+ The Impact: We are working to scale out the development team to deliver new value to customers faster. Type of projects include backend database development, Tools to configure metadata driven system, Scaling into cloud environment, new delivery platforms, and expanding and scaling infrastructure. 
+ What's in it for you: We are a global company and a global team with a history of delivering high value product feeds which drives over 500M in revenue for the S&P; Global Market Intelligence division. You will get hands on experience developing, deploying, and support the products. Being small agile teams, you will see the results of your development and feel the success of the business as you successfully deliver on projects. In addition you will get to work with a highly knowable and energetic team working to solve complex business problems in a fast, highly productive environment. 
+Responsibilities: 
+ 
+ 
+ Plan/manage tasks as per the release cycles. 
+ 
+ 
+ Design, Document and Develop solutions to support key business needs. 
+ 
+ 
+ Engineer components and common services based on standard corporate development models, languages and tools. 
+ 
+ 
+ Produce system design documents and contribute to technical walkthroughs. 
+ 
+ 
+ Collaborate effectively with technical and non-technical stakeholders. 
+ 
+ 
+ Support and maintain production environments 
+ 
+ 
+ Coach and mentor junior developers on the team accordingly. 
+ 
+ 
+ What We're Looking For: 
+ 
+ 
+ Bachelor's/PG degree in Computer Science, Information Systems or equivalent. 
+ 
+ 
+ A minimum of 5+ years of strong experience in application development using Java or .net technologies 
+ 
+ 
+ Proficient with software development lifecycle (SDLC) methodologies like Agile, Scrum, Test-driven development. 
+ 
+ 
+ Strong command of essential technologies: T-SQL , SQL Server, Oracle, PL/SQL, VLDB, Java, WebLogic 
+ 
+ 
+ At least a Year of experience in React, micro-services pattern, cloud technologies and managed services preferably AWS, Big Data and Analytics, PostgreSql, NoSql databases, nifi, Airflow, Spark, and Hive 
+ 
+ 
+ Good experience with analyzing and developing solutions involving relational database technologies on SQL Server and/or Oracle Platforms 
+ 
+ 
+ Knowledge and experience in developing, tuning, and maintaining large dataset. 
+ 
+ 
+ About Company (Global) & EEO Statements (NA Only): About S&P; Global Market Intelligence 
+At S&P; Global Market Intelligence, we know that not all information is important-some of it is vital. Accurate, deep and insightful. We integrate financial and industry data, research and news into tools that help track performance, generate alpha, identify investment ideas, understand competitive and industry dynamics, perform valuation and assess credit risk. Investment professionals, government agencies, corporations and universities globally can gain the intelligence essential to making business and financial decisions with conviction. 
+S&P; Global Market Intelligence is a division of S&P; Global (NYSE: SPGI), which provides essential intelligence for individuals, companies and governments to make decisions with confidence. For more information, visit, S&P; Global Market Intelligence 
+ To all recruitment agencies: S&P; Global does not accept unsolicited agency resumes. Please do not forward such resumes to any S&P; Global employee, office location or website. S&P; Global will not be responsible for any fees related such resumes. 
+ S&P; Global is an equal opportunity employer committed to making all employment decisions without regard to race/ethnicity, gender, pregnancy, gender identity or expression, color, creed, religion, national origin, age, disability, marital status (including domestic partnerships and civil unions), sexual orientation, military veteran status, unemployment status, or any other basis prohibited by federal, state or local law. Only electronic job submissions will be considered for employment. 
+If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person. 
+ The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law. 
+#LI-KRD2017 
+ 20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority - Ratings - (Strategic Workforce Planning) 
+ Job ID:  257573 
+ Posted On:  2021-01-06 
+ Location:  Centennial, Colorado, United States 
+ 
+ 
+ Internal Number: 9527386 
+  __  Create a Job Alert for Similar Jobs  
+ Connections working at S&P; Global 
+ More Jobs from This Employer 
+ More Jobs Like This 
+ 
+ 
+ 
+ Engineer (optical system) 
+ __  Chiang Mai, Thailand 
+ 
+ 
+ 
+ 
+ National Astronomical Research Institute of Thailand (Public Organization) 
+ __3 Weeks Ago 
+ 
+ 
+ Transmission Engineer III or Senior 
+ __  Moore, Oklahoma 
+ 
+ 
+ WFEC 
+ __4 Days Ago 
+ 
+ 
+ Software Engineer III 
+ __  Belfast, United Kingdom 
+ 
+ 
+ CME 
+ __Today 
+ 
+ 
+ 
+ __BACK TO TOP 
+ __ 
+ WORKinOPTICS.com is Just  One  of the Benefits. 
+ Discover what else OSA has to offer! 
+ __ 
+ Networking 
+ __ 
+ Certifications 
+ __ 
+ Training 
+  GET MORE INFO __  
+ The job you are trying to reach from  was originally posted at WORKinOPTICS.com. 
+ Help is on the way! 
+ We're sorry you are having trouble applying for this job. 
+ Please try loading this job using the following link before submitting your help request: 
+ 
+ Name: Email: 
+ Please provide details: 
+ Submit Help Request 
+ Error 
+ Close 
+ Continue 
+ Powered By 
+ You do not have JavaScript Enabled on this browser. Please  enable it  in order to use the full functionality of our website. 
+ Need assistance? Please call 1-888-491-8833 Ext. 1854 (Extension Required) or e-mail  customerservice+317612@support.boxwoodtech.com . 
+ 
+ About the Optical Society 
+ Contact Us 
+ 
+ Copyright (C)2016 Optical Society. All Rights Reserved. 

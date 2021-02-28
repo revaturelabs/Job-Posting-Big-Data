@@ -1,0 +1,87 @@
+Work With Craft 
+ 
+ 
+ Jobs 
+ 
+ 
+ Professionals 
+ 
+ 
+ About 
+ 
+ 
+ Our Plans 
+ 
+ 
+ __  Post Job 
+ 
+ 
+ __  Sign Up 
+ 
+ 
+ __  Log In 
+ 
+ 
+ __Menu 
+ Back End Software Engineer REMOTEPERMANENT 
+ Job Description 
+ The Role 
+Moment is a fast growing marketplace for creatives. What makes us unique is we have both a retail and marketplace where we sell everything from gear to online video lessons to in-person experiences. Beyond building a high performing e-commerce platform we’re building tools for our sellers to drive their business at Moment. 
+ We’re looking for a Mid to Senior Backend End Software Engineer to join our team and help us scale our Marketplace. Our platform is built with PHP, Yii2, and Craft. We are looking for someone who enjoys collaboration with other developers and ultimately shipping features that empower our customers and our team. 
+ U.S. applicants only please. No agencies, we are looking for an in-house, full-time hire. 
+ What You’ll Be Working On 
++ Working on a team of 5 engineers and 1 designer to ship features 
++ Working on our commerce platform: https://www.shopmoment.com 
++ Writing code in Yii2/Craft/PHP 7.3 and some in Vue/Js/Nuxt 
++ Reviewing code that you did not write 
+ You Need These Qualifications 
++ Strong understanding of Web Development 
++ Strong understanding of PHP and SQL 
++ Experience working in any MVC (e.g. Laravel, Yii2, Slim) 
++ Comfortable writing tests and architecting testable code 
+ These Qualifications Are A Plus 
++ Prior experience working with Craft CMS 
++ Experience with Docker and Kubernetes 
++ Experience with Vue.js, Nuxt, and/or Yarn 
++ Any ecommerce platform experience 
++ Experience working with a SPA 
++ Experience collaborating with remote teams 
++ Experience in other languages and frameworks: Webpack, GraphQL, Laravel, Typescript, ReactJS, SQL 
+ Compensation And Benefits 
+The Moment culture is about ownership so the more you take on the more you make. Otherwise, we keep compensation simple... 
+ 
+ A competitive salary. 
+ Equity in the company. 
+ Medical insurance or $600 per month to do what you want. 
+ Flexible Schedule: Work when you want, as long as you finish work on time and set teammates up for success. 
+ Free Moment gear and discounts on our whole store. 
+ A $500 stipend per year to spend on your own equipment. 
+ Three company offsites per year. 
+ Unlimited vacation. 
+ 
+ How to Apply 
+ Apply here: https://angel.co/company/moment-2/jobs/1118073-back-end-software-engineer 
+ Contact Info 
+ 
+ __ 
+ 
+ Company:  Moment 
+ 
+ __ 
+ 
+ Location:  Remote - US 
+ 
+ __ 
+ 
+ Email Address: 
+ 
+ __ 
+ 
+ Website:   shopmoment.com 
+ __  Posted January 8, 2021 
+ Follow Us 
+ 
+ __ 
+ __ 
+ 
+ Work With Craft (C) 2021. All Rights Reserved. 

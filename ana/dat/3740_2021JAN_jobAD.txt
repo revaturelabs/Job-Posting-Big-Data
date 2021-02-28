@@ -1,0 +1,80 @@
+
+ Work at a Startup Startup Jobs Internships Upcoming Events How it Works 
+ Log In › 
+ Puzzl (S19) 
+ Payroll infrastructure to help companies build their own payroll. 
+ Product Engineer (Full-Stack Role) 
+ $0 - $0 • 0.00% - 0.00% 
+ Location 
+ San Francisco / Remote 
+ Job Type 
+ Full-time 
+ Experience 
+ Any (new grads ok) 
+ About Puzzl 
+ Description 
+ Puzzl is a fintech startup focused on building payroll infrastructure. We help companies to build their own embedded payroll products. 
+ About the role 
+ Skills:  CSS, Express, Git, GraphQL, HTML, JavaScript, MongoDB, Nginx, Node.js, React, Docker 
+ Description 
+ Puzzl: Payroll infrastructure to help companies build their own payroll. 
+ Join our team as a Product Engineer (a full-stack role) where you will iterate on features quickly, build directly for customers, and wear multiple hats. 
+ Our team works out of an office in-person in SF, but you may work remotely until end of COVID.  Note: We do not provide sponsorship for employment visas. 
+ What We Do 
+ Puzzl helps companies-- everyone from gig companies + franchises to POS companies and neobanks-- to build their own embedded payroll products. Some companies want to offer embedded payroll to make an extra stream of revenue and offer their customers end-to-end platform functionality, while others simply want to build payroll to improve payment operations for their internal company. 
+ Puzzl has built a Payroll API that automates every aspect of payroll processing from onboarding to disbursement to reporting & filing. Our White-Label Front-End Components allow any company to customize our pre-built front-end products and launch a payroll company in days. You can think of Puzzl as a “Stripe for Payroll”! 
+ Payroll is the infrastructure of American society, controlling everything from school and library budgets to child support, to retirement/health savings. Puzzl is the payment and compliance infrastructure layer that helps companies navigate the ever-changing policy changes in 13,000+ tax jurisdictions. 
+ Cool Things We Do 
+ 
+ We are the only payroll company that offers  daily payroll ! Most quick-pay versions of payroll are modern versions of payday loans with hefty fees but at Puzzl we can do real payroll calculations and disbursement the same-day so workers can get paid in <24 hours. 
+ We help gig companies pay workers compliantly as W2 employees. Before, gig-companies were only able to classify workers as 1099 contractors because they had no way to pay workers quickly and efficiently. Our product serves as a “Stripe for Payroll” for gig startups so they can pay workers quickly and keep payment data in-app. 
+ 
+ Full-Stack Engineering Role 
+ You will play a critical role in: 
+ 
+ Product Usability:  We believe in making something people love. You'll be building user-facing tools and developing systems to improve reliability and usability. 
+ Customer Success:  Our customers are our #1 priority, and they rely on us for their payment infrastructure. You'll be gathering feedback from customers, iterating our product, and launching new features daily! 
+ Help us build out our engineering team:  You'll help us recruit, train, and manage our extended engineering team. 
+ 
+ You should join Puzzl if 
+ 
+ You want to work on a complex, far-reaching problem 
+ You're an obsessive builder or a side-project/hackathon enthusiast. 
+ You've built products from the ground up. 
+ You're an expert in: React, Redux, NodeJS, and AWS. 
+ You've previously worked in or literacy in the fintech/HR space. 
+ You want to be on the forefront of shaping the world's payment infrastructure and care about the problems we're trying to solve. 
+ You think you can beat us in a game of Catan. 
+ 
+ Join us!  You could be the missing piece in our Puzzl. 
+ Technology 
+ Tech Stack: React, Redux, NodeJS, MongoDB, and AWS. 
+ Other jobs at Puzzl 
+ Product Engineer (Full-Stack Role) 
+ fulltime 
+ San Francisco / Remote 
+ Full Stack 
+ $0 - $0 
+ 0.00% - 0.00% 
+ Any (new grads ok) 
+ Head of Product Implementation 
+ fulltime 
+ San Francisco, CA / Remote 
+ 3+ years 
+ Growth 
+ fulltime 
+ San Francisco, CA / Remote 
+ 1+ years 
+ Hundreds of YC startups are hiring on Work at a Startup. 
+ Sign up to see more › 
+ 
+ Work at a Startup 
+ Jobs Internships Events How it works Sign in 
+ Y Combinator 
+ About YC Press Privacy & Terms Contact 
+ Jobs by Role 
+ Software Engineer Jobs Design & UI/UX Jobs Product Manager Jobs Sales Jobs Marketing Jobs Support Jobs Operations Jobs 
+ Jobs by Location 
+ Software Engineer Jobs in San Francisco Product Manager Jobs in San Francisco Software Engineer Jobs in New York Product Manager Jobs in New York Software Engineer Jobs in Los Angeles Product Manager Jobs in Los Angeles 
+ Remote Jobs 
+ Remote Software Engineer Jobs Remote Design & UI/UX Jobs Remote Product Manager Jobs Remote Sales Jobs Remote Marketing Jobs Remote Support Jobs Remote Operations Jobs 

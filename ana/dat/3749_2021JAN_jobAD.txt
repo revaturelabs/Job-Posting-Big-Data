@@ -1,0 +1,186 @@
+We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. 
+ I Accept 
+ We use cookies and other tracking technologies to improve your browsing experience on our site, analyze site traffic, and understand where our audience is coming from. To find out more, please read our  privacy policy. 
+ By choosing 'I Accept', you consent to our use of cookies and other tracking technologies. Less 
+ I Accept 
+ We use cookies and other tracking technologies... More 
+ I Accept 
+ Login or register 
+ to apply for this job! 
+ Login or register 
+ to save this job! 
+ Login or register to start contributing with an article! 
+ Login or register 
+ to see more jobs from this company! 
+ Login or register 
+ to boost this post! 
+ Show some love to the author of this blog by giving their post some rocket fuel 🚀. 
+ Login or register to search for your ideal job! 
+ Login or register to start working on this issue! 
+ Engineers who find a new job through Functional Works average a 15% increase in salary 🚀 
+ Start with GitHub Start with Twitter Start with Stack Overflow Signup with Email Login with Email 
+ FunctionalWorks 
+ 
+ Jobs 
+ Open Source Issues 
+ Articles 
+ Companies 
+ 
+ Sign Up Login 
+ Continue with 
+ GitHub Stack Overflow Twitter Email 
+ 
+ Jobs 
+ Issues 
+ Articles 
+ Companies 
+ Metrics 
+ For Employers 
+ 
+ 
+ Senior Solutions Engineer 
+ [ 
+ Ethyca 
+ ](/companies/ethyca) 
+ 
+ Remote 
+ 11 January, 2021 
+ Apply 
+ More jobs from Ethyca About Ethyca 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ GCP 
+ Java 
+ NoSQL 
+ TERRAFORM 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ Equity 
+ 
+ Developer tools to make data privacy easy. Solving CCPA & GDPR for teams big & small. 
+ Role overview 
+ As Ethyca's  inaugural Solutions Engineer  , you'll be responsible for owning the technical aspects of our customer lifecycle, whether it's post-sale technical implementation or ongoing technical consulting and troubleshooting. You'll partner closely with our Customer Success team, and over time, we'll look to you to further build out processes and best practices to ensure our customers' technical success with our product. The Customer Success team requires technical expertise that can act as the liaison between customers, the customer-facing success managers and other parts of the organization including engineering and product. When interacting with customers, be ready to talk to engineers of every variety, lawyers, and business operations resources alike; you know how to quickly locate the root cause of technology challenges that can occur from the time a customer signs up for Ethyca to the time they start processing their 100th data subject request. Your super power is in translating complex technical concepts for customers and internal stakeholders to understand. In this role, you will lay the foundations for process building and creating long-term relationships between Ethyca and our customers. 
+ What you will do 
+ 
+ Analyze and document customer requirements and data patterns/flow. 
+ Configure and test new integrations per the customers’ requirements. 
+ Deploy, configure and test java-based privacy agents for the customer. 
+ Document customer implementations and configurations. 
+ Work closely with Ethyca’s product team to deliver product feedback and stay current on product releases and roadmap features. 
+ Maintain a deep understanding of Ethyca’s product feature set and the growing privacy landscape. 
+ Serve as a consultant, providing excellent customer service and maintaining excellent customer relationships. 
+ Identify, ticket and resolve customer issues in a timely manner, working with product engineering team as needed 
+ Develop internal and external processes and workflows to increase efficiencies across the user customer onboarding journey. 
+ 
+ 
+ Who you are 
+ 
+ A  self-starting software engineer at heart . With 5-7 years of engineering or technical implementation experience working with SaaS software products, you know  just enough  SQL and noSQL, how to modify terraform scripts, how to manage kubernetes pods, and are a general expert in cloud service management (AWS, GCP, Azure). 
+ Empathetic to our customers and their needs. You’ve been in a customer-forward role for 1-3 years as a technical resource and are able to lead conversations with confidence. Customers demand a lot from a data privacy compliance product. We are here to first ensure that our customers are compliant with data protection laws. 
+ An experienced  integrator  , having worked with infrastructure, net-sec-ops, devops teams, data/base engineering teams, and product engineering teams and knowing how and when to engage each. 
+ A relentless  troubleshooter . No problem too tough, no issue too elusive; we are looking for someone who will tackle a customer deployment or implementation problem and work through it, rather than around it. 
+ An  egoless, yet expert  technical liaison between Ethyca product engineering team and Ethyca’s customers. We rely on your expertise of knowing the customer’s setup to inform both product delivery and roadmap. 
+ 
+ We are hiring US-based candidates for this remote role with a preference toward candidates in the NYC area as the role will require East coast working hours. 
+ 
+ Benefits 
+ 
+ Cash + Equity + Bonus 
+ Health, Dental, and Vision insurance fully paid by the company 
+ Flexible office hours & vacation policy 
+ Maternity & Paternity leave 
+ Commuter discounts 
+ 
+ We are proud to foster a workplace free from discrimination. We strongly believe that diversity of experience, perspectives, and the background will lead to a better environment for our employees and a better product for our users 
+ 
+ What's it like to work at Ethyca? 
+ At its core, Ethyca is engineering company. We're building a missing component of the internet's infrastructure - privacy-respecting data systems. We take on some of the most challenging technical problems in data privacy so that other engineering teams can focus on building their products and businesses safe in the knowledge their tech stack handles privacy and ethics seamlessly. 
+ As such, we care more than most about trust and ethics - our name is a reflection of that belief - and we think deeply about the affect of ethics in data-driven systems and carry that belief through to our teams respect for each other and our transparency in the companies direction and goals to solve some of the most pressing problems in the technology community. 
+ 
+ [ 
+ Ethyca 
+ ](/companies/ethyca) 
+ 
+ 10-49 
+ 
+ Ethyca builds automated data privacy infrastructure and tools for developers and privacy teams to easily build products that comply with GDPR, CCPA Privacy Regulations. Ethyca's powerful and flexible automated data privacy and protection tools provide any business with a future-proof solution to compliance with privacy regulations across global jurisdictions. Whether you're simply collecting consumer email addresses or inferring complex data points from unlimited data points, Ethyca provides your product, engineering and privacy teams with unmatched ease of use and functionality to better care about your user's data. We believe that user privacy matters more now than ever and that the solution to managing user data is not in regulation but in code. We are a passionate and excited team of problem-solvers (that also happen to be music lovers, exercise enthusiasts, PC and console gamers, and wine aficionados). We not only love solving challenges for our customers, but also thinking about the current and future state of data privacy in society. At its core, Ethyca is engineering company. We're building a missing component of the internet's infrastructure - privacy-respecting data systems. If you're as stimulated about this mission as we are, we'd love to talk to you. 
+ Health Insurance Technology Series A AWS Azure CI/CD Google Cloud Equity 
+ View 4 jobs 
+ Engineers who find a new job through Functional Works average a 15% increase in salary. 
+ Apply 
+ See more 
+ Apply 
+ More jobs from Ethyca About Ethyca 
+ Salary 
+ Competitive 
+ Contract type 
+ Full time 
+ Remote working 
+ Technologies & frameworks 
+ 
+ AWS 
+ GCP 
+ Java 
+ NoSQL 
+ TERRAFORM 
+ 
+ Benefits & perks 
+ 
+ Flexible working 
+ Health insurance 
+ Equity 
+ 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Get hired! 
+ Sign up now and apply for roles at companies that interest you. 
+ Engineers who find a new job through Functional Works average a  15%  increase in salary. 
+ Start with GitHub Start with Twitter Start with Stack Overflow Start with Email 
+ Other roles that might interest you 
+ Senior Clojure Engineer£45K - 75KSwirrlUnited Kingdom 
+ Improving data insights using Clojure in the Public Sector! 📈 
+ Remote 
+ aws clojure clojurescript gcp graphql javascript react 
+ More Info Apply 
+ Senior DevOps CompetitiveStuartSpain 
+ Sr. DevOps who will focus on automation and optimization of the platform's development management lifecycle. 
+ Remote 
+ aws ansible kubernetes linux python terraform unix 
+ More Info Apply 
+ Scala DeveloperCompetitiveTalenthouseUnited Kingdom 
+ Full-time, permanent Scala Developer 
+ Remote 
+ sql aws heroku java react ruby on rails scala 
+ More Info Apply 
+ Senior Solutions Engineer 
+ Apply 
+ WorksHub 
+ 📧 hello@works-hub.com 
+ 🇬🇧 81 Rivington Street, London, EC2A 3AY 
+ 🇺🇸 108 E 16th Street, New York, NY 10003 
+ WorksHub 
+ Careers Companies Sitemap Metrics Functional Works Blockchain Works JavaScript Works Ai Works Golang Works Java Works Python Works Remote Works 
+ For companies 
+ For employers Register company Pricing and plans Request a demo Terms of Service 
+ Jobs 
+ Scala jobs Clojure jobs ClojureScript jobs Haskell jobs Erlang jobs Elixir jobs Elm jobs ReasonML jobs OCaml jobs 
+ Locations 
+ Jobs in New York Jobs in London Jobs in San Francisco Jobs in Berlin Jobs in Barcelona Remote Jobs 
+ Articles 
+ Scala articles Clojure articles ClojureScript articles Haskell articles Erlang articles Elixir articles F# articles 
+ 
+ © 2020 WorksHub 
+ Privacy Policy 
+ Developed by WorksHub 
