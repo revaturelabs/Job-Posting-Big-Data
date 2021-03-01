@@ -1,1 +1,0 @@
-if (!window.jQuery) { document.write('
