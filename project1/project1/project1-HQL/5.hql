@@ -111,3 +111,4 @@ SELECT event_type, AVG(page_seconds_since_previous_revision) FROM revision_wiki 
 SELECT SUM(count_views) FROM pageviews_01252021_6pm;
 SELECT SUM(count_views) FROM pageviews_01252021;
 
+Je

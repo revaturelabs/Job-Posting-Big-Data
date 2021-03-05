@@ -1,0 +1,64 @@
+<div class="bti-ui-job-result-wrapper bti-ui-job-result-wrapper-even  bti-ui-job-detail-result-dsparent- ">
+	<div class="bti-ui-job-detail-container">
+
+		
+		
+		<div class="bti-ui-job-result-flag-area ">
+			
+		</div>	
+
+		
+		<div class="bti-ui-job-details" style="">
+			
+			<div class="bti-ui-job-detail-row1">
+				
+				<div class="bti-ui-job-result-detail-title">
+					
+					<a target='_blank' onmousedown="indeed_clk(this,'9861');" href='https://www.indeed.com/viewjob?jk=dad833efbd5f9628&qd=u9Q4Xm9uA_DwIWzfxEBVYhRYQ3z2M2XN4j6SEGJmFyhie5tTHNU27ElohVW7fiDXdXKY71piTlUJdMMOufewQtqmGy-IE-_P5k1vDK8h1EuDapuUAl8JFJo1pVqEASyKPgo4jKDV6OPe7vHrq-TZ3ZxfD0HjBywxPpjZ1KjwsnoFj8Rg0Qfq9klr2tAAjaLpdxlxaTWdbX9011fLlkqqYR6nojn63AzuMLy1372sZMY&indpubnum=5518616257761837&atk=1et4h6v56sabe800' class="bti-job-detail-link" id="jobURL">Entry-Level Strategic Account Manager</a>
+				</div>
+				
+				<div class="bti-ui-job-result-detail-location" style="">
+										
+						<i class="fa fa-map-marker" aria-hidden="true"></i> &nbsp;Tucson, AZ 
+				</div>
+			</div>
+
+			
+			<div class="bti-ui-job-detail-row2" style="">
+				
+				<div>
+					<div class="bti-ui-job-result-detail-employer" style="">
+						State Industrial Products 
+	 				</div>	
+				</div>
+				
+				<div class="bti-ui-job-result-detail-age">
+					
+					
+				</div>	
+			</div>	
+		</div>
+	</div>
+
+	
+	<div class="bti-ui-job-result-right-col" style="">
+
+				
+		
+			<div id="vid-" class="bti-jd-virgil-div" style="width: 125px;border: 0px solid red;float: left; padding: 5px; margin-right: 10px; /*min-height: 55px;*/ text-align: center;"></div>
+		
+
+		
+		<a target='_blank' onmousedown="indeed_clk(this,'9861');" href='https://www.indeed.com/viewjob?jk=dad833efbd5f9628&qd=u9Q4Xm9uA_DwIWzfxEBVYhRYQ3z2M2XN4j6SEGJmFyhie5tTHNU27ElohVW7fiDXdXKY71piTlUJdMMOufewQtqmGy-IE-_P5k1vDK8h1EuDapuUAl8JFJo1pVqEASyKPgo4jKDV6OPe7vHrq-TZ3ZxfD0HjBywxPpjZ1KjwsnoFj8Rg0Qfq9klr2tAAjaLpdxlxaTWdbX9011fLlkqqYR6nojn63AzuMLy1372sZMY&indpubnum=5518616257761837&atk=1et4h6v56sabe800' id="Logo"><span style="display:none;">Client Logo</span></a>
+		<div class="bti-ui-job-result-logo-container ">
+
+			<a target='_blank' onmousedown="indeed_clk(this,'9861');" href='https://www.indeed.com/viewjob?jk=dad833efbd5f9628&qd=u9Q4Xm9uA_DwIWzfxEBVYhRYQ3z2M2XN4j6SEGJmFyhie5tTHNU27ElohVW7fiDXdXKY71piTlUJdMMOufewQtqmGy-IE-_P5k1vDK8h1EuDapuUAl8JFJo1pVqEASyKPgo4jKDV6OPe7vHrq-TZ3ZxfD0HjBywxPpjZ1KjwsnoFj8Rg0Qfq9klr2tAAjaLpdxlxaTWdbX9011fLlkqqYR6nojn63AzuMLy1372sZMY&indpubnum=5518616257761837&atk=1et4h6v56sabe800' id="Logo"><span style="display:none;">Client Logo</span></a>
+
+			
+		</div>
+ 		<div class="bti-ui-job-result-save-search-wrapper">
+			
+			
+		</div>	
+	</div>		
+</div>	

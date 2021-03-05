@@ -1,0 +1,150 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "project3-test",
+        "directory": "/home/jeffy892/projects/project3",
+        "workspaceDir": "/home/jeffy892/projects/project3",
+        "sources": [
+            "/home/jeffy892/projects/project3/src/test/scala",
+            "/home/jeffy892/projects/project3/src/test/scala-2.12",
+            "/home/jeffy892/projects/project3/src/test/scala-2",
+            "/home/jeffy892/projects/project3/src/test/java",
+            "/home/jeffy892/projects/project3/target/scala-2.12/src_managed/test"
+        ],
+        "dependencies": [
+            "project3"
+        ],
+        "classpath": [
+            "/home/jeffy892/projects/project3/.bloop/project3/scala-2.12/classes",
+            "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+        ],
+        "out": "/home/jeffy892/projects/project3/.bloop/project3",
+        "classesDir": "/home/jeffy892/projects/project3/.bloop/project3/scala-2.12/test-classes",
+        "resources": [
+            "/home/jeffy892/projects/project3/src/test/resources",
+            "/home/jeffy892/projects/project3/target/scala-2.12/resource_managed/test"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.12.12",
+            "options": [
+                
+            ],
+            "jars": [
+                "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/jline.jar",
+                "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/scala-compiler.jar",
+                "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/jansi.jar",
+                "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/scala-reflect.jar",
+                "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/scala-library.jar",
+                "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/scala-xml_2.12.jar"
+            ],
+            "analysis": "/home/jeffy892/projects/project3/target/streams/test/bloopAnalysisOut/_global/streams/inc_compile_2.12.zip",
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "/usr/lib/jvm/java-8-openjdk-amd64/jre",
+                "options": [
+                    "-Duser.dir=/home/jeffy892/projects/project3"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.12",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/home/jeffy892/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.12.12",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/home/jeffy892/.sbt/boot/scala-2.12.12/lib/scala-library.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/home/jeffy892/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.12.12/scala-library-2.12.12-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "test"
+        ]
+    }
+}
