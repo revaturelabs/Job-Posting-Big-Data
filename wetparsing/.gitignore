@@ -3,3 +3,5 @@
 .metals
 target/
 *.wet
+*.gz
+*.py
