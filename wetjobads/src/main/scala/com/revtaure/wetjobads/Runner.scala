@@ -43,9 +43,9 @@ object Runner {
 
     val records = hadoopFile.map { case (longWritable, text) => text.toString }
     val jobAds = findJobAds(records)
+    val adsWithQualifications = withQualifications(jobAds)
 
-    jobAds.saveAsTextFile("jobAds")
-
+    adsWithQualifications.saveAsTextFile("jobAds2")
   }
 
   def findJobAds(records: RDD[String]): RDD[String] = {
@@ -69,5 +69,15 @@ object Runner {
         })
         textWithoutHeaders.mkString("\n")
       })
+  }
+
+  def withQualifications(jobAds: RDD[String]): RDD[String] = {
+    jobAds
+    .filter(ad => {
+      val lowercase = ad.toLowerCase()
+      lowercase.contains("requirement") ||
+      lowercase.contains("skill") ||
+      lowercase.contains("certification")
+    })
   }
 }
