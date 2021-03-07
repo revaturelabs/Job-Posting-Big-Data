@@ -1,7 +1,0 @@
-.bloop
-.vscode
-.metals
-target/
-*.wet
-*.gz
-*.py
