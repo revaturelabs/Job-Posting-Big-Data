@@ -2,6 +2,7 @@
 .vscode
 .metals
 target/
+dat/
 *.wet
 *.gz
 *.py

@@ -18,13 +18,12 @@ object Runner {
     val sc = spark.sparkContext
 
     import spark.implicits._
-    spark.sparkContext.setLogLevel("WARN")
+    sc.setLogLevel("WARN")
 
-    val wetFiles = List(
-      "wet/CC-MAIN-20201123153826-20201123183826-00017.warc.wet.gz",
-      "wet/CC-MAIN-20201123153826-20201123183826-00018.warc.wet.gz"
-      // "s3a://commoncrawl/crawl-data/CC-MAIN-2020-05/segments/1579250589560.16/wet/CC-MAIN-20200117123339-20200117151339-00018.warc.wet.gz"
-      // ,"s3a://commoncrawl/crawl-data/CC-MAIN-2020-05/segments/1579250589560.16/wet/CC-MAIN-20200117123339-20200117151339-00019.warc.wet.gz"
+    val wetFiles = Seq(
+      "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00003.warc.wet.gz",
+      "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00005.warc.wet.gz",
+      "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00007.warc.wet.gz"
     )
 
     val textInput = wetFiles.mkString(",")
@@ -45,7 +44,8 @@ object Runner {
     val jobAds = findJobAds(records)
     val adsWithQualifications = withQualifications(jobAds)
 
-    adsWithQualifications.saveAsTextFile("jobAds2")
+    val df = adsWithQualifications.toDF().limit(100000)
+    df.write.format("csv").mode("overwrite").save("jobAds")
   }
 
   def findJobAds(records: RDD[String]): RDD[String] = {
@@ -63,11 +63,12 @@ object Runner {
       .map(record => {
         val lines = record.split("\n")
         val textWithoutHeaders = lines.filter(l => {
-          (!l.startsWith("WARC") || l.startsWith("WARC-Target-URI:")) &&
+            !l.startsWith("WARC") &&
             !l.startsWith("Content-Type:") &&
-            !l.startsWith("Content-Length:")
+            !l.startsWith("Content-Length:") &&
+            !l.trim().isEmpty()
         })
-        textWithoutHeaders.mkString("\n")
+        textWithoutHeaders.mkString("")
       })
   }
 
