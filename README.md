@@ -1,16 +1,28 @@
 # Job-Posting-Big-Data
 
-## Common Crawl Data:
-[click me](https://index.commoncrawl.org/)
+## Prerequisites
 
-[ccmain example](http://commoncrawl.org/the-data/examples/)
+Before you begin, ensure you have met the following requirements:
+<!--- These are just example requirements. Add, duplicate or remove as required --->
+* You have installed the latest version of [cdx-toolkit](https://github.com/cocrawler/cdx_toolkit)
+* You have a `<Windows/Linux/Mac>` machine. 
+* You have read a list of links about how to download and manipuate common crawl data as follows:
 
-[ccmain index](https://commoncrawl.org/2018/03/index-to-warc-files-and-urls-in-columnar-format/)
+  - [ccmain starts](https://commoncrawl.org/the-data/get-started/)
 
-[search 2021.01](https://index.commoncrawl.org/CC-MAIN-2021-04)
+  - [ccmain index](https://index.commoncrawl.org/)
 
-## Tools:
-[cdx-toolkit](https://github.com/cocrawler/cdx_toolkit)
+  - [ccmain projs](http://commoncrawl.org/the-data/examples/)
+
+  - [ccmain warcs](https://commoncrawl.org/2018/03/index-to-warc-files-and-urls-in-columnar-format/)
+
+  - [search 2021.01](https://index.commoncrawl.org/CC-MAIN-2021-04)
+
+## Web Scraping and Beautiful Soup
+
+Web pages can be represented by the objects that comprise their structure and content. This representation is known as the Document Object Model (DOM). The purpose of the DOM is to provide an interface for programs to change the structure, style, and content of web pages. The DOM represents the document as nodes and objects. Amongst other things, this allows programming languages to interactively change the page and HTML!
+
+Beautiful Soup is a Python library designed for quick scraping projects. It allows you to select and navigate the tree-like structure of HTML documents, searching for particular tags, attributes or ids. It also allows us to then further traverse the HTML documents through relations like children or siblings. In other words, with Beautiful Soup, you could first select a specific div tag and then search through all of its nested tags.
 
 ## Questions:
 
@@ -40,19 +52,5 @@ Q: What percentage of entry level jobs require previous experience?
 Q: What are the top three qualifications or certifications requested by employers?
 
 ### 8/ Low Code/No Code [Ref.](https://en.wikipedia.org/wiki/Low-code_development_platform)
-Q: What percentage of Tech Job Listings require experience in a Low Code or No Code solution?
-
-### 9/ Open Questions : Does gender/age/racial/education-level matter for Tech Job seekers?
-
-Q: What are three tech companies recruiting the most female employees?
-
-Q: Are they single, married or mom? 
-
-Q: What are three tech companies recruiting the most employees who bring more than 5+/10+ years of experiences?
-
-Q: If yes, is there a significant spike in tech job seeker's age in these top 3 companies as mentioned above?
-
-Q: Is there a significant spike in tech job seeker's age in the rest of companies?
-
-Q: What's the percentage  of non-Caucasian employees in the top management? What's the racial for the majority of CEO/co-founder? 
+Q: What percentage of Tech Job Listings require experience in a Low Code or No Code solution? 
 
