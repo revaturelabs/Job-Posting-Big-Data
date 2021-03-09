@@ -18,7 +18,13 @@ Before you begin, ensure you have met the following requirements:
 
   - [search 2021.01](https://index.commoncrawl.org/CC-MAIN-2021-04)
 
-## Web Scraping and Beautiful Soup
+## HTML, CSS, Web Scraping and Beautiful Soup
+
+HTML, or HyperText Markup Language, is a markup language that describes the structure and semantic meaning of web pages. Web browsers, such as Mozilla Firefox, Internet Explorer, and Google Chrome interpret the HTML code and use it to render output. Unlike Python, JavaScript and other programming languages, markup languages like HTML don't have any logic behind them. Instead, they simply surround the content to convey structure and meaning.
+
+HTML lets us mark-up our content with semantic structure. It forms the skeleton of our web page. It would be great to be able to say, "Browser, when we see a `p` tag with `id` of `my-name`, make the first letter be huge!" Or, to get our readers' attention, we might say, "Browser, if you see any tag with a class of warning surround it with a red box!" HTML authors believe that **creating** marked-up documents and **styling** marked-up documents are entirely separate tasks. They see a difference between **writing content** (the data within the HTML document) and specifying presentation, the rules for **displaying** the rendered **elements**.
+
+Browsers combine the content (HTML) and presentation (CSS) layers to display web pages. CSS, or "Cascading Style Sheets," tells us how to write rules that define how browsers will present HTML. Rules in CSS won't look like HTML and they usually live in a file apart from our HTML file. CSS is the language for styling web pages. CSS instructions live apart from the HTML elements and have a different look and feel ("syntax"). CSS directives give web pages their specific look and feel. If you have ever been impressed by how a website can be displayed on a desktop browser while the same content looks great on a mobile device, you have CSS to thank for it!
 
 Web pages can be represented by the objects that comprise their structure and content. This representation is known as the Document Object Model. ![DOM](./fig/DOM-model.svg.png) The purpose of the DOM is to provide an interface for programs to change the structure, style, and content of web pages. The DOM represents the document as nodes and objects. Amongst other things, this allows programming languages to interactively change the page and HTML!
 
@@ -30,6 +36,10 @@ Beautiful Soup is a Python library designed for quick scraping projects. It allo
 * Determine the pagination scheme of a website and scrape multiple pages
 * Identify and scrape images from a web page
 * Save images from the web as well as display them in a Pandas DataFrame for easy perusal
+
+## API, Client-Server Model and HTTP Request/Response Cycle
+
+
 
 ## Questions:
 
