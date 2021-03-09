@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Web Scraping and Beautiful Soup
 
-Web pages can be represented by the objects that comprise their structure and content. This representation is known as the Document Object Model (DOM). The purpose of the DOM is to provide an interface for programs to change the structure, style, and content of web pages. The DOM represents the document as nodes and objects. Amongst other things, this allows programming languages to interactively change the page and HTML!
+Web pages can be represented by the objects that comprise their structure and content. This representation is known as the Document Object Model (![DOM](./fig/DOM-model.svg.png)). The purpose of the DOM is to provide an interface for programs to change the structure, style, and content of web pages. The DOM represents the document as nodes and objects. Amongst other things, this allows programming languages to interactively change the page and HTML!
 
 Beautiful Soup is a Python library designed for quick scraping projects. It allows you to select and navigate the tree-like structure of HTML documents, searching for particular tags, attributes or ids. It also allows us to then further traverse the HTML documents through relations like children or siblings. In other words, with Beautiful Soup, we could first select a specific div tag and then search through all of its nested tags.
 
