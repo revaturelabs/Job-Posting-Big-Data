@@ -12,7 +12,6 @@ object Runner {
     val spark = SparkSession
       .builder()
       .appName("WET Job Ads")
-      .master("local[4]")
       .getOrCreate()
 
     val sc = spark.sparkContext
@@ -20,20 +19,20 @@ object Runner {
     import spark.implicits._
     sc.setLogLevel("WARN")
 
-    val wetFiles = Seq(
-      "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00003.warc.wet.gz",
-      "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00005.warc.wet.gz",
-      "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00007.warc.wet.gz"
-    )
+    val wetSegments = "s3a://wet-segments/random-paths.txt"
+    val wetS3Paths  = sc
+    .textFile(wetSegments)
+    .map("s3a://commoncrawl/" + _)
+    .collect()
 
-    val textInput = wetFiles.mkString(",")
+    val inputFiles = wetS3Paths.mkString(",")
 
     // Do some unsightly hadoop configuration in order to use a custom delimter
     val delimiter = "WARC/1.0"
     val conf = new Configuration(sc.hadoopConfiguration)
     conf.set("textinputformat.record.delimiter", delimiter)
     val hadoopFile = sc.newAPIHadoopFile(
-      textInput,
+      inputFiles,
       classOf[TextInputFormat],
       classOf[LongWritable],
       classOf[Text],
@@ -41,11 +40,11 @@ object Runner {
     )
 
     val records = hadoopFile.map { case (longWritable, text) => text.toString }
-    val jobAds = findJobAds(records)
-    val adsWithQualifications = withQualifications(jobAds)
+    val jobAdsRdd = findJobAds(records)
+    val jobAdsDf = jobAdsRdd.toDF().limit(100000)
 
-    val df = adsWithQualifications.toDF().limit(100000)
-    df.write.format("csv").mode("overwrite").save("jobAds")
+    val outputBucket = "s3a://emr-output-revusf/jobads"
+    jobAdsDf.write.format("csv").mode("overwrite").save(outputBucket)
   }
 
   def findJobAds(records: RDD[String]): RDD[String] = {
