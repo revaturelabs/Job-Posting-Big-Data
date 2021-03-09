@@ -28,6 +28,8 @@ Beautiful Soup is a Python library designed for quick scraping projects. It allo
 * Select specific elements from HTML using Beautiful Soup
 * Use regular expressions to extract items with a certain pattern within Beautiful Soup
 * Determine the pagination scheme of a website and scrape multiple pages
+* Identify and scrape images from a web page
+* Save images from the web as well as display them in a Pandas DataFrame for easy perusal
 
 ## Questions:
 
