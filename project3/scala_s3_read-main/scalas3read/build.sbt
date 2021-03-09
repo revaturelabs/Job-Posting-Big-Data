@@ -2,7 +2,7 @@ import Dependencies._
 
 // Mac scalaVersion
 // ThisBuild / scalaVersion := "2.12.13"
-ThisBuild / scalaVersion := "2.11.12"
+ThisBuild / scalaVersion := "2.12.13"
 ThisBuild / version := "0.1.0-SNAPSHOT"
 ThisBuild / organization := "com.revature"
 ThisBuild / organizationName := "revature"

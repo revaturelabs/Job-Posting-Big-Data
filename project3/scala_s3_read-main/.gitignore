@@ -99,6 +99,7 @@ dev/create-release/*final
 dev/create-release/*txt
 dev/pr-deps/
 dist/
+data/
 docs/_site
 docs/api
 sql/docs
