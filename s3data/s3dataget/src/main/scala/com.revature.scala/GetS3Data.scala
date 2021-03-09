@@ -10,6 +10,7 @@ import org.apache.spark.sql.types.{
   BooleanType,
   StringType
 }
+import org.apache.spark.sql.Dataset
 
 object GetS3Data {
 
@@ -18,7 +19,7 @@ object GetS3Data {
     val spark = SparkSession
       .builder()
       .appName("Get S3 Data")
-      .config("spark.master", "local[4]")
+      //.config("spark.master", "local[*]")
       .config("spark.sql.warehouse.dir", "src/main/recources/warehouse")
       .getOrCreate()
 
@@ -27,14 +28,13 @@ object GetS3Data {
     val key = System.getenv(("AWS_ACCESS_KEY"))
     val secret = System.getenv(("AWS_SECRET_KEY"))
 
-    spark.sparkContext.hadoopConfiguration.set("fs.s3a.attempts.maximum", "30")
     spark.sparkContext.hadoopConfiguration.set("fs.s3a.access.key", key)
     spark.sparkContext.hadoopConfiguration.set("fs.s3a.secret.key", secret)
 
     //rddParser(spark)
-    //dfParser(spark)
+    dfParser(spark)
     //urlIndex(spark)
-    jobExample(spark)
+    //jobExample(spark)
 
     spark.close()
   }
@@ -82,61 +82,172 @@ object GetS3Data {
     //   )
     //   .load()
 
-    val jobsRegex = "/jobs|/job-listing|/job-posting"
-
-    val techJobs = List(
-      "/technology",
-      "/computer",
-      "/java",
-      "/python",
-      "/scala",
-      "/code",
-      "/coding",
-      "/programming",
-      "/backend",
-      "/frontend",
-      "/web-development",
-      "/website-development",
-      "/ruby",
-      "/sql",
-      "/html",
-      "/fullstack",
-      "/full-stack",
-      "/css",
-      "/software",
-      "/cybersecurity",
-      "/cryptography",
-      "/it-support",
-      "/it-specialist",
-      "/spark",
-      "/hive",
-      "/hql",
-      "/hadoop",
-      "/mapreduce",
-      "/hdfs",
-      "/c#",
-      "/sdk",
-      "/aws",
-      "/computing",
-      "/data",
-      "/apache",
-      "/kafka",
-      "/mongo"
+    val jobsRegex = List(
+      "jobs",
+      "job-listing",
+      "job-posting",
+      "indeed.com/",
+      "careers",
+      "glassdoor.com/",
+      "/employment"
     )
 
-    val commonCrawlJobs = spark.read
+    val techJobs = List(
+      "technology",
+      "comput",
+      "java",
+      "python",
+      "scala",
+      "code",
+      "coding",
+      "programming",
+      "backend",
+      "frontend",
+      "web-development",
+      "website-development",
+      "ruby",
+      "sql",
+      "html",
+      "fullstack",
+      "full-stack",
+      "css",
+      "software",
+      "cybersecurity",
+      "cryptography",
+      "it-support",
+      "it-specialist",
+      "spark",
+      "hive",
+      "hql",
+      "hadoop",
+      "mapreduce",
+      "hdfs",
+      "c#",
+      "sdk",
+      "aws",
+      "data",
+      "apache",
+      "kafka",
+      "mongo",
+      "c#",
+      "programmer",
+      "analytics"
+    )
+
+    val questionFilter = "low cod|no cod|low-cod|no-cod"
+
+    lazy val commonCrawl = spark.read
       .option("lineSep", "WARC/1.0")
-      .parquet(
-        "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/wet/"
+      .textFile(
+        "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00182.warc.wet.gz"
       )
-      .as[String]
       .map(str => str.substring(str.indexOf("\n") + 1))
-      .filter($"value" rlike jobsRegex)
+      .withColumn("Header", split($"value", "\r\n\r\n").getItem(0))
+      .withColumn("Content", split($"value", "\r\n\r\n").getItem(1))
+      .drop("value")
+      .repartition(20)
 
-    val commonCrawlTechJobs = commonCrawlJobs
-      .filter($"value" rlike techJobs.mkString("|"))
+    lazy val englishJobSites = commonCrawl
+      .filter(
+        $"Header" rlike ".*WARC-Target-URI:.*careers.*"
+          or ($"Header" rlike ".*WARC-Target-URI:.*job-listing.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*jobs.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*employment.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*indeed/.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*job-posting.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*glassdoor/.*")
+          and ($"Header" contains "WARC-Identified-Content-Language: eng" and !($"Header" contains ","))
+      )
+      .repartition(6)
+      .cache()
 
-    commonCrawlTechJobs.show(2, false)
+    lazy val techJobSites = englishJobSites
+      .filter(
+        $"Header" rlike ".*WARC-Target-URI:.*/jdk.*"
+          or ($"Header" rlike ".*WARC-Target-URI:.*/technology.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/comput.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/java.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/python.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/scala.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/code.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/coding.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/programming.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/backend.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/frontend.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/webdevelopment.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/web-development.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/websitedevelopment.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/website-development.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/ruby.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/sql.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/html.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/fullstack.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/full-stack.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/css.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/software.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/cyber.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/crypto.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/itsupport.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/it-support.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/itspecialist.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/it-specialist.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/spark.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/hive.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/hql.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/hadoop.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/apache.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/mapreduce.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/hdfs.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/kafka.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/cassandra.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/mongo.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/programmer.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/programming.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/aws.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/athena.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/emr.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/s3.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/cloud.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/analytics.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/sdk.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/jvm.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/jre.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/byte.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/visual-studio.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/eclipse.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/intellij.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/visualstudio.*")
+          or ($"Header" rlike ".*WARC-Target-URI:.*/vsc.*")
+      )
+      .repartition(2)
+      .cache()
+
+    techJobSites.show(5, false)
+
+    lazy val lowCodeJobs = techJobSites
+      .filter(lower($"Content") rlike questionFilter)
+      .repartition(2)
+      .cache()
+
+    lazy val jobCount = englishJobSites.count.toDouble
+
+    println(s"The total number of job related websites in the Common Crawl database is: $jobCount")
+
+    lazy val techCount = techJobSites.count.toDouble
+
+    println(s"The total number of tech related websites in the Common Crawl database is: $techCount")
+
+    lazy val lowCodeCount = lowCodeJobs.count.toDouble
+
+    println(f"The total number of low code websites in the Common Crawl database is: $lowCodeCount")
+
+    lazy val techJobPercent = techCount / jobCount * 100
+
+    println(f"The percentage of tech jobs to total jobs in the Common Crawl database is: $techJobPercent%.4f%%")
+
+    lazy val lowCodePercent = lowCodeCount / techCount * 100
+
+    println(f"The percentage of low code jobs to tech jobs is: $lowCodePercent%.4f%%")
 
     val warcSchema = StructType(
       Array(
@@ -338,7 +449,11 @@ object GetS3Data {
 
     // exampleFormat.show(200, false)
 
-    val df = spark.sparkContext.textFile("s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/wet.paths.gz").foreach(println)
+    val rdd = spark.sparkContext
+      .textFile("s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/wet.paths.gz")
+      .coalesce(1, true)
+      .saveAsTextFile("WETfiles")
+
   }
 }
 
