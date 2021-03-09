@@ -44,7 +44,7 @@ object Runner {
     val jobAdsDf = jobAdsRdd.toDF().limit(100000)
 
     val outputBucket = "s3a://emr-output-revusf/jobads"
-    jobAdsDf.write.format("csv").mode("overwrite").save(outputBucket)
+    jobAdsDf.write.format("csv").option("compression", "gzip").mode("overwrite").save(outputBucket)
   }
 
   def findJobAds(records: RDD[String]): RDD[String] = {
