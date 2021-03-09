@@ -20,10 +20,10 @@ object Runner {
     sc.setLogLevel("WARN")
 
     val wetSegments = "s3a://wet-segments/random-paths.txt"
-    val wetS3Paths  = sc
-    .textFile(wetSegments)
-    .map("s3a://commoncrawl/" + _)
-    .collect()
+    val wetS3Paths = sc
+      .textFile(wetSegments)
+      .map("s3a://commoncrawl/" + _)
+      .collect()
 
     val inputFiles = wetS3Paths.mkString(",")
 
@@ -44,7 +44,11 @@ object Runner {
     val jobAdsDf = jobAdsRdd.toDF().limit(100000)
 
     val outputBucket = "s3a://emr-output-revusf/jobads"
-    jobAdsDf.write.format("csv").option("compression", "gzip").mode("overwrite").save(outputBucket)
+    jobAdsDf.write
+      .format("csv")
+      .option("compression", "gzip")
+      .mode("overwrite")
+      .save(outputBucket)
   }
 
   def findJobAds(records: RDD[String]): RDD[String] = {
@@ -62,7 +66,7 @@ object Runner {
       .map(record => {
         val lines = record.split("\n")
         val textWithoutHeaders = lines.filter(l => {
-            !l.startsWith("WARC") &&
+          !l.startsWith("WARC") &&
             !l.startsWith("Content-Type:") &&
             !l.startsWith("Content-Length:") &&
             !l.trim().isEmpty()
@@ -73,11 +77,11 @@ object Runner {
 
   def withQualifications(jobAds: RDD[String]): RDD[String] = {
     jobAds
-    .filter(ad => {
-      val lowercase = ad.toLowerCase()
-      lowercase.contains("requirement") ||
-      lowercase.contains("skill") ||
-      lowercase.contains("certification")
-    })
+      .filter(ad => {
+        val lowercase = ad.toLowerCase()
+        lowercase.contains("requirement") ||
+        lowercase.contains("skill") ||
+        lowercase.contains("certification")
+      })
   }
 }
