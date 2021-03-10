@@ -136,118 +136,247 @@ object GetS3Data {
 
     val questionFilter = "low cod|no cod|low-cod|no-cod"
 
-    lazy val commonCrawl = spark.read
-      .option("lineSep", "WARC/1.0")
-      .textFile(
-        "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00182.warc.wet.gz"
-      )
-      .map(str => str.substring(str.indexOf("\n") + 1))
-      .withColumn("Header", split($"value", "\r\n\r\n").getItem(0))
-      .withColumn("Content", split($"value", "\r\n\r\n").getItem(1))
-      .drop("value")
-      .repartition(20)
+    // lazy val commonCrawl = spark.read
+    //   .option("lineSep", "WARC/1.0")
+    //   .textFile(
+    //     "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-0018*.warc.wet.gz"
+    //   )
+    //   .map(str => str.substring(str.indexOf("\n") + 1))
+    //   .withColumn("Header", split($"value", "\r\n\r\n").getItem(0))
+    //   .withColumn("Content", split($"value", "\r\n\r\n").getItem(1))
+    //   .drop("value")
+    //   .coalesce(20)
 
-    lazy val englishJobSites = commonCrawl
+    // lazy val englishJobSites = commonCrawl
+    //   .filter(
+    //     $"Header" rlike ".*WARC-Target-URI:.*careers.*"
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*job-listing.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*jobs.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*employment.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*indeed/.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*job-posting.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*glassdoor/.*")
+    //       and ($"Header" contains "WARC-Identified-Content-Language: eng" and !($"Header" contains ","))
+    //   )
+    //   .coalesce(10)
+    //   .cache()
+
+    // lazy val techJobSites = englishJobSites
+    //   .filter(
+    //     $"Header" rlike ".*WARC-Target-URI:.*/jdk.*"
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/technology.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/comput.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/java.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/python.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/scala.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/code.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/coding.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/programming.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/backend.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/frontend.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/webdevelopment.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/web-development.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/websitedevelopment.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/website-development.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/ruby.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/sql.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/html.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/fullstack.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/full-stack.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/css.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/software.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/cyber.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/crypto.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/itsupport.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/it-support.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/itspecialist.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/it-specialist.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/spark.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/hive.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/hql.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/hadoop.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/apache.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/mapreduce.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/hdfs.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/kafka.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/cassandra.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/mongo.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/programmer.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/programming.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/aws.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/athena.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/emr.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/s3.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/cloud.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/analytics.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/sdk.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/jvm.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/jre.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/byte.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/visual-studio.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/eclipse.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/intellij.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/visualstudio.*")
+    //       or ($"Header" rlike ".*WARC-Target-URI:.*/vsc.*")
+    //   )
+    //   .coalesce(8)
+    //   .cache()
+
+    // techJobSites.show(5, false)
+
+    // lazy val lowCodeJobs = techJobSites
+    //   .filter(lower($"Content") rlike questionFilter)
+    //   .coalesce(4)
+    //   .cache()
+
+    // lazy val jobCount = englishJobSites.count.toDouble
+
+    // println(s"The total number of job related websites in the Common Crawl database is: $jobCount")
+
+    // lazy val techCount = techJobSites.count.toDouble
+
+    // println(s"The total number of tech related websites in the Common Crawl database is: $techCount")
+
+    // lazy val lowCodeCount = lowCodeJobs.count.toDouble
+
+    // println(f"The total number of low code websites in the Common Crawl database is: $lowCodeCount")
+
+    // lazy val techJobPercent = techCount / jobCount * 100
+
+    // println(f"The percentage of tech jobs to total jobs in the Common Crawl database is: $techJobPercent%.4f%%")
+
+    // lazy val lowCodePercent = lowCodeCount / techCount * 100
+
+    // println(f"The percentage of low code jobs to tech jobs is: $lowCodePercent%.4f%%")
+
+    // lazy val techJobSitesWide = englishJobSites
+    //   .filter(
+    //     $"Content" contains "jdk"
+    //       or ($"Content" contains "technology")
+    //       or ($"Content" contains "comput")
+    //       or ($"Content" contains "java")
+    //       or ($"Content" contains "python")
+    //       or ($"Content" contains "scala")
+    //       or ($"Content" contains "code")
+    //       or ($"Content" contains "coding")
+    //       or ($"Content" contains "programming")
+    //       or ($"Content" contains "backend")
+    //       or ($"Content" contains "frontend")
+    //       or ($"Content" contains "webdevelopment")
+    //       or ($"Content" contains "web development")
+    //       or ($"Content" contains "websitedevelopment")
+    //       or ($"Content" contains "website development")
+    //       or ($"Content" contains "ruby")
+    //       or ($"Content" contains "sql")
+    //       or ($"Content" contains "html")
+    //       or ($"Content" contains "fullstack")
+    //       or ($"Content" contains "full stack")
+    //       or ($"Content" contains "css")
+    //       or ($"Content" contains "software")
+    //       or ($"Content" contains "cyber")
+    //       or ($"Content" contains "crypto")
+    //       or ($"Content" contains "itsupport")
+    //       or ($"Content" contains "it support")
+    //       or ($"Content" contains "itspecialist")
+    //       or ($"Content" contains "it specialist")
+    //       or ($"Content" contains "spark")
+    //       or ($"Content" contains "hive")
+    //       or ($"Content" contains "hql")
+    //       or ($"Content" contains "hadoop")
+    //       or ($"Content" contains "apache")
+    //       or ($"Content" contains "mapreduce")
+    //       or ($"Content" contains "hdfs")
+    //       or ($"Content" contains "kafka")
+    //       or ($"Content" contains "cassandra")
+    //       or ($"Content" contains "mongo")
+    //       or ($"Content" contains "programmer")
+    //       or ($"Content" contains "programming")
+    //       or ($"Content" contains "aws")
+    //       or ($"Content" contains "athena")
+    //       or ($"Content" contains "emr")
+    //       or ($"Content" contains "s3")
+    //       or ($"Content" contains "cloud")
+    //       or ($"Content" contains "analytics")
+    //       or ($"Content" contains "sdk")
+    //       or ($"Content" contains "jvm")
+    //       or ($"Content" contains "jre")
+    //       or ($"Content" contains "byte")
+    //       or ($"Content" contains "visual studio")
+    //       or ($"Content" contains "eclipse")
+    //       or ($"Content" contains "intellij")
+    //       or ($"Content" contains "visualstudio")
+    //       or ($"Content" contains "vsc")
+    //   )
+    //   .repartition(2)
+    //   .cache()
+
+    // lazy val lowCodeWide = techJobSitesWide
+    //   .filter(lower($"Content") rlike questionFilter)
+    //   .coalesce(4)
+    //   .cache()
+
+    // lazy val totalJobSiteCount = englishJobSites.count.toDouble
+
+    // println(s"The total number of job hiring websites in the Common Crawl database is: $totalJobSiteCount")
+
+    // lazy val techJobCountWide = techJobSitesWide.count.toDouble
+
+    // println(s"The total number of tech related job postings in the Common Crawl database is: $techJobCountWide")
+
+    // lazy val lowCodeJobCountWide = lowCodeWide.count.toDouble
+
+    // println(s"The total number of low code required tech job postings in the Common Crawl database is $lowCodeJobCountWide")
+
+    // lazy val techJobSitePercent = techJobCountWide / totalJobSiteCount * 100
+
+    // println(f"The percentage of job postings that are tech related in the Common Crawl database is: $techJobSitePercent%.3f%%")
+
+    // lazy val lowCodeJobPercent = lowCodeJobCountWide / techJobCountWide * 100
+
+    // println(f"The percentage of tech job postings that require low or no code in the Common Crawl database is: $lowCodeJobPercent%.3f%%")
+
+    lazy val text = spark.read.text(
+      "s3a://commoncrawl/crawl-data/CC-MAIN-2021-04/segments/1610703495901.0/wet/CC-MAIN-20210115134101-20210115164101-00185.warc.wet.gz"
+    )
+
+    lazy val words = text.select(split($"value", " ").as("Words"))
+
+    lazy val wordsSingle = words.select(explode($"Words").as("Words"))
+
+    lazy val stringWords =
+      wordsSingle.select($"Words".cast(StringType).as("languages"))
+
+    lazy val lowerWords =
+      stringWords.select(lower($"languages").as("languages"))
+
+    lazy val languagesFilter = List(
+      "^python$",
+      "^java$",
+      "^scala$",
+      "^javascript$",
+      "^ruby$",
+      "^sql$",
+      "^hql$",
+      "^kotlin$",
+      "^php$",
+      "^perl$",
+      "^matlab$",
+      "^typescript$",
+      "^objective-c$"
+    )
+
+    var languages = lowerWords
       .filter(
-        $"Header" rlike ".*WARC-Target-URI:.*careers.*"
-          or ($"Header" rlike ".*WARC-Target-URI:.*job-listing.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*jobs.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*employment.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*indeed/.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*job-posting.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*glassdoor/.*")
-          and ($"Header" contains "WARC-Identified-Content-Language: eng" and !($"Header" contains ","))
+        lower($"languages") rlike languagesFilter.mkString("|") or lower(
+          $"languages"
+        ) === "c++" or lower($"languages") === "c#"
       )
-      .repartition(6)
-      .cache()
+      .groupBy($"languages")
+      .pivot($"languages")
+      .count
+      .drop("languages")
 
-    lazy val techJobSites = englishJobSites
-      .filter(
-        $"Header" rlike ".*WARC-Target-URI:.*/jdk.*"
-          or ($"Header" rlike ".*WARC-Target-URI:.*/technology.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/comput.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/java.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/python.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/scala.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/code.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/coding.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/programming.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/backend.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/frontend.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/webdevelopment.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/web-development.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/websitedevelopment.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/website-development.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/ruby.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/sql.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/html.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/fullstack.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/full-stack.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/css.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/software.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/cyber.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/crypto.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/itsupport.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/it-support.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/itspecialist.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/it-specialist.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/spark.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/hive.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/hql.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/hadoop.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/apache.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/mapreduce.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/hdfs.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/kafka.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/cassandra.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/mongo.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/programmer.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/programming.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/aws.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/athena.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/emr.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/s3.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/cloud.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/analytics.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/sdk.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/jvm.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/jre.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/byte.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/visual-studio.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/eclipse.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/intellij.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/visualstudio.*")
-          or ($"Header" rlike ".*WARC-Target-URI:.*/vsc.*")
-      )
-      .repartition(2)
-      .cache()
-
-    techJobSites.show(5, false)
-
-    lazy val lowCodeJobs = techJobSites
-      .filter(lower($"Content") rlike questionFilter)
-      .repartition(2)
-      .cache()
-
-    lazy val jobCount = englishJobSites.count.toDouble
-
-    println(s"The total number of job related websites in the Common Crawl database is: $jobCount")
-
-    lazy val techCount = techJobSites.count.toDouble
-
-    println(s"The total number of tech related websites in the Common Crawl database is: $techCount")
-
-    lazy val lowCodeCount = lowCodeJobs.count.toDouble
-
-    println(f"The total number of low code websites in the Common Crawl database is: $lowCodeCount")
-
-    lazy val techJobPercent = techCount / jobCount * 100
-
-    println(f"The percentage of tech jobs to total jobs in the Common Crawl database is: $techJobPercent%.4f%%")
-
-    lazy val lowCodePercent = lowCodeCount / techCount * 100
-
-    println(f"The percentage of low code jobs to tech jobs is: $lowCodePercent%.4f%%")
+    languages.show(false)
 
     val warcSchema = StructType(
       Array(
