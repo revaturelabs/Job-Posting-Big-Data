@@ -4,7 +4,6 @@ import boto3
 S3_BUCKET = 'emr-output-revusf'
 JOBADS_KEY = 'jobads/part-00000-7c4ab6f5-bea0-4a82-b6a8-66a4f8820a74-c000.csv'
 OUTPUT_PATH = 'dat/100k_jobADs/'
-
 JOBADS_TMP = 'jobads.tmp'
 
 
