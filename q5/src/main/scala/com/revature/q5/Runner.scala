@@ -16,6 +16,15 @@ object Runner {
 
     spark.sparkContext.setLogLevel("WARN")
 
+    if (args.size < 1){
+        println("Valid input not provided.\n" +
+          "You can use one of the following numbers as valid input for this program:\n" +
+          "1 - Creates a list of csv files in the currently coded bucket.\n" +
+          "2 - Counts the total number of jobs associated with certain keywords in an S3 bucket\n" +
+          "3 - Counts the total number of jobs grouped by keyword in an S3 bucket\n")
+        System.exit(0)
+    }
+
       if (args(0).toInt == 1) {
         createBucket.start(spark)
       } 

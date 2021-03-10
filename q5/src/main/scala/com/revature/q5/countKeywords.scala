@@ -13,15 +13,15 @@ import org.apache.spark.sql.functions._
 object countKeywords {
   def start(spark: SparkSession) {
 
-  import spark.implicits._
-
-  val columnarIndexDF = spark
-    .read
-    .format("csv")
-    .option("header", "true")
-    // Change this line to point at a different bucket/folder in s3
-    .csv("s3://path/to/your/folder/*.csv")
-
+    import spark.implicits._
+  
+    val columnarIndexDF = spark
+      .read
+      .format("csv")
+      .option("header", "true")
+      // Change this line to point at a different bucket/folder in s3
+      .csv("s3://path/to/your/folder/*.csv")
+  
     columnarIndexDF
     .select("*")
     // Change this to search for a specific month or year in the csv files
@@ -46,5 +46,6 @@ object countKeywords {
       count(when($"url" like "%network%", "url")).alias("network"),
       count(when($"url" like "%programmer%", "url")).alias("programmer")
     ).show()
+
   }
 }
