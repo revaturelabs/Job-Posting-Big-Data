@@ -1,3 +1,5 @@
 .bloop
 .vscode
 .metals
+ana/dat/100k_jobADs/*
+*.ipynb
