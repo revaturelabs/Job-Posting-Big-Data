@@ -7,5 +7,4 @@ dat/
 *.gz
 jobAds/*
 cc-2020-wet-paths
-sample_wet_files.py
 boto.py
