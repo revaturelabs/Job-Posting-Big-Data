@@ -1,5 +1,3 @@
-This Readme is a Work-in-Progress, and marks relevant information as of Thursday, February 25th
-
 # Job-Posting-Big-Data
 _______________________________________________________________________________________________________________________________
 ### Setting Up Amazon Keys
@@ -10,7 +8,7 @@ ________________________________________________________________________________
    (In Ubuntu)
    - cd .
    - nano .bashrc
-   - Add in exports for the keys (Like we did for the Twitter keys)
+   - Add in exports for the keys
   5) Save & exit (I think it's Ctrl+O, Ctrl+Z)
 _______________________________________________________________________________________________________________________________
 ### Installing S3CMD 
@@ -73,8 +71,3 @@ libraryDependencies += "org.apache.hadoop" % "hadoop-aws" % "2.7.7"
 _______________________________________________________________________________________________________________________________
 ### Links to other relevant information/GitHubs
 
-- https://github.com/MichaelStanco/project3/  <-- Has a good base for the project, including plugins.sbt and build.sbt
-- https://gist.github.com/haydenhw/c404864e1ddf63853512508e7e59dc90  <-- A more "up to date" Runner.scala file
-
-- https://skeptric.com/common-crawl-job-ads/
-- https://commoncrawl.org/2018/03/index-to-warc-files-and-urls-in-columnar-format/
