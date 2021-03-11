@@ -1,0 +1,1 @@
+  CC      lib/xz/xz_dec_syms.o

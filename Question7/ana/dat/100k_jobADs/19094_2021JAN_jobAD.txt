@@ -1,0 +1,1 @@
+  AR      net/ethtool/built-in.a

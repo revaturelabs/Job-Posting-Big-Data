@@ -1,0 +1,1 @@
+  AR      drivers/phy/amlogic/built-in.a

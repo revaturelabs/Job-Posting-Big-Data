@@ -1,0 +1,1 @@
+(208/234) Installing xkbcomp (1.4.3-r0)

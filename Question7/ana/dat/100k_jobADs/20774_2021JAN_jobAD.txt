@@ -1,0 +1,1 @@
+  AR      drivers/firmware/meson/built-in.a

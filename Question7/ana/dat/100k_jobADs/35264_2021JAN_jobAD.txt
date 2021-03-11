@@ -1,0 +1,1 @@
+[[90m20:43:51[39m] Finished '[36mcopy-bower[39m' after [35m128 ms[39m

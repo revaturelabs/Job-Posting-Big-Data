@@ -1,0 +1,1 @@
+[31msrc/configuration/Configuration.ts(10,26): [39merror TS2503: Cannot find namespace 'Electron'.

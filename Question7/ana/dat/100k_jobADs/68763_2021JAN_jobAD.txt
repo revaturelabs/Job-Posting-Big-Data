@@ -1,0 +1,1 @@
+Installing /home/build/wlroots/build/include/wlr/config.h to /usr/include/wlr

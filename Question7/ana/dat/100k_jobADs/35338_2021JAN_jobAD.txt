@@ -1,0 +1,1 @@
+[[90m20:43:52[39m] TypeScript: emit [36msucceeded[39m (with errors)

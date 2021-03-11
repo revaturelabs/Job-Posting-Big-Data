@@ -1,0 +1,1 @@
+  HOSTCC  lib/gen_crc32table

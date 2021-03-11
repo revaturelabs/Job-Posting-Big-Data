@@ -1,0 +1,1 @@
+You may need to pass \"-Dlogind-provider=elogind\" or \"-Dlogind-provider=systemd\" to ensure the correct library is detected.

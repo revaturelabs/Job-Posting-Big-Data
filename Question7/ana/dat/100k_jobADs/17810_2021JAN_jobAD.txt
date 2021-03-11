@@ -1,0 +1,1 @@
+  CC      fs/notify/inotify/inotify_fsnotify.o

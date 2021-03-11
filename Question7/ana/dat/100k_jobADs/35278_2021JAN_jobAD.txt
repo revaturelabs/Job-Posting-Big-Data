@@ -1,0 +1,1 @@
+[31msrc/configuration/Configuration.ts(1,1): [39merror TS6053: File '/opt/jenkins-workspace-overture_graphics-master/typings/globals/electron-json-storage/index.d.ts' not found.

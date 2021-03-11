@@ -1,0 +1,1 @@
+  AR      drivers/firmware/arm_scmi/built-in.a

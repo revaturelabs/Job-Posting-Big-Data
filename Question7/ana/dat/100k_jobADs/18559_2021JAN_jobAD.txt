@@ -1,0 +1,1 @@
+  AR      sound/isa/opti9xx/built-in.a

@@ -1,0 +1,1 @@
+Fetching value of define \"WLR_HAS_XWAYLAND\" with dependency wlroots: 1 

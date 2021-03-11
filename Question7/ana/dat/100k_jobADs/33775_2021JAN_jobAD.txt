@@ -1,0 +1,1 @@
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mprefer global[0m coffee-script@1.10.0 should be installed with -g

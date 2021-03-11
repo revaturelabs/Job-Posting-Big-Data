@@ -1,0 +1,1 @@
+Executing gtk+2.0-2.24.32-r2.post-install

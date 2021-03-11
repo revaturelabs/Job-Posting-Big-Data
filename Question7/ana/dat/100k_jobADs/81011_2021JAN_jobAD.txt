@@ -1,0 +1,1 @@
+]0;abuild: postmarketos-ui-mate>>> postmarketos-ui-mate: Building pmos/postmarketos-ui-mate 1-r11 (using abuild 3.6.0-r1) started Tue, 29 Sep 2020 11:45:25 +0000

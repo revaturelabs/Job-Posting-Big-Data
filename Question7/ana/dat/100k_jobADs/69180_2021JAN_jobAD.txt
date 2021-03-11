@@ -1,0 +1,1 @@
+[10/214] Compiling C object 'swaybar/cf785bf@@swaybar@exe/input.c.o'

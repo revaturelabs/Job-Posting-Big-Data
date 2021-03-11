@@ -1,0 +1,1 @@
+[223/227] Compiling C object 'wlroots@sha/meson-generated_.._protocol_idle-inhibit-unstable-v1-protocol.c.o'

@@ -1,0 +1,1 @@
+fef8cc267180020c980c75d76422656cf37bbe3218a72e69eeb1828fbbfc75fa693ca9070e22502a84f0e1798a6e8296e3f4526f0dc82c64b4b7089365b1253d  ./stable/aarch64/postmarketos-hidden-desktop-entries-1.2-r0.apk

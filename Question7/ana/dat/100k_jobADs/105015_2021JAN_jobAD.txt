@@ -1,0 +1,1 @@
+description=Stable release channel (first beta v20.05, does not have many devices yet)

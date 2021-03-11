@@ -1,0 +1,1 @@
+  val latch = new CountDownLatch(2)

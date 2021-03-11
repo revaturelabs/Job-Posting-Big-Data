@@ -1,0 +1,1 @@
+(002350) [11:45:11] % openssl dgst -sha1 -verify /home/build/pmbootstrap/pmb/data/keys/alpine-devel@lists.alpinelinux.org-5261cecb.rsa.pub -signature /tmp/pmbootstrapov8n4ehmsig /tmp/pmbootstrap9t454wk2apk

@@ -1,0 +1,1 @@
+  AR      drivers/media/pci/ngene/built-in.a

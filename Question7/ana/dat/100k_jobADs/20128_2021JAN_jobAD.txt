@@ -1,0 +1,1 @@
+  AR      drivers/spmi/built-in.a

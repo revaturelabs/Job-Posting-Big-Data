@@ -1,0 +1,1 @@
+  AR      drivers/spi/built-in.a

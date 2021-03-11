@@ -1,0 +1,1 @@
+Compiler for C supports arguments -Wold-style-definition: YES 

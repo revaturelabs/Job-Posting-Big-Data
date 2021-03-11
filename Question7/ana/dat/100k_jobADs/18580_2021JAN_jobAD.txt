@@ -1,0 +1,1 @@
+  AR      sound/pci/ice1712/built-in.a

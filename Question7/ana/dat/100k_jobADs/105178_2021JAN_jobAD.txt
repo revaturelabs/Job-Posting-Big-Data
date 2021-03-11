@@ -1,0 +1,1 @@
+(002323) [23:21:58] (native) % adduser -D pmos -u 12345

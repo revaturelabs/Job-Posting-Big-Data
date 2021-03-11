@@ -1,0 +1,1 @@
+  CC      drivers/input/rmi4/rmi_driver.o

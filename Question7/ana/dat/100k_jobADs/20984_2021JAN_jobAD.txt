@@ -1,0 +1,1 @@
+  AR      drivers/iio/proximity/built-in.a

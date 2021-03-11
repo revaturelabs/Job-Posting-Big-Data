@@ -1,0 +1,1 @@
+  AR      drivers/firmware/smccc/built-in.a

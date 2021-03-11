@@ -1,0 +1,1 @@
+  AR      drivers/phy/ralink/built-in.a

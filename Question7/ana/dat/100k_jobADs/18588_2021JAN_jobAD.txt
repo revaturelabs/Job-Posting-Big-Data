@@ -1,0 +1,1 @@
+  AR      sound/pci/trident/built-in.a

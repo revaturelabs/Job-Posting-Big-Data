@@ -1,0 +1,1 @@
+  AR      kernel/printk/built-in.a

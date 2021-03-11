@@ -1,0 +1,1 @@
+[32/270] Generating __usr_share_wayland_protocols_stable_xdg_shell_xdg_shell_xml_server_c with a custom command

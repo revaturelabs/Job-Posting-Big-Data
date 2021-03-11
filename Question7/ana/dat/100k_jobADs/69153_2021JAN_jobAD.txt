@@ -1,0 +1,1 @@
+Compiler for C supports arguments -fmacro-prefix-map=/prefix/to/hide=: YES 

@@ -1,0 +1,1 @@
+  AR      drivers/soc/qcom/built-in.a

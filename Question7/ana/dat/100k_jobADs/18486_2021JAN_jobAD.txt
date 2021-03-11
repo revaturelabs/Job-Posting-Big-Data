@@ -1,0 +1,1 @@
+  AR      drivers/pinctrl/qcom/built-in.a

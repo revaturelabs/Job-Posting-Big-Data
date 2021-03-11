@@ -1,0 +1,1 @@
+  AR      drivers/i2c/muxes/built-in.a

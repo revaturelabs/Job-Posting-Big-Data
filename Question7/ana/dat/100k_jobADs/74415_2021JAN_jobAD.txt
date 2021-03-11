@@ -1,0 +1,1 @@
+    val allDifferentStages = stages.sliding(2).forall {

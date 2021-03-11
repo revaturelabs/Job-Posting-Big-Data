@@ -1,0 +1,1 @@
+[47/270] Compiling C object 'swaybar/cf785bf@@swaybar@exe/config.c.o'

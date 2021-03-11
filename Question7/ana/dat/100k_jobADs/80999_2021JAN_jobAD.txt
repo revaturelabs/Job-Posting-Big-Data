@@ -1,0 +1,1 @@
+(002350) [11:45:25] (native) % touch /var/local/pmbootstrap_chroot_build_init_done

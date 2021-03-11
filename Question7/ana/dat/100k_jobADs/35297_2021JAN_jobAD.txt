@@ -1,0 +1,1 @@
+[31msrc/index.ts(13,26): [39merror TS2503: Cannot find namespace 'Electron'.

@@ -1,0 +1,1 @@
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mdeprecated[0m lodash@1.0.2: lodash@<3.0.0 is no longer maintained. Upgrade to lodash@^4.0.0.

@@ -1,0 +1,1 @@
+  CC      fs/xfs/libxfs/xfs_attr_remote.o

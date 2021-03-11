@@ -1,0 +1,1 @@
+[31msrc/plotBrowser/BrowserController.ts(15,19): [39merror TS2503: Cannot find namespace 'W2UI'.

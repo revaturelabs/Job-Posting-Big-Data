@@ -1,0 +1,1 @@
+  AR      sound/i2c/other/built-in.a

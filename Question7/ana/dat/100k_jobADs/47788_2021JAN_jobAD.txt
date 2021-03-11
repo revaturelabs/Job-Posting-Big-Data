@@ -1,0 +1,1 @@
+        MyJobWithProgress(wxEvtHandler *parent) : Job(parent){}

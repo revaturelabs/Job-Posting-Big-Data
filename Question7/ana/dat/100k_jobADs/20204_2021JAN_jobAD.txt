@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/microchip/built-in.a

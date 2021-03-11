@@ -1,0 +1,1 @@
+  AR      drivers/firmware/imx/built-in.a

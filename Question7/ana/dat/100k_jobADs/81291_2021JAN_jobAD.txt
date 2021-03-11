@@ -1,0 +1,1 @@
+mv: can't preserve ownership of '/mnt/pmbootstrap-packages/x86_64/APKINDEX.tar.gz.2500': Operation not permitted

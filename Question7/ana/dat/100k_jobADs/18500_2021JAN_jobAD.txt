@@ -1,0 +1,1 @@
+  CC      sound/core/jack.o

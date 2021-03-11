@@ -1,0 +1,1 @@
+  CC      virt/lib/irqbypass.o

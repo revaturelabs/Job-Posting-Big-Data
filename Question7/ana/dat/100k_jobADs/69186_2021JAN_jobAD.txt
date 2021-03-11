@@ -1,0 +1,1 @@
+[16/214] Linking static target client/libsway-client.a

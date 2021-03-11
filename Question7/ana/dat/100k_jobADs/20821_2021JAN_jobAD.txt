@@ -1,0 +1,1 @@
+  CC      drivers/hid/usbhid/hid-core.o

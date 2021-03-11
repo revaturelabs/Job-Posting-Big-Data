@@ -1,0 +1,1 @@
+  AR      drivers/iio/gyro/built-in.a

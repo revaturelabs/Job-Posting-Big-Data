@@ -1,0 +1,1 @@
+  INSTALL /home/pmos/build/pkg/linux-oneplus-sdm845/usr/share/dtb/qcom/qcs404-evb-4000.dtb

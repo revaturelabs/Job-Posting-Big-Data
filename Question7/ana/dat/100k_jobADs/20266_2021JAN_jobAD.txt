@@ -1,0 +1,1 @@
+  CC      lib/is_single_threaded.o

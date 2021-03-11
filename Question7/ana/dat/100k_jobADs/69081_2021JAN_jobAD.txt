@@ -1,0 +1,1 @@
+[248/270] Compiling C object 'protocols/8998617@@server_protos@sta/meson-generated_.._xdg-shell-protocol.c.o'

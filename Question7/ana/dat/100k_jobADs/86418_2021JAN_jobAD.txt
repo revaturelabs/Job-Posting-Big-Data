@@ -1,0 +1,1 @@
+f=fopen(\"algsort.in\",\"r\");

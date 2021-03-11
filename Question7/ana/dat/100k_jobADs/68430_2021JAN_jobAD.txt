@@ -1,0 +1,1 @@
+Run-time dependency xcb-errors found: NO (tried pkgconfig and cmake)

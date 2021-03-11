@@ -1,0 +1,1 @@
+../meson.build:289: WARNING: The sway binary must be setuid when compiled without (e)logind

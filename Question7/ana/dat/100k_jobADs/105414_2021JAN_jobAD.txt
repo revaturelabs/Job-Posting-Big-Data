@@ -1,0 +1,1 @@
+]0;abuild: postmarketos-hidden-desktop-entries'/home/pmos/build/pkg/postmarketos-hidden-desktop-entries/etc/skel/.local/share/applications/firefox-safe.desktop' -> '/usr/share/applications/nodisplay.desktop'

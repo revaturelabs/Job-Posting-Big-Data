@@ -1,0 +1,1 @@
+}The important part here is to call the extensions named UseCore and UseSendGrid. This will enable the ErrorTrigger and SendGrid extensions.We will now add a new application settings to be able to connect to SendGrid:<?xml version=\"1.0\" encoding=\"utf-8\"?>

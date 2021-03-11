@@ -1,0 +1,1 @@
+[212/227] Compiling C object 'wlroots@sha/meson-generated_.._protocol_xdg-shell-unstable-v6-protocol.c.o'

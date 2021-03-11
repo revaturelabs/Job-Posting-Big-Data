@@ -1,0 +1,1 @@
+Program /usr/bin/wayland-scanner found: YES (/usr/bin/wayland-scanner)

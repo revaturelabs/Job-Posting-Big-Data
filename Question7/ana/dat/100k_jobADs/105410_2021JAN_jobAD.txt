@@ -1,0 +1,1 @@
+>>> WARNING: postmarketos-hidden-desktop-entries: APKBUILD does not run any tests!

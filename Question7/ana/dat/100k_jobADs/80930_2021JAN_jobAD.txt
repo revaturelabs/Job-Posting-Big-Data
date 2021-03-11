@@ -1,0 +1,1 @@
+(002350) [11:45:13] (native) calculate depends of abuild, build-base, ccache, git (pmbootstrap -v for details)

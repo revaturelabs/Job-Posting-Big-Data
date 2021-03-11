@@ -1,0 +1,1 @@
+[23/214] Compiling C object 'sway/345c74e@@sway@exe/commands_output_transform.c.o'

@@ -1,0 +1,1 @@
+[120/227] Compiling C object 'wlroots@sha/types_wlr_idle.c.o'

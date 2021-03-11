@@ -1,0 +1,1 @@
+[31msrc/configuration/Configuration.ts(6,29): [39merror TS2307: Cannot find module 'fs'.

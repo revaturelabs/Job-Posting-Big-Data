@@ -1,0 +1,1 @@
+  AR      drivers/thermal/intel/built-in.a

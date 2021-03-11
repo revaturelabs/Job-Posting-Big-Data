@@ -1,0 +1,1 @@
+  AR      drivers/pci/switch/built-in.a

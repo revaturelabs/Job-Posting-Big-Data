@@ -1,0 +1,1 @@
+  AR      drivers/input/misc/built-in.a

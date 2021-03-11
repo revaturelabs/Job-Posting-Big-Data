@@ -1,0 +1,1 @@
+AppUsers ResetPassword - OnShift Employ Applicant Tracking SystemForgot your password?Please enter the email you used for registration and you'll get an email with further instructions.Your Email

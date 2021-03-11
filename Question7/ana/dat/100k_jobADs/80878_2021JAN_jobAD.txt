@@ -1,0 +1,1 @@
+(002350) [11:45:11] % sudo sh -c echo http://mirror.postmarketos.org/postmarketos/master >> /home/build/.local/var/pmbootstrap/chroot_native/etc/apk/repositories

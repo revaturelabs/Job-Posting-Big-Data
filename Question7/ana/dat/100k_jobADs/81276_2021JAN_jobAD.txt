@@ -1,0 +1,1 @@
+]0;abuild: postmarketos-ui-mate>>> postmarketos-ui-mate*: Running postcheck for postmarketos-ui-mate

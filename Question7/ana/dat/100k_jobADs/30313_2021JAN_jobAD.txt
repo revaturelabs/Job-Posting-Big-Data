@@ -1,0 +1,1 @@
+            Console.Error.WriteLine(\"An error has been detected in a function.\");

@@ -1,0 +1,1 @@
+(002323) [23:22:38] % sudo cp -rL /home/build/pmaports/main/postmarketos-hidden-desktop-entries/ /home/build/.local/var/pmbootstrap/chroot_buildroot_aarch64/home/pmos/build

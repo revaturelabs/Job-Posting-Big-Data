@@ -1,0 +1,1 @@
+  AR      drivers/input/serio/built-in.a

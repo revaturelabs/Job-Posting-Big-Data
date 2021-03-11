@@ -1,0 +1,1 @@
+│ ├── [40m[33mescape-string-regexp@1.0.5[39m[49m 

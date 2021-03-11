@@ -1,0 +1,1 @@
+  AR      drivers/cdrom/built-in.a

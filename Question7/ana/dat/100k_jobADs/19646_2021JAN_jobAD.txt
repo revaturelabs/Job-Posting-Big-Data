@@ -1,0 +1,1 @@
+  AR      drivers/base/firmware_loader/built-in.a

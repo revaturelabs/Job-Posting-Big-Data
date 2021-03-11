@@ -1,0 +1,1 @@
+  AR      sound/soc/ux500/built-in.a

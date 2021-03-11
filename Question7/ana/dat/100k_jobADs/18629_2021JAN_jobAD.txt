@@ -1,0 +1,1 @@
+  AR      sound/soc/jz4740/built-in.a

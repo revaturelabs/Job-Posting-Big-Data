@@ -1,0 +1,1 @@
+(6/12) Purging installkernel (3.5-r1)

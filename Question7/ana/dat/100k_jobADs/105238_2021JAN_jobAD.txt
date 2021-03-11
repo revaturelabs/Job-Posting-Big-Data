@@ -1,0 +1,1 @@
+(002323) [23:22:01] % sudo /home/build/.local/var/pmbootstrap/apk.static --no-progress --root /home/build/.local/var/pmbootstrap/chroot_buildroot_aarch64 --cache-dir /home/build/.local/var/pmbootstrap/cache_apk_aarch64 --initdb --arch aarch64 add alpine-base

@@ -1,0 +1,1 @@
+[216/227] Compiling C object 'wlroots@sha/meson-generated_.._protocol_tablet-unstable-v2-protocol.c.o'

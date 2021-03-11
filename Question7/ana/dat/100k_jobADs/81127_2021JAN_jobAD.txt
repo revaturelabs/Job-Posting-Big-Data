@@ -1,0 +1,1 @@
+(110/234) Installing libsoup (2.72.0-r0)

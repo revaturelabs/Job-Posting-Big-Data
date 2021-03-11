@@ -1,0 +1,1 @@
+  CC      drivers/clocksource/arm_arch_timer.o

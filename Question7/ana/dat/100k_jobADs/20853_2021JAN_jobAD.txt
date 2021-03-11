@@ -1,0 +1,1 @@
+  STUBCPY drivers/firmware/efi/libstub/lib-fdt_rw.stub.o

@@ -1,0 +1,1 @@
+  CC      fs/squashfs/zlib_wrapper.o

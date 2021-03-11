@@ -1,0 +1,1 @@
+[3/270] Compiling C object 'common/92a5dc0@@sway-common@sta/util.c.o'

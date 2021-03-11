@@ -1,0 +1,1 @@
+[173/214] Compiling C object 'sway/345c74e@@sway@exe/config_output.c.o'

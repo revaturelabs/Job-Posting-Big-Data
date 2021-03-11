@@ -1,0 +1,1 @@
+[35/270] Compiling C object 'swaynag/183c222@@swaynag@exe/swaynag.c.o'

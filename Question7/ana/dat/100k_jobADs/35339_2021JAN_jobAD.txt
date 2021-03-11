@@ -1,0 +1,1 @@
+[[90m20:43:52[39m] Finished '[36mcompile-ts[39m' after [35m1.51 s[39m

@@ -1,0 +1,1 @@
+  AR      drivers/staging/hikey9xx/built-in.a

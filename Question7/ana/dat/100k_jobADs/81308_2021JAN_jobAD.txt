@@ -1,0 +1,1 @@
+(15/234) Purging mate-power-manager (1.24.2-r0)

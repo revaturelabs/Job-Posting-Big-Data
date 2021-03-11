@@ -1,0 +1,1 @@
+  GZIP    kernel/config_data.gz

@@ -1,0 +1,1 @@
+[69/227] Compiling C object 'wlroots@sha/xwayland_xwayland.c.o'

@@ -1,0 +1,1 @@
+  AR      sound/drivers/built-in.a

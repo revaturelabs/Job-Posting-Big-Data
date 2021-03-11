@@ -1,0 +1,1 @@
+  AR      sound/soc/img/built-in.a

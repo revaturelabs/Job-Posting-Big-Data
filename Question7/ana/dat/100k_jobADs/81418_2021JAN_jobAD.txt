@@ -1,0 +1,1 @@
+(122/234) Purging libxres (1.2.0-r2)

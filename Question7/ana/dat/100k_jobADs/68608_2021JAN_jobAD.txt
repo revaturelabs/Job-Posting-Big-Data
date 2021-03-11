@@ -1,0 +1,1 @@
+[161/227] Compiling C object 'wlroots@sha/backend_wayland_tablet_v2.c.o'

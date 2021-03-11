@@ -1,0 +1,1 @@
+[31msrc/WindowController.ts(14,13): [39merror TS2503: Cannot find namespace 'W2UI'.

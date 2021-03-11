@@ -1,0 +1,1 @@
+]0;(002321) [06:09:38] NOTE: chroot is still active (use 'pmbootstrap shutdown' as necessary)

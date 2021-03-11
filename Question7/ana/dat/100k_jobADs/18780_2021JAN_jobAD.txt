@@ -1,0 +1,1 @@
+  AR      drivers/char/ipmi/built-in.a

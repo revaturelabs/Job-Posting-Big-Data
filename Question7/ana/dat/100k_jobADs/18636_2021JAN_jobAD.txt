@@ -1,0 +1,1 @@
+  AR      sound/soc/mxs/built-in.a

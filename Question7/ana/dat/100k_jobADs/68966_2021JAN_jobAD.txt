@@ -1,0 +1,1 @@
+[133/270] Compiling C object 'sway/345c74e@@sway@exe/commands_titlebar_border_thickness.c.o'

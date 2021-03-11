@@ -1,0 +1,1 @@
++ export BPO_PKGNAME=linux-oneplus-sdm845

@@ -1,0 +1,1 @@
+(215/234) Purging ncurses-terminfo-base (6.2_p20200926-r1)

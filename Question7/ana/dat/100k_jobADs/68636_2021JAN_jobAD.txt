@@ -1,0 +1,1 @@
+[189/227] Compiling C object 'wlroots@sha/render_wlr_renderer.c.o'

@@ -1,0 +1,1 @@
+│ └─┬ typings-core@0.3.1

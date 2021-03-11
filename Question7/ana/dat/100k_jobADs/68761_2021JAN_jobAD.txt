@@ -1,0 +1,1 @@
+Installing /home/build/wlroots/include/wlr/interfaces/wlr_tablet_pad.h to /usr/include/wlr/interfaces

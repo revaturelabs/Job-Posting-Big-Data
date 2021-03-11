@@ -1,0 +1,1 @@
+(002350) [11:46:13] (native) % cd /home/pmos/build; busybox su pmos -c SUDO_APK='abuild-apk --no-progress' HOME=/home/pmos abuild undeps

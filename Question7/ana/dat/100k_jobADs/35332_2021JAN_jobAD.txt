@@ -1,0 +1,1 @@
+[31msrc/protocol/SubscriptionClient.ts(1,1): [39merror TS6053: File '/opt/jenkins-workspace-overture_graphics-master/typings/globals/websocket/index.d.ts' not found.

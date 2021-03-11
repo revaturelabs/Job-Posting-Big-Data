@@ -1,0 +1,1 @@
+  CC      lib/fdt_empty_tree.o

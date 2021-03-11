@@ -1,0 +1,1 @@
+  AR      drivers/cpuidle/built-in.a

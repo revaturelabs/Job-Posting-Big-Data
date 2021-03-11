@@ -1,0 +1,1 @@
++ sha512sum ./stable/aarch64/postmarketos-hidden-desktop-entries-1.2-r0.apk

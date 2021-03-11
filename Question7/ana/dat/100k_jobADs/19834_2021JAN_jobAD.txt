@@ -1,0 +1,1 @@
+  CC      drivers/scsi/ufs/ufshcd-pltfrm.o

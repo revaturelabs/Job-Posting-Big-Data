@@ -1,0 +1,1 @@
+  CC      drivers/bus/mhi/core/pm.o

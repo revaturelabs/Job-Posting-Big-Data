@@ -1,0 +1,1 @@
+[252/270] Compiling C object 'protocols/8998617@@client_protos@sta/meson-generated_.._idle-protocol.c.o'

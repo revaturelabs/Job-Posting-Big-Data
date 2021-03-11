@@ -1,0 +1,1 @@
+[194/227] Compiling C object 'wlroots@sha/render_drm_format_set.c.o'

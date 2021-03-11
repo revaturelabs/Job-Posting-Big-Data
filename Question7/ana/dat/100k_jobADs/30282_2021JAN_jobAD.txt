@@ -1,0 +1,1 @@
+        <bindingRedirect oldVersion=\"0.0.0.0-2.0.0.0\" newVersion=\"2.0.0.0\" />

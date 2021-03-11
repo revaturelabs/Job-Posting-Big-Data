@@ -1,0 +1,1 @@
+[31msrc/plotBrowser/BrowserController.ts(32,21): [39merror TS2304: Cannot find name '$'.

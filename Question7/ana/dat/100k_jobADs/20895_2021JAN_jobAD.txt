@@ -1,0 +1,1 @@
+  AR      drivers/of/built-in.a

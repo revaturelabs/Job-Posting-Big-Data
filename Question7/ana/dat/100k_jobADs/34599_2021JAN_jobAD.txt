@@ -1,0 +1,1 @@
+[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35moptional[0m Skipping failed optional dependency /chokidar/fsevents:

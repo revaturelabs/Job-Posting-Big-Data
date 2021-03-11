@@ -1,0 +1,1 @@
+[129/227] Compiling C object 'wlroots@sha/types_wlr_compositor.c.o'

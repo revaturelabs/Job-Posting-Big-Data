@@ -1,0 +1,1 @@
+  AR      drivers/media/pci/mantis/built-in.a

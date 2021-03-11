@@ -1,0 +1,1 @@
+Executing pango-1.46.2-r0.pre-deinstall

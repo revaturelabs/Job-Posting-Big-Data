@@ -1,0 +1,1 @@
+[143/227] Compiling C object 'wlroots@sha/types_tablet_v2_wlr_tablet_v2_tool.c.o'

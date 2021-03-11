@@ -1,0 +1,1 @@
+  CC      lib/raid6/neon4.o

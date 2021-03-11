@@ -1,0 +1,1 @@
+(1/1) Installing .makedepends-postmarketos-hidden-desktop-entries (20201021.232241)

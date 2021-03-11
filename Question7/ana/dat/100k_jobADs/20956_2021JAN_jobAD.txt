@@ -1,0 +1,1 @@
+  AR      drivers/iio/common/cros_ec_sensors/built-in.a

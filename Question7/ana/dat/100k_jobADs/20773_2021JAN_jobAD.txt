@@ -1,0 +1,1 @@
+  AR      drivers/cpufreq/built-in.a

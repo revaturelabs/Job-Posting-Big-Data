@@ -1,0 +1,1 @@
+>>> postmarketos-ui-mate*: Script found. /bin/sh added as a dependency for postmarketos-ui-mate-1-r11.apk

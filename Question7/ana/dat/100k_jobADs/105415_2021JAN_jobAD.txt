@@ -1,0 +1,1 @@
+'/home/pmos/build/pkg/postmarketos-hidden-desktop-entries/etc/skel/.local/share/applications/htop.desktop' -> '/usr/share/applications/nodisplay.desktop'

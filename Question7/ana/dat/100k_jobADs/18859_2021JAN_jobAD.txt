@@ -1,0 +1,1 @@
+  AR      drivers/clk/renesas/built-in.a

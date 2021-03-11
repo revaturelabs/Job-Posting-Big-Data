@@ -1,0 +1,1 @@
+  AR      sound/soc/atmel/built-in.a

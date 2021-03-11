@@ -1,0 +1,1 @@
+  CC      drivers/video/logo/logo_linux_clut224.o

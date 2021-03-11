@@ -1,0 +1,1 @@
+[100/227] Compiling C object 'wlroots@sha/types_wlr_primary_selection_v1.c.o'

@@ -1,0 +1,1 @@
+(002350) [11:45:12] (native) % chown pmos:pmos /mnt/pmbootstrap-rust/registry/cache

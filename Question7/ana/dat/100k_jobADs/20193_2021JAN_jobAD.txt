@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/hisilicon/built-in.a

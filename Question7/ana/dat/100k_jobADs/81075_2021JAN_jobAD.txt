@@ -1,0 +1,1 @@
+(59/234) Installing wayland-libs-cursor (1.18.0-r4)

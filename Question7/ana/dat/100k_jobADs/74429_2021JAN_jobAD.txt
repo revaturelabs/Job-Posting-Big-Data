@@ -1,0 +1,1 @@
+      val stageWithTID = timestampAndMessage(1).takeRight(12).trim

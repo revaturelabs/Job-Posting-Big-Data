@@ -1,0 +1,1 @@
+  CC      drivers/scsi/scsi_devinfo.o

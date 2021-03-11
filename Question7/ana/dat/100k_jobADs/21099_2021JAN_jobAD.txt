@@ -1,0 +1,1 @@
+]0;abuild-aarch64: linux-oneplus-sdm845sh /home/pmos/build/src/sdm845-linux-ccb798850a85a6a9c8c70e02f0bf77af06c90d60/arch/arm64/boot/install.sh 5.10.0-oneplus-sdm845 \\

@@ -1,0 +1,1 @@
+[31msrc/configuration/Configuration.ts(5,27): [39merror TS2307: Cannot find module 'electron'.

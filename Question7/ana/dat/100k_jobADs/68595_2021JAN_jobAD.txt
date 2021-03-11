@@ -1,0 +1,1 @@
+[148/227] Compiling C object 'wlroots@sha/types_seat_wlr_seat_pointer.c.o'

@@ -1,0 +1,1 @@
+  CC      fs/xfs/xfs_attr_inactive.o

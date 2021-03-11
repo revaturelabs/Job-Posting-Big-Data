@@ -1,0 +1,1 @@
+  AR      drivers/iio/amplifiers/built-in.a

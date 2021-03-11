@@ -1,0 +1,1 @@
+  AR      sound/sparc/built-in.a

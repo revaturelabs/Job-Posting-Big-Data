@@ -1,0 +1,1 @@
+  CC      drivers/char/tpm/tpm1-cmd.o

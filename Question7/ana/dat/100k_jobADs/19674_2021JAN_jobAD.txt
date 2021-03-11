@@ -1,0 +1,1 @@
+  AR      drivers/base/regmap/built-in.a

@@ -1,0 +1,1 @@
+  AR      drivers/media/pci/pt1/built-in.a

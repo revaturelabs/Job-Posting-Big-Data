@@ -1,0 +1,1 @@
+[128/214] Compiling C object 'sway/345c74e@@sway@exe/commands_popup_during_fullscreen.c.o'

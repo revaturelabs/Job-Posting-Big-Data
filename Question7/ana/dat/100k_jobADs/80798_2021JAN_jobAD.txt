@@ -1,0 +1,1 @@
+(002350) [11:45:05] APKINDEX outdated (file does not exist yet): http://build.postmarketos.org/wip/master/x86_64/APKINDEX.tar.gz

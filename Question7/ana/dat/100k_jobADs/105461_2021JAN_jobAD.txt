@@ -1,0 +1,1 @@
++ export BPO_PKGNAME=postmarketos-hidden-desktop-entries

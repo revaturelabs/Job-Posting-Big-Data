@@ -1,0 +1,1 @@
+  AR      sound/usb/bcd2000/built-in.a

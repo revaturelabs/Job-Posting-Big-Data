@@ -1,0 +1,1 @@
+[253/270] Compiling C object 'protocols/8998617@@client_protos@sta/meson-generated_.._wlr-layer-shell-unstable-v1-protocol.c.o'

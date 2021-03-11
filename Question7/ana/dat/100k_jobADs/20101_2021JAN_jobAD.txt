@@ -1,0 +1,1 @@
+  AR      drivers/mtd/built-in.a

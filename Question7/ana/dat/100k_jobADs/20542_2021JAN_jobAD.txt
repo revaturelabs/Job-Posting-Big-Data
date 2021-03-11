@@ -1,0 +1,1 @@
+  CC      drivers/input/ff-core.o

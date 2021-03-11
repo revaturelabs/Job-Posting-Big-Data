@@ -1,0 +1,1 @@
+[222/227] Compiling C object 'wlroots@sha/meson-generated_.._protocol_keyboard-shortcuts-inhibit-unstable-v1-protocol.c.o'

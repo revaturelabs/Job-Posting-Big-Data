@@ -1,0 +1,1 @@
+  AR      drivers/clk/actions/built-in.a

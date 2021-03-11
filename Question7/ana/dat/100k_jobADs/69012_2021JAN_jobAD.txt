@@ -1,0 +1,1 @@
+[179/270] Compiling C object 'sway/345c74e@@sway@exe/commands_hide_edge_borders.c.o'

@@ -1,0 +1,1 @@
+  AR      lib/lz4/built-in.a

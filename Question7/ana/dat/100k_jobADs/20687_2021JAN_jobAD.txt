@@ -1,0 +1,1 @@
+  CC      drivers/thermal/qcom/tsens-8960.o

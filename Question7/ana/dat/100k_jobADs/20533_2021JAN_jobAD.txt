@@ -1,0 +1,1 @@
+  AR      drivers/input/rmi4/built-in.a

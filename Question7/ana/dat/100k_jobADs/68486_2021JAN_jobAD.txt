@@ -1,0 +1,1 @@
+[39/227] Generating wlr_output_power_management_unstable_v1_server_h with a custom command

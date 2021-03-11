@@ -1,0 +1,1 @@
+  STUBCPY drivers/firmware/efi/libstub/pci.stub.o

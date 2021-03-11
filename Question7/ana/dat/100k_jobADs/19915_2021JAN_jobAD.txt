@@ -1,0 +1,1 @@
+  CC      drivers/mtd/parsers/ofpart.o

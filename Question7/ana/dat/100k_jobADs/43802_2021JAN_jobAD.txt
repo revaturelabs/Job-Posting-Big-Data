@@ -1,0 +1,1 @@
+add_shortcode('home', 'shortcode_home');

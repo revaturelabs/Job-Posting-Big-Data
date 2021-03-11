@@ -1,0 +1,1 @@
+  AR      drivers/soc/imx/built-in.a

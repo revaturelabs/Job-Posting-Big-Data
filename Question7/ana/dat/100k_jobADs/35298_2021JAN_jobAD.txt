@@ -1,0 +1,1 @@
+[31msrc/index.ts(14,27): [39merror TS2307: Cannot find module 'electron'.

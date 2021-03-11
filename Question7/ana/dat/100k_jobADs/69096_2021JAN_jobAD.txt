@@ -1,0 +1,1 @@
+[263/270] Generating sway-ipc.7 with a custom command

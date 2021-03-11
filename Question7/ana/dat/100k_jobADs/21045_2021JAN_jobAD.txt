@@ -1,0 +1,1 @@
+  LD      .tmp_vmlinux.kallsyms1

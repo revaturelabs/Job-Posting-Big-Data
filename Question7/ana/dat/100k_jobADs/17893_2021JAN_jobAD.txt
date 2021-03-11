@@ -1,0 +1,1 @@
+  AR      kernel/irq/built-in.a

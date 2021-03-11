@@ -1,0 +1,1 @@
+for(i=1;i<=n;i++) fprintf(g,\"%d \",a[i]);

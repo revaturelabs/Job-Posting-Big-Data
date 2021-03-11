@@ -1,0 +1,1 @@
+  AR      drivers/gpu/drm/tiny/built-in.a

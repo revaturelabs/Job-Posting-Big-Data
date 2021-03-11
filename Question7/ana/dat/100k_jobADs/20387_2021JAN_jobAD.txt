@@ -1,0 +1,1 @@
+  AR      drivers/net/wireless/intersil/built-in.a

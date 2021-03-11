@@ -1,0 +1,1 @@
+C compiler for the host machine: cc (gcc 9.3.0 \"cc (Alpine 9.3.0) 9.3.0\")

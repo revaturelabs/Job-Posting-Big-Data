@@ -1,0 +1,1 @@
+[122/227] Compiling C object 'wlroots@sha/types_wlr_gtk_primary_selection.c.o'

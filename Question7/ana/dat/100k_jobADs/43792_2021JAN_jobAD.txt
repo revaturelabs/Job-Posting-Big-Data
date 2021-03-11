@@ -1,0 +1,1 @@
+投稿や固定ページの入力欄[ショートコード名]記事内に「Hello Wonderful World」と表示させてみましょう。functions.phpfunction shortcode_Hello() {

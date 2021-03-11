@@ -1,0 +1,1 @@
+  AR      drivers/net/wireless/atmel/built-in.a

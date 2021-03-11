@@ -1,0 +1,1 @@
+[31msrc/plot/PlotController.ts(16,20): [39merror TS2503: Cannot find namespace 'W2UI'.

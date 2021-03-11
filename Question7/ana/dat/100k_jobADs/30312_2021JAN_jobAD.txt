@@ -1,0 +1,1 @@
+            mail.AddContent(new Content(\"text/plain\", filter.GetDetailedMessage(1)));

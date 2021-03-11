@@ -1,0 +1,1 @@
+[229/270] Compiling C object 'sway/345c74e@@sway@exe/desktop_idle_inhibit_v1.c.o'

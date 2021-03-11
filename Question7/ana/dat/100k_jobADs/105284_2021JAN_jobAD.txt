@@ -1,0 +1,1 @@
+(002323) [23:22:04] (buildroot_aarch64) % apk --no-progress add -u --virtual .pmbootstrap abuild build-base ccache git fakeroot openssl attr tar pkgconf patch lzip curl binutils file gcc g++ make libc-dev fortify-headers libcurl expat pcre2 libattr libacl libgcc libstdc++ ca-certificates libmagic isl libgomp libatomic libgphobos gmp mpc1 mpfr4 musl-dev nghttp2-libs

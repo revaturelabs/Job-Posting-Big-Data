@@ -1,0 +1,1 @@
+  INSTALL /home/pmos/build/pkg/linux-oneplus-sdm845/usr/share/dtb/qcom/sc7180-trogdor-r1-lte.dtb

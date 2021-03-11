@@ -1,0 +1,1 @@
+[25/270] Generating wlr_input_inhibitor_unstable_v1_xml_server_h with a custom command

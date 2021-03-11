@@ -1,0 +1,1 @@
+  AR      drivers/media/usb/dvb-usb/built-in.a

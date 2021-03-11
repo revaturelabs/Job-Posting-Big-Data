@@ -1,0 +1,1 @@
+[2/270] Compiling C object 'swaymsg/0ffa70a@@swaymsg@exe/main.c.o'

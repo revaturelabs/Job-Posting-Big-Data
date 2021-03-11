@@ -1,0 +1,1 @@
+[219/227] Compiling C object 'wlroots@sha/meson-generated_.._protocol_pointer-gestures-unstable-v1-protocol.c.o'

@@ -1,0 +1,1 @@
+[4/227] Generating wlr_output_management_unstable_v1_c with a custom command

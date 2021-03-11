@@ -1,0 +1,1 @@
+  CC      fs/ramfs/inode.o

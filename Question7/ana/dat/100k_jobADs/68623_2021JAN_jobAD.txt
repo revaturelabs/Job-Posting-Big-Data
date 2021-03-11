@@ -1,0 +1,1 @@
+[176/227] Compiling C object 'wlroots@sha/backend_headless_output.c.o'

@@ -1,0 +1,1 @@
+[31msrc/plotBrowser/BrowserController.ts(6,1): [39merror TS6053: File '/opt/jenkins-workspace-overture_graphics-master/typings/globals/w2ui/index.d.ts' not found.

@@ -1,0 +1,1 @@
+  AR      drivers/soc/renesas/built-in.a

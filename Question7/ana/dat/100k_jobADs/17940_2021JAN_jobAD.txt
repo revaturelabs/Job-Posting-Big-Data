@@ -1,0 +1,1 @@
+  CC      fs/proc/thread_self.o

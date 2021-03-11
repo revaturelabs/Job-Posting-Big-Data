@@ -1,0 +1,1 @@
+  AR      drivers/char/built-in.a

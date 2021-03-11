@@ -1,0 +1,1 @@
+(002350) [11:45:05] % cd /home/build/pmaports; git show origin/master:channels.cfg

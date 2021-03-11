@@ -1,0 +1,1 @@
+  CC      drivers/firmware/efi/libstub/relocate.o

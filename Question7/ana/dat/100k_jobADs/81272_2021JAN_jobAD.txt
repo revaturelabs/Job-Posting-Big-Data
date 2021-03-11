@@ -1,0 +1,1 @@
+000-system-background.gschema.override: OK

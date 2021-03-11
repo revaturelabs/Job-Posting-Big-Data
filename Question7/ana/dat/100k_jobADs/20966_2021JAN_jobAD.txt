@@ -1,0 +1,1 @@
+  AR      drivers/iio/frequency/built-in.a

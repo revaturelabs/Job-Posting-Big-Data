@@ -1,0 +1,1 @@
+]0;>>> linux-oneplus-sdm845: Build complete at Wed, 23 Dec 2020 06:09:38 +0000 elapsed time 0h 33m 31s

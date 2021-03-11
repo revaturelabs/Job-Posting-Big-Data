@@ -1,0 +1,1 @@
+]0;abuild: postmarketos-hidden-desktop-entries>>> postmarketos-hidden-desktop-entries: Building pmos/postmarketos-hidden-desktop-entries 1.2-r0 (using abuild 3.6.0-r1) started Wed, 21 Oct 2020 23:22:39 +0000

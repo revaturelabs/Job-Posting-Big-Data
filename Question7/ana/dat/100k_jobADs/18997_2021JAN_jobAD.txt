@@ -1,0 +1,1 @@
+  AR      drivers/virtio/built-in.a

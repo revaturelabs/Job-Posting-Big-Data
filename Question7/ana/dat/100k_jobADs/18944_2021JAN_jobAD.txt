@@ -1,0 +1,1 @@
+  CC      drivers/soc/qcom/rpmh.o

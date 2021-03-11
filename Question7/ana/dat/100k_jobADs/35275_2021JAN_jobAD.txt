@@ -1,0 +1,1 @@
+[31msrc/App.ts(32,24): [39merror TS2304: Cannot find name '__dirname'.

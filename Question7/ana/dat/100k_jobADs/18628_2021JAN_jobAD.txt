@@ -1,0 +1,1 @@
+  AR      sound/soc/hisilicon/built-in.a

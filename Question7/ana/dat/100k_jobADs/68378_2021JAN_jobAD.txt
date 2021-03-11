@@ -1,0 +1,1 @@
+Compiler for C supports arguments -Wimplicit-fallthrough=2: YES 

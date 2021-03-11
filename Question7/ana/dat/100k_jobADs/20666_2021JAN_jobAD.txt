@@ -1,0 +1,1 @@
+  CC      drivers/hwmon/hwmon.o

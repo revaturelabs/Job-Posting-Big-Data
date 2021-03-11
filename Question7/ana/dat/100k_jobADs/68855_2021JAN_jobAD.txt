@@ -1,0 +1,1 @@
+[22/270] Generating __usr_share_wayland_protocols_unstable_xdg_output_xdg_output_unstable_v1_xml_client_h with a custom command

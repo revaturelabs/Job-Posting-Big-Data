@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/tehuti/built-in.a

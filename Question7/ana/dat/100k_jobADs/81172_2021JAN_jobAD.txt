@@ -1,0 +1,1 @@
+(154/234) Installing perl-encode-locale (1.05-r3)

@@ -1,0 +1,1 @@
+  CC      drivers/input/touchscreen/of_touchscreen.o

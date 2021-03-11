@@ -1,0 +1,1 @@
+[163/227] Compiling C object 'wlroots@sha/backend_wayland_output.c.o'

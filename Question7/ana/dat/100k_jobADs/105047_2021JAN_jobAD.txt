@@ -1,0 +1,1 @@
+(002323) [23:21:55] % sudo mount -t tmpfs -o nodev,nosuid,noexec tmpfs /home/build/.local/var/pmbootstrap/chroot_buildroot_aarch64/dev/shm

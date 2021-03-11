@@ -1,0 +1,1 @@
+>>> postmarketos-ui-mate: Installing for build: build-base mate-desktop-environment xorg-server dbus-x11 mesa-egl postmarketos-artwork-wallpapers gtk+2.0 lightdm lightdm-openrc

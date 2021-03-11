@@ -1,0 +1,1 @@
+  AR      drivers/iio/imu/st_lsm6dsx/built-in.a

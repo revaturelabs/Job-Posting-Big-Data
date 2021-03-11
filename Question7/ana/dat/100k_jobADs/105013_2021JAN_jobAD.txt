@@ -1,0 +1,1 @@
+mirrordir_alpine=edge

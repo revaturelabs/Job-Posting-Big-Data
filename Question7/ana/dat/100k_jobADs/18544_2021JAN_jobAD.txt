@@ -1,0 +1,1 @@
+  AR      sound/drivers/opl3/built-in.a

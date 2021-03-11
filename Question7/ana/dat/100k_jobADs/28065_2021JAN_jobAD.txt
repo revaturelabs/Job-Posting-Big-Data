@@ -1,0 +1,1 @@
+"Parse error: syntax error, unexpected '$i' (T_VARIABLE), expecting ';' in /home/ikebanakofuryu/public_html/cache/views/bf6ef5aa90b5537883369bf7580d354ff767ced0.phpon line8"

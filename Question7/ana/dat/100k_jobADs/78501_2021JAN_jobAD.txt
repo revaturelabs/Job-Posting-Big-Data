@@ -1,0 +1,1 @@
+richfaces-ihe » Maven plugin for JSF components code generation #13 Changes [Jenkins]Skip to contentJenkinslog inDashboardrichfaces-iheMaven plugin for JSF components code generation#13Back to ProjectStatusChangesConsole OutputView Build InformationExecuted MojosSee FingerprintsOpen Blue OceanChangesSummaryHelp us localize this pageREST APIJenkins 2.275
