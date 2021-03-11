@@ -114,3 +114,6 @@ libraryDependencies += "org.apache.hadoop" % "hadoop-aws" % "2.7.7"
 _______________________________________________________________________________________________________________________________
 ### Links to other relevant information/GitHubs
 
+- https://commoncrawl.org/the-data/get-started/
+- https://commoncrawl.org/2018/03/index-to-warc-files-and-urls-in-columnar-format/
+- https://skeptric.com/common-crawl-job-ads/
