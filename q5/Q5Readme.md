@@ -1,3 +1,7 @@
+### Question Five (Q5)
+Are there general trends in tech job postings over the past year?
+What about the past month?
+
 ### Important things to Note on running the Q5 files:
 We wanted to keep structure pretty flexible.
 Unfortunately this means having to edit the .scala files to match up with the various queries or S3 buckets you plan on using.
