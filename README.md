@@ -1,4 +1,48 @@
 # Job-Posting-Big-Data
+Hello! Welcome to the Common Crawl Job Analysis created by Revature Big Data Batch 210104
+_______________________________________________________________________________________________________________________________
+## Project Description
+The purpose of this project is to use the Common Crawl database to analyze job postings in various contexts:  
+1) Where do we see relatively fewer tech ads proportional to population?  
+2) What companies are posting the most jobs?  
+3) What percent of tech job posters post no more than three job ads a month?  
+4) Is there a significant spike in tech job postings at the end of business quarters?  
+5) Are there general trends in tech job postings over the past year?  
+6) What percentage of "Entry Level Jobs" require experience?  
+7) What are the top three qualifications or certifications requested by employers?  
+8) What percentage of tech job postings require experience in a "Low Code" or "No Code" solution?  
+
+In addition, we pursued additional analysis as time and interested permitted:  
+1) Does the distribution of Common Crawl text data provide insight into what jobs are being posted?  
+2) What are the most popular programming languages?  
+_______________________________________________________________________________________________________________________________
+## Technologies Used
+* Apache Spark
+* Scala
+* Scala Metals
+* AWS EMR
+* AWS S3
+* AWS Athena
+* VSCode
+* SBT
+_______________________________________________________________________________________________________________________________
+## Getting Started
+
+To download the repo:
+```git clone https://github.com/revaturelabs/Job-Posting-Big-Data.git```
+
+For any question, you will likely need to create Amazon Access keys, which are detailed below.  
+Other questions may have other requirements. Pay attention to the comments and any additional directions  
+listed in the question directories themselves.
+_______________________________________________________________________________________________________________________________
+## Usage
+
+Navigate to the particular question directory you are interested in running,
+(and after following any additional directions in the question itself)
+Import the build.sbt using Scala Metals, then run  
+```sbt assembly```
+then
+```spark-submit target/scala.11/<title-of-your-jar-file>```
 _______________________________________________________________________________________________________________________________
 ### Setting Up Amazon Keys
   1) Go to https://console.aws.amazon.com/iam/home?#/security_credentials
@@ -9,10 +53,9 @@ ________________________________________________________________________________
    - cd .
    - nano .bashrc
    - Add in exports for the keys
-  5) Save & exit (I think it's Ctrl+O, Ctrl+Z)
+  5) Save & exit
 _______________________________________________________________________________________________________________________________
 ### Installing S3CMD 
-(Courtesy of Clair)
 
   1) The first thing you will want to do is install pip. Pip is an installer built with Python to install python libraries. Very similar to apt. To install, go ahead and run this command:sudo apt update the run: sudo apt install python3-pip
 
@@ -41,7 +84,7 @@ ________________________________________________________________________________
 ### Errors on Spark-Submit
 If you spark-submit your jar file, and get an error about content length, you'll need to downgrade your java version.
 
-**ON WINDOWS** (Information courtesy of Allie)
+**ON WINDOWS**
 ```
 wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jre_8u265-b01-0ubuntu2~18.04_amd64.deb
 wget https://launchpad.net/~openjdk-security/+archive/ubuntu/ppa/+build/19763089/+files/openjdk-8-jdk_8u265-b01-0ubuntu2~18.04_amd64.deb
@@ -54,7 +97,7 @@ sudo dpkg -i openjdk-8-jdk_8u265-b01-0ubuntu2~18.04_amd64.deb
 ```
 Source Link - https://github.com/delta-io/delta/issues/544
 
-**ON MAC** (Information couresy of Christian)
+**ON MAC**
 ```
 https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u265-b01/OpenJDK8U-jdk_x64_mac_hotspot_8u265b01.pkg
 https://github.com/AdoptOpenJDK/openjdk8-binaries/releases/download/jdk8u265-b01/OpenJDK8U-jre_x64_mac_hotspot_8u265b01.pkg
