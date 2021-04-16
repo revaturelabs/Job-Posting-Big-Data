@@ -1,1 +1,0 @@
-[[90m20:43:48[39m] Finished '[36minstall-ts-defs[39m' after [35m13 ms[39m

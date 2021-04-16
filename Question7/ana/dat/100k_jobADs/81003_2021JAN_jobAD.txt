@@ -1,1 +1,0 @@
-(002350) [11:45:25] (native) build x86_64/postmarketos-ui-mate-1-r11.apk

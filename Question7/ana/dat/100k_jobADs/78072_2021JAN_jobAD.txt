@@ -1,1 +1,0 @@
-/home/travis_admin/travis-ci.oilshell.org/srht-jobs//2020-12-12__19-43-29.json

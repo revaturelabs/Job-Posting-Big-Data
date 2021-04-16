@@ -1,1 +1,0 @@
-  AR      sound/usb/built-in.a

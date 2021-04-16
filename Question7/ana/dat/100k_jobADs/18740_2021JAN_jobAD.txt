@@ -1,1 +1,0 @@
-  CC      drivers/video/fbdev/core/fbmon.o

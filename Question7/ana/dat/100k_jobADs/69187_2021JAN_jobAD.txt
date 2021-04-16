@@ -1,1 +1,0 @@
-[17/214] Compiling C object 'sway/345c74e@@sway@exe/tree_workspace.c.o'

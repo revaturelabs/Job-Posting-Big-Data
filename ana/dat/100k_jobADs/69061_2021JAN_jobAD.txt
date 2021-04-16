@@ -1,0 +1,1 @@
+[228/270] Compiling C object 'sway/345c74e@@sway@exe/desktop_layer_shell.c.o'

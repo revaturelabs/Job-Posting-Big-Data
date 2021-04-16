@@ -1,1 +1,0 @@
-  AR      drivers/i2c/built-in.a

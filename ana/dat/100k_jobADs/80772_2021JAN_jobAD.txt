@@ -1,0 +1,1 @@
++ ./pmbootstrap/pmbootstrap.py -m http://dl-2.alpinelinux.org/alpine/ -mp http://build.postmarketos.org/wip/ -mp http://mirror.postmarketos.org/postmarketos/ --aports=/home/build/pmaports --no-ccache --timeout 900 --details-to-stdout build --no-depends --strict --arch x86_64 --force postmarketos-ui-mate

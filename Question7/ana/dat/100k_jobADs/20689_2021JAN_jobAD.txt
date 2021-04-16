@@ -1,1 +1,0 @@
-  AR      drivers/thermal/qcom/built-in.a

@@ -1,1 +1,0 @@
-  CC      drivers/soc/qcom/qmi_encdec.o

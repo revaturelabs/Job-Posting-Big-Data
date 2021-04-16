@@ -1,1 +1,0 @@
-[31msrc/App.ts(20,27): [39merror TS2503: Cannot find namespace 'Electron'.

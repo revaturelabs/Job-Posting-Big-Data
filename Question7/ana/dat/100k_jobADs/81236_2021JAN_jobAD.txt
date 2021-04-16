@@ -1,1 +1,0 @@
-(215/234) Installing xinit (1.4.1-r0)

@@ -1,1 +1,0 @@
-  CC      drivers/mtd/nand/bbt.o

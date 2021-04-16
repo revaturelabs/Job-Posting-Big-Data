@@ -1,1 +1,0 @@
-  AR      drivers/clk/ingenic/built-in.a

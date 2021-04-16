@@ -1,1 +1,0 @@
-  CC      crypto/asymmetric_keys/pkcs7_trust.o

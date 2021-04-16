@@ -1,1 +1,0 @@
-Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.0.4/maven-artifact-2.0.4.jar (80 kB at 872 kB/s)Progress (3): 98/222 kB | 33/80 kB | 4.1/23 kB

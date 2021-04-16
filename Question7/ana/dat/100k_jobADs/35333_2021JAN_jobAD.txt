@@ -1,1 +1,0 @@
-[31msrc/protocol/SubscriptionClient.ts(4,41): [39merror TS2307: Cannot find module 'websocket'.

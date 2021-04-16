@@ -1,1 +1,0 @@
-  AR      drivers/soc/amlogic/built-in.a

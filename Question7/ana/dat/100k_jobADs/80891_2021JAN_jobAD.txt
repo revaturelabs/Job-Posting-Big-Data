@@ -1,1 +1,0 @@
-(5/20) Installing openrc (0.42.1-r12)

@@ -1,1 +1,0 @@
-  AR      drivers/net/ethernet/seeq/built-in.a

@@ -1,1 +1,0 @@
-[31msrc/menu/menuTemplate.ts(25,30): [39merror TS2304: Cannot find name 'process'.

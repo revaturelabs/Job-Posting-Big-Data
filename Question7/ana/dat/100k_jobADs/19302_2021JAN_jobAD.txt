@@ -1,1 +1,0 @@
-  CC      drivers/gpu/drm/msm/disp/mdp4/mdp4_dtv_encoder.o

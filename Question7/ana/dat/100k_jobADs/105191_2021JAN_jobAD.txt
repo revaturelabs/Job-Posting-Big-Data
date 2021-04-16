@@ -1,1 +1,0 @@
-(002323) [23:21:58] (native) % busybox su pmos -c HOME=/home/pmos ln -s /mnt/pmbootstrap-rust/registry/cache /home/pmos/.cargo/registry/cache

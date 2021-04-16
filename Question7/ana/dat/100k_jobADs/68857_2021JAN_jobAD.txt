@@ -1,1 +1,0 @@
-[24/270] Generating wlr_output_power_management_unstable_v1_xml_server_h with a custom command

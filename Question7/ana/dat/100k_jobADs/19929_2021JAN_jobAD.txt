@@ -1,1 +1,0 @@
-  AR      drivers/ata/built-in.a

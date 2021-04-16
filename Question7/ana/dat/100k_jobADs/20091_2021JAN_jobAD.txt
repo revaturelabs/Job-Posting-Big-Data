@@ -1,1 +1,0 @@
-  CC      lib/mpi/generic_mpih-mul1.o

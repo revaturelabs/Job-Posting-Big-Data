@@ -1,1 +1,0 @@
-  CC [M]  net/bluetooth/mgmt_config.o

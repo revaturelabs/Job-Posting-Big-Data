@@ -1,1 +1,0 @@
-  CC      drivers/char/tpm/eventlog/tpm1.o

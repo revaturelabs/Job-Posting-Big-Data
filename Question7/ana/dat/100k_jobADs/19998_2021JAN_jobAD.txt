@@ -1,1 +1,0 @@
-  CC      drivers/mtd/nand/raw/nand_samsung.o

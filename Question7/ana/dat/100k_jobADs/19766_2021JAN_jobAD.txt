@@ -1,1 +1,0 @@
-  CC      net/sunrpc/auth_gss/svcauth_gss.o

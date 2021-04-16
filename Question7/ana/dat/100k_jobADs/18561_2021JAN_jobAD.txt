@@ -1,1 +1,0 @@
-  AR      sound/isa/wavefront/built-in.a

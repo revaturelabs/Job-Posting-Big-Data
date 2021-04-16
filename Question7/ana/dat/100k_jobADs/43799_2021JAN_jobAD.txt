@@ -1,1 +1,0 @@
-$td .= ob_get_clean();

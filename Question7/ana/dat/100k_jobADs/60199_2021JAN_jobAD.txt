@@ -1,1 +1,0 @@
-"| InstaffoSie haben in Ihrem Browser JavaScript deaktiviert.Um diese Seite nutzen zu können, fügen Sie bitte eine Ausnahmeregel hinzu, welche die Ausführung von JavaScript erlaubt."

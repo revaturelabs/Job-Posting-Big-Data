@@ -1,1 +1,0 @@
-(002350) [11:45:10] % sudo mount --bind /proc /home/build/.local/var/pmbootstrap/chroot_native/proc

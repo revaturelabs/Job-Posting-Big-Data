@@ -1,1 +1,0 @@
-  CC      drivers/firmware/qcom_scm.o

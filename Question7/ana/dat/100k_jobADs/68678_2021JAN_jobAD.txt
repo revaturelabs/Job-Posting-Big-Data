@@ -1,1 +1,0 @@
-Installing /home/build/wlroots/include/wlr/xwayland.h to /usr/include/wlr

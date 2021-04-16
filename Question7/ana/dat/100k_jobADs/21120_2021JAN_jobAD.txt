@@ -1,1 +1,0 @@
-  INSTALL fs/efivarfs/efivarfs.ko

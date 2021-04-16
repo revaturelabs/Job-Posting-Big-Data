@@ -1,1 +1,0 @@
-[209/214] Compiling C object 'common/92a5dc0@@sway-common@sta/background-image.c.o'

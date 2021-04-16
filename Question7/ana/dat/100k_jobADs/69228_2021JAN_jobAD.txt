@@ -1,1 +1,0 @@
-[58/214] Compiling C object 'sway/345c74e@@sway@exe/commands_input_left_handed.c.o'

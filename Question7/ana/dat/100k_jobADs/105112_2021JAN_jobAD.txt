@@ -1,1 +1,0 @@
-(002323) [23:21:55] Download http://build.postmarketos.org/wip/v20.05/x86_64/APKINDEX.tar.gz

@@ -1,1 +1,0 @@
-(002323) [23:21:55] % sudo mount --bind /home/build/.local/var/pmbootstrap/cache_rust /home/build/.local/var/pmbootstrap/chroot_native/mnt/pmbootstrap-rust

@@ -1,1 +1,0 @@
-  AR      sound/usb/usx2y/built-in.a

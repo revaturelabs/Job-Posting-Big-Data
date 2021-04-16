@@ -1,1 +1,0 @@
-[[90m20:44:37[39m] Finished '[36mpackage-linux[39m' after [35m43 s[39m

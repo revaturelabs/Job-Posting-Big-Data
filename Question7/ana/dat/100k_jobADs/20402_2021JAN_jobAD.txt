@@ -1,1 +1,0 @@
-  CC      lib/compat_audit.o

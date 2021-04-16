@@ -1,1 +1,0 @@
-  CC      drivers/firmware/efi/libstub/lib-cmdline.o

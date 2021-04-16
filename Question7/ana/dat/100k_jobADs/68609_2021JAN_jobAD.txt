@@ -1,1 +1,0 @@
-[162/227] Compiling C object 'wlroots@sha/backend_wayland_seat.c.o'

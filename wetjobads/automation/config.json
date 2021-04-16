@@ -1,0 +1,5 @@
+{
+    "crawl": "CC-MAIN-2020-05",
+    "batch_size": 100,
+    "input_bucket": "wet-segments-7913"
+}

@@ -1,1 +1,0 @@
-        <assemblyIdentity name=\"Microsoft.Azure.KeyVault.Core\" publicKeyToken=\"31bf3856ad364e35\" culture=\"neutral\" />

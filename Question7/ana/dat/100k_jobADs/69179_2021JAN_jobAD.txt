@@ -1,1 +1,0 @@
-[9/214] Compiling C object 'swaybar/cf785bf@@swaybar@exe/ipc.c.o'

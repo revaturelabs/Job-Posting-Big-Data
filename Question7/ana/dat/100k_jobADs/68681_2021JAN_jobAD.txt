@@ -1,1 +1,0 @@
-Installing /home/build/wlroots/include/wlr/render/wlr_texture.h to /usr/include/wlr/render

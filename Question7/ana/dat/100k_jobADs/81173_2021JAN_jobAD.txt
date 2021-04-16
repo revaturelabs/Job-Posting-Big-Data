@@ -1,1 +1,0 @@
-(155/234) Installing perl-uri (1.76-r1)

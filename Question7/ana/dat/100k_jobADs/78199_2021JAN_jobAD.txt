@@ -1,1 +1,0 @@
-/home/travis_admin/travis-ci.oilshell.org/srht-jobs//2021-01-10__20-46-50.tsv

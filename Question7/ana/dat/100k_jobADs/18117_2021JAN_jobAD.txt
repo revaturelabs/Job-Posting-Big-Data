@@ -1,1 +1,0 @@
-  CC      ipc/ipc_sysctl.o

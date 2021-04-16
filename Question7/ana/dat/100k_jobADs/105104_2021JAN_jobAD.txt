@@ -1,1 +1,0 @@
-(002323) [23:21:55] % sudo mount --bind /home/build/.local/var/pmbootstrap/config_apk_keys /home/build/.local/var/pmbootstrap/chroot_native/etc/apk/keys

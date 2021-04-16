@@ -1,1 +1,0 @@
-  CC      fs/lockd/clntproc.o

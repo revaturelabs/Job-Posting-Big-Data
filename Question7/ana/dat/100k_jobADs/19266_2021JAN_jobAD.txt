@@ -1,1 +1,0 @@
-  CC      drivers/gpu/drm/msm/hdmi/hdmi_bridge.o

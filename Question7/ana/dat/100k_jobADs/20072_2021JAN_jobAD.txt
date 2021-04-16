@@ -1,1 +1,0 @@
-  CC      lib/raid6/int8.o

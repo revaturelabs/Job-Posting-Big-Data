@@ -1,1 +1,0 @@
-  AR      sound/soc/sprd/built-in.a

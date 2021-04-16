@@ -1,1 +1,0 @@
-  CC      drivers/tty/vt/selection.o

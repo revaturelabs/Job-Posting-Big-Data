@@ -1,0 +1,1 @@
+  CC      lib/oid_registry.o

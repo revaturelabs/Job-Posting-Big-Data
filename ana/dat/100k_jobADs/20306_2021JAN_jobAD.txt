@@ -1,0 +1,1 @@
+  CC      lib/win_minmax.o

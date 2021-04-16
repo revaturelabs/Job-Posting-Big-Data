@@ -1,1 +1,0 @@
-(141/234) Installing mate-power-manager (1.24.2-r0)

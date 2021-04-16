@@ -1,1 +1,0 @@
-Packaging app for platform win32 x64 using electron v0.36.0

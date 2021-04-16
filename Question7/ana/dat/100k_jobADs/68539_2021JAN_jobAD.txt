@@ -1,1 +1,0 @@
-[92/227] Compiling C object 'wlroots@sha/types_wlr_tablet_pad.c.o'

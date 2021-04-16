@@ -1,1 +1,0 @@
-  AR      sound/pci/ca0106/built-in.a
