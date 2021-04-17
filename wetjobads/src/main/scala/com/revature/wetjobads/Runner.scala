@@ -19,7 +19,7 @@ object Runner {
     import spark.implicits._
     sc.setLogLevel("WARN")
 
-    val wetSegments = "s3a://wet-segments/random-paths.txt"
+    val wetSegments = "s3a://wet-segments-7913/wet_batch.paths"
     val wetS3Paths = sc
       .textFile(wetSegments)
       .map("s3a://commoncrawl/" + _)
@@ -43,7 +43,7 @@ object Runner {
     val jobAdsRdd = findJobAds(records)
     val jobAdsDf = jobAdsRdd.toDF().limit(100000)
 
-    val outputBucket = "s3a://emr-output-revusf/jobads"
+    val outputBucket = "s3a://emr-output-7913/jobads"
     jobAdsDf.write
       .format("csv")
       .option("compression", "gzip")

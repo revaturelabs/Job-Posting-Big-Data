@@ -54,5 +54,11 @@ def main():
         log = {"loaded_at": now, "line_start": line_start, "line_end": line_end - 1}
         f.write("\n" + json.dumps(log))
 
+    # print bucket contents
+    for obj in s3.Bucket(INPUT_BUCKET).objects.all():
+        key = obj.key
+        body = obj.get()['Body'].read()
+        print(f"Bucket '{INPUT_BUCKET}' Contents:")
+        print(body.decode("utf-8"))
 
 main()

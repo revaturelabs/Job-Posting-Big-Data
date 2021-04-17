@@ -9,10 +9,11 @@ lazy val root = (project in file("."))
   .settings(
     name := "wetjobads",
     libraryDependencies += scalaTest % Test,
-    libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.7" % "provided",
-    libraryDependencies += "org.apache.hadoop" % "hadoop-common" % "2.7.7",
-    libraryDependencies += "org.apache.hadoop" % "hadoop-client" % "2.7.7",
-    libraryDependencies += "org.apache.hadoop" % "hadoop-aws" % "2.7.7"
+    libraryDependencies += "org.apache.spark" %% "spark-sql" % "2.4.7" % "provided"
+    // ,
+    // libraryDependencies += "org.apache.hadoop" % "hadoop-common" % "2.7.7",
+    // libraryDependencies += "org.apache.hadoop" % "hadoop-client" % "2.7.7",
+    // libraryDependencies += "org.apache.hadoop" % "hadoop-aws" % "2.7.7"
   )
 
 assemblyMergeStrategy in assembly := {
