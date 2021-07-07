@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/socionext/built-in.a

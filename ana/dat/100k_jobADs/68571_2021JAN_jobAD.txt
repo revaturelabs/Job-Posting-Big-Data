@@ -1,0 +1,1 @@
+[124/227] Compiling C object 'wlroots@sha/types_wlr_fullscreen_shell_v1.c.o'

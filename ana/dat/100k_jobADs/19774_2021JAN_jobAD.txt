@@ -1,0 +1,1 @@
+  AR      drivers/misc/cardreader/built-in.a

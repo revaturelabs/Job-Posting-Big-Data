@@ -1,0 +1,1 @@
+  AR      drivers/usb/common/built-in.a

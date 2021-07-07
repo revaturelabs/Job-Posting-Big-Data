@@ -1,0 +1,1 @@
+  val conf = new SparkConf().setAppName(\"Spark FIFO scheduling modes\").setMaster(\"local[2]\")

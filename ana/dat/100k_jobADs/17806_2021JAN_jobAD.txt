@@ -1,0 +1,1 @@
+  AR      kernel/sched/built-in.a

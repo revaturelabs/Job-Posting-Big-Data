@@ -1,0 +1,1 @@
+[1/270] Compiling C object 'client/948fe60@@sway-client@sta/pool-buffer.c.o'

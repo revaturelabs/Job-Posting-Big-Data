@@ -1,0 +1,1 @@
+  CC      drivers/ata/libata-transport.o

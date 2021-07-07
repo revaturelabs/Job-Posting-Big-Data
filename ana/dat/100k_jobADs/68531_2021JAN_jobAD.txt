@@ -1,0 +1,1 @@
+[84/227] Compiling C object 'wlroots@sha/types_wlr_xdg_output_v1.c.o'

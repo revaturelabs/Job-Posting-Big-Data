@@ -1,0 +1,1 @@
+  CC      drivers/firmware/smccc/soc_id.o

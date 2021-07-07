@@ -1,0 +1,1 @@
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.0.4/maven-plugin-api-2.0.4.jar (8.3 kB at 116 kB/s)Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/2.0.1/plexus-utils-2.0.1.jarProgress (2): 48 kB | 41/109 kB

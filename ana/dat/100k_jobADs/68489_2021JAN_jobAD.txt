@@ -1,0 +1,1 @@
+[42/227] Generating wlr_input_inhibitor_unstable_v1_server_h with a custom command

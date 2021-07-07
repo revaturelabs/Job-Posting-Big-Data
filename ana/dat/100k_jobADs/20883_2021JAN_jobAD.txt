@@ -1,0 +1,1 @@
+  CC      drivers/of/of_net.o

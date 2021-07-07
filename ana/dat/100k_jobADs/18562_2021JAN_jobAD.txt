@@ -1,0 +1,1 @@
+  AR      sound/isa/wss/built-in.a

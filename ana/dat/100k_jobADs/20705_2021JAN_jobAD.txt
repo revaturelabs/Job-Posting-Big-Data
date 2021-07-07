@@ -1,0 +1,1 @@
+  CC      drivers/thermal/gov_step_wise.o

@@ -1,0 +1,1 @@
+[148/214] Compiling C object 'sway/345c74e@@sway@exe/commands_force_focus_wrapping.c.o'

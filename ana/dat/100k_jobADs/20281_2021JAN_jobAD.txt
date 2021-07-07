@@ -1,0 +1,1 @@
+  AR      net/dns_resolver/built-in.a

@@ -1,0 +1,1 @@
+[[90m20:43:48[39m] Using bower dir: ./bower_components

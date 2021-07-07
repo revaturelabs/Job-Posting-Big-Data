@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/alacritech/built-in.a

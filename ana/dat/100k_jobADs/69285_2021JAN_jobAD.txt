@@ -1,0 +1,1 @@
+[115/214] Compiling C object 'sway/345c74e@@sway@exe/commands_seat_shortcuts_inhibitor.c.o'

@@ -1,0 +1,1 @@
+[181/227] Compiling C object 'wlroots@sha/backend_drm_properties.c.o'

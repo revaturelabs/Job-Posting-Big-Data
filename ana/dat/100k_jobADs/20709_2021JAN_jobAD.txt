@@ -1,0 +1,1 @@
+  CC      drivers/thermal/cpufreq_cooling.o

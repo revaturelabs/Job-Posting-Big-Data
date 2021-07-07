@@ -1,0 +1,1 @@
+[111/270] Compiling C object 'sway/345c74e@@sway@exe/commands_bar_separator_symbol.c.o'

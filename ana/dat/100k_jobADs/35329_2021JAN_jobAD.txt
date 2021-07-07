@@ -1,0 +1,1 @@
+[31msrc/plotBrowser/BrowserController.ts(139,46): [39merror TS2304: Cannot find name 'JQueryEventObject'.

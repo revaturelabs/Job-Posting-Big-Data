@@ -1,0 +1,1 @@
+            mail.Subject = \"WebJob - Warning - An error has been detected in a job\";

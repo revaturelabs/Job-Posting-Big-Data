@@ -1,0 +1,1 @@
+  STUBCPY drivers/firmware/efi/libstub/efi-stub-helper.stub.o

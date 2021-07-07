@@ -1,0 +1,1 @@
+  AR      sound/drivers/vx/built-in.a

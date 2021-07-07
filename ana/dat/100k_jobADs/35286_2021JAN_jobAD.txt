@@ -1,0 +1,1 @@
+[31msrc/configuration/Configuration.ts(71,88): [39merror TS7006: Parameter 'err' implicitly has an 'any' type.

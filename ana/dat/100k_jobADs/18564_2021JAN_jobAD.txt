@@ -1,0 +1,1 @@
+  AR      sound/pci/ac97/built-in.a

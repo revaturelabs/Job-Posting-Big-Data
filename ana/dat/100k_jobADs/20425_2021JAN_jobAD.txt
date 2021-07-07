@@ -1,0 +1,1 @@
+  GEN     lib/oid_registry_data.c

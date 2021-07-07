@@ -1,0 +1,1 @@
+[137/227] Compiling C object 'wlroots@sha/types_xdg_shell_v6_wlr_xdg_toplevel_v6.c.o'

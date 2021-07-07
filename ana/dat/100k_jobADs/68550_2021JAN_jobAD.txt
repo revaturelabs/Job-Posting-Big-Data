@@ -1,0 +1,1 @@
+[103/227] Compiling C object 'wlroots@sha/types_wlr_pointer_gestures_v1.c.o'

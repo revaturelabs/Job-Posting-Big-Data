@@ -1,0 +1,1 @@
+>>> postmarketos-hidden-desktop-entries*: Package size: 40.0 KB

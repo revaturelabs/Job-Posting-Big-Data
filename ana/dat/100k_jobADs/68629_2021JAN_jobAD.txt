@@ -1,0 +1,1 @@
+[182/227] Compiling C object 'wlroots@sha/backend_drm_legacy.c.o'

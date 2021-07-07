@@ -1,0 +1,1 @@
+  AR      sound/soc/intel/common/built-in.a

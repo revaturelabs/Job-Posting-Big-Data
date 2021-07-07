@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/ezchip/built-in.a

@@ -1,0 +1,1 @@
+[259/270] Generating swaymsg.1 with a custom command

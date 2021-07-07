@@ -1,0 +1,1 @@
+"系统发生错误:(syntax error, unexpected '$pattern' (T_VARIABLE), expecting function (T_FUNCTION)错误位置FILE: /website/wwwroot/default/Application/Common/Controller/BaseController.class.php LINE: 175ThinkPHP3.2.3 { Fast & Simple OOP PHP Framework } -- [ WE CAN DO IT JUST THINK ]"

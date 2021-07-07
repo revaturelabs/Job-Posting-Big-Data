@@ -1,0 +1,1 @@
+(125/234) Purging libxcursor (1.2.0-r0)

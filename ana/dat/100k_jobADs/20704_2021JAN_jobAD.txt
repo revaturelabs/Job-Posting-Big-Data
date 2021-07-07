@@ -1,0 +1,1 @@
+  AR      drivers/watchdog/built-in.a

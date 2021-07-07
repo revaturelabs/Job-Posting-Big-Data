@@ -1,0 +1,1 @@
+[155/227] Compiling C object 'wlroots@sha/backend_session_session.c.o'

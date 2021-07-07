@@ -1,0 +1,1 @@
+  CC      drivers/regulator/of_regulator.o

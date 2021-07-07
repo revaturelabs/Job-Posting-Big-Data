@@ -1,0 +1,1 @@
+[90/214] Compiling C object 'sway/345c74e@@sway@exe/commands_bar_binding_mode_indicator.c.o'

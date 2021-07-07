@@ -1,0 +1,1 @@
+ifstream fin(\"elmaj.in\");

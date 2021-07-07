@@ -1,0 +1,1 @@
+  AR      drivers/video/console/built-in.a

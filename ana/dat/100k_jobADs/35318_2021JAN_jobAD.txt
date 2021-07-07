@@ -1,0 +1,1 @@
+[31msrc/plotBrowser/BrowserController.ts(5,1): [39merror TS6053: File '/opt/jenkins-workspace-overture_graphics-master/typings/globals/jquery/index.d.ts' not found.

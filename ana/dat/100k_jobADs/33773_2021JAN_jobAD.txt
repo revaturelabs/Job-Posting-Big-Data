@@ -1,0 +1,1 @@
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mdeprecated[0m minimatch@0.2.14: Please update to minimatch 3.0.2 or higher to avoid a RegExp DoS issue

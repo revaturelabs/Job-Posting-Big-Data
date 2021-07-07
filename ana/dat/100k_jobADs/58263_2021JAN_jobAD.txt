@@ -1,0 +1,1 @@
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.0.6/maven-core-2.0.6.jarProgress (3): 139/177 kB | 49 kB | 8.2/43 kB

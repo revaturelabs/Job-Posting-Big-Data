@@ -1,0 +1,1 @@
+  AR      drivers/soc/bcm/built-in.a

@@ -1,0 +1,1 @@
+[[90m20:45:03[39m] Finished '[36mpackage-darwin[39m' after [35m1.15 min[39m

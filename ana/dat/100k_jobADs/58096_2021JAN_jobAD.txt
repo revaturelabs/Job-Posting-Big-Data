@@ -1,0 +1,1 @@
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.6/plexus-interpolation-1.6.pom (2.9 kB at 264 kB/s)Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-active-collections/1.0-beta-2/plexus-active-collections-1.0-beta-2.pomProgress (1): 2.8 kB

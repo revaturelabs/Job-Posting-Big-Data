@@ -1,0 +1,1 @@
+[200/214] Compiling C object 'sway/345c74e@@sway@exe/main.c.o'

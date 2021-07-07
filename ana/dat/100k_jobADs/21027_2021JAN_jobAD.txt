@@ -1,0 +1,1 @@
+  AR      drivers/interconnect/qcom/built-in.a

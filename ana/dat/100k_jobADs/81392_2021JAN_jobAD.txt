@@ -1,0 +1,1 @@
+Executing gtk+3.0-9999_git20200616-r2.post-deinstall

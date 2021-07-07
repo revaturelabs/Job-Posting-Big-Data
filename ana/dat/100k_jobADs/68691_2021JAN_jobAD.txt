@@ -1,0 +1,1 @@
+Installing /home/build/wlroots/include/wlr/types/wlr_xdg_shell_v6.h to /usr/include/wlr/types

@@ -1,0 +1,1 @@
+  CC      lib/sha1.o

@@ -1,0 +1,1 @@
+  AR      drivers/vfio/built-in.a

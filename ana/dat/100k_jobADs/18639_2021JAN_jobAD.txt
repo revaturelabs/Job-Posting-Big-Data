@@ -1,0 +1,1 @@
+  AR      sound/soc/pxa/built-in.a

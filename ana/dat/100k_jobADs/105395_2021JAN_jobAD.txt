@@ -1,0 +1,1 @@
+(002323) [23:22:38] (buildroot_aarch64) % busybox su pmos -c HOME=/home/pmos mkdir -p /home/pmos/build

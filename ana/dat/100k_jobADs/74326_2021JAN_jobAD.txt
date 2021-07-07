@@ -1,0 +1,1 @@
+  conf.set(\"spark.scheduler.mode\", \"FIFO\")

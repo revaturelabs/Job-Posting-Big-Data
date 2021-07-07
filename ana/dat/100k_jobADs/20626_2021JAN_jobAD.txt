@@ -1,0 +1,1 @@
+  AR      drivers/media/usb/s2255/built-in.a

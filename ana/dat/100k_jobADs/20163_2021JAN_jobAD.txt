@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/adaptec/built-in.a

@@ -1,0 +1,1 @@
+  AR      drivers/iio/imu/inv_mpu6050/built-in.a

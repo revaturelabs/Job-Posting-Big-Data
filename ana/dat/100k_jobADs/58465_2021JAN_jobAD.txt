@@ -1,0 +1,1 @@
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4/maven-archiver-2.4.jar (20 kB at 234 kB/s)Progress (2): 29/222 kB | 25/80 kB

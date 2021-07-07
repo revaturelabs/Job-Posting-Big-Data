@@ -1,0 +1,1 @@
+++ pmbootstrap/pmbootstrap.py -q config work

@@ -1,0 +1,1 @@
+[226/227] Compiling C object 'wlroots@sha/meson-generated_.._protocol_xdg-shell-protocol.c.o'

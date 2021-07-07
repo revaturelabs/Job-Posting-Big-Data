@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/amd/built-in.a

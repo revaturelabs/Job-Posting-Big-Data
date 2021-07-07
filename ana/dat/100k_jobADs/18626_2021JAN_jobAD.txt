@@ -1,0 +1,1 @@
+  AR      sound/soc/dwc/built-in.a

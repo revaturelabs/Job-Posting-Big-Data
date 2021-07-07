@@ -1,0 +1,1 @@
+  AR      drivers/iio/orientation/built-in.a

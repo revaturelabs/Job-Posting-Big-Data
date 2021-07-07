@@ -1,0 +1,1 @@
+  val logAppender = InMemoryLogAppender.createLogAppender(Seq(\"Running task\"),

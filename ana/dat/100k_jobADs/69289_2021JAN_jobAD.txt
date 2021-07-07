@@ -1,0 +1,1 @@
+[119/214] Compiling C object 'sway/345c74e@@sway@exe/commands_seat_hide_cursor.c.o'

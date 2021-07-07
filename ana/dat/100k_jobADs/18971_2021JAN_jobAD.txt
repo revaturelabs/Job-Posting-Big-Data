@@ -1,0 +1,1 @@
+  AR      drivers/soc/xilinx/built-in.a

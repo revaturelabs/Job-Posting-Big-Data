@@ -1,0 +1,1 @@
+  AR      drivers/i2c/algos/built-in.a

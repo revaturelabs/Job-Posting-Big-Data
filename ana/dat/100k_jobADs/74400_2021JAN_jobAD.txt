@@ -1,0 +1,1 @@
+      val oddNumbers = input2.filter(nr => {

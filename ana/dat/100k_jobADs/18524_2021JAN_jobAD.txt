@@ -1,0 +1,1 @@
+  CC      fs/autofs/symlink.o

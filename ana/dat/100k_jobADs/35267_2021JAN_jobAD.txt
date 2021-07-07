@@ -1,0 +1,1 @@
+[31msrc/App.ts(5,14): [39merror TS2304: Cannot find name 'require'.

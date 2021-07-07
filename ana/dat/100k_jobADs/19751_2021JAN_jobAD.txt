@@ -1,0 +1,1 @@
+  AR      drivers/gpu/vga/built-in.a

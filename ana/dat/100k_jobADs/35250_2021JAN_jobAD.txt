@@ -1,0 +1,1 @@
+[[90m20:43:49[39m] Finished '[36minstall-bower-components[39m' after [35m1000 ms[39m

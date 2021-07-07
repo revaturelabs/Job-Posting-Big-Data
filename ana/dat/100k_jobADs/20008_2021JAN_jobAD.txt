@@ -1,0 +1,1 @@
+  AR      drivers/mtd/nand/raw/built-in.a

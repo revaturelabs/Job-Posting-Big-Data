@@ -1,0 +1,1 @@
+[31msrc/configuration/Configuration.ts(7,23): [39merror TS2307: Cannot find module 'util'.

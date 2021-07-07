@@ -1,0 +1,1 @@
+  AR      drivers/usb/gadget/udc/built-in.a

@@ -1,0 +1,1 @@
+  AR      drivers/tty/serial/built-in.a

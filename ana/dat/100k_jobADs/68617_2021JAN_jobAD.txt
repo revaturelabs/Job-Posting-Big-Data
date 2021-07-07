@@ -1,0 +1,1 @@
+[170/227] Compiling C object 'wlroots@sha/backend_libinput_tablet_pad.c.o'

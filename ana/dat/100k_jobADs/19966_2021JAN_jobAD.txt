@@ -1,0 +1,1 @@
+  AR      drivers/mtd/nand/raw/ingenic/built-in.a

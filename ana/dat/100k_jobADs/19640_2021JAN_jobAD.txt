@@ -1,0 +1,1 @@
+  AR      drivers/base/power/built-in.a

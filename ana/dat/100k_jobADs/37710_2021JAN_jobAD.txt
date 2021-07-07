@@ -1,0 +1,1 @@
+"HTTP/1.1 302 Found Date: Wed, 04 Nov 2020 13:53:51 GMT Server: Apache/2 Set-Cookie: PHPSESSID=a47cf025b569c4e66da11c2b2449ac10; path=/ Expires: Thu, 19 Nov 1981 08:52:00 GMT Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0 Pragma: no-cache Location: http://aylyjt.qftouch.com Vary: Accept-Encoding,User-Agent Content-Length: 0 Content-Type: text/html"

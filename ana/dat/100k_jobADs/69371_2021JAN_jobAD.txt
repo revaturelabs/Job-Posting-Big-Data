@@ -1,0 +1,1 @@
+[201/214] Compiling C object 'sway/345c74e@@sway@exe/ipc-server.c.o'

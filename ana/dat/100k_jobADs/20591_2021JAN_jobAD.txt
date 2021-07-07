@@ -1,0 +1,1 @@
+  AR      drivers/media/platform/stm32/built-in.a

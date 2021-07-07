@@ -1,0 +1,1 @@
+  AR      sound/pci/vx222/built-in.a

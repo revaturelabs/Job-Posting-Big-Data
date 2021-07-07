@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/aquantia/built-in.a

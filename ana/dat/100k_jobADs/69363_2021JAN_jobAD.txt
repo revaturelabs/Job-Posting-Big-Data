@@ -1,0 +1,1 @@
+[193/214] Compiling C object 'sway/345c74e@@sway@exe/desktop_output.c.o'

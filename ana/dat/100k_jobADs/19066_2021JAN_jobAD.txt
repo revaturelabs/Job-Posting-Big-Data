@@ -1,0 +1,1 @@
+  CONMK   drivers/tty/vt/consolemap_deftbl.c

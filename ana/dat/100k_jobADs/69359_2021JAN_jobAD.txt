@@ -1,0 +1,1 @@
+[189/214] Compiling C object 'sway/345c74e@@sway@exe/desktop_xdg_shell.c.o'

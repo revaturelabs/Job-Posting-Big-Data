@@ -1,0 +1,1 @@
+Archive the artifacts [Jenkins]Skip to contentJenkinslog inDashboardPharoPharo7.0#163Archive the artifactsUpStatusConsole OutputOpen Blue OceanNode Archive the artifactsParentsArchive JUnit-formatted test resultsJenkins 2.266

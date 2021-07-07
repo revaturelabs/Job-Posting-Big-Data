@@ -1,0 +1,1 @@
+    <!-- The format of the connection string is \"DefaultEndpointsProtocol=https;AccountName=NAME;AccountKey=KEY\" -->

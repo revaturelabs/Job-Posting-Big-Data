@@ -1,0 +1,1 @@
++ ./pmbootstrap/pmbootstrap.py --aports=/home/build/pmaports -q init

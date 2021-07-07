@@ -1,0 +1,1 @@
+  AR      drivers/iio/common/hid-sensors/built-in.a

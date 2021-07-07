@@ -1,0 +1,1 @@
+Installing /home/build/wlroots/include/wlr/interfaces/wlr_input_device.h to /usr/include/wlr/interfaces

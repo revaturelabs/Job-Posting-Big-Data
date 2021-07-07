@@ -1,0 +1,1 @@
+  CC      drivers/pinctrl/qcom/pinctrl-spmi-gpio.o

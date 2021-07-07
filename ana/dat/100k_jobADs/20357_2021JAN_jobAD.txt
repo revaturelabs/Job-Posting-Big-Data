@@ -1,0 +1,1 @@
+  AR      drivers/net/wireless/ath/ath10k/built-in.a

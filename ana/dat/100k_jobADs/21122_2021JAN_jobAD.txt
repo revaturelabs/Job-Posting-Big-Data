@@ -1,0 +1,1 @@
+  INSTALL /home/pmos/build/pkg/linux-oneplus-sdm845/usr/share/dtb/qcom/ipq8074-hk01.dtb

@@ -1,0 +1,1 @@
+  AR      drivers/staging/iio/resolver/built-in.a

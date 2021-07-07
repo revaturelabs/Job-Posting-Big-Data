@@ -1,0 +1,1 @@
++ meson build -Dauto_features=enabled -Dtray=disabled

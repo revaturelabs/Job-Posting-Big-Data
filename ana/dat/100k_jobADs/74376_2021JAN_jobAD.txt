@@ -1,0 +1,1 @@
+    (event) => LogMessage(s\"${event.getTimeStamp}; ${event.getMessage}\", event.getLoggerName))

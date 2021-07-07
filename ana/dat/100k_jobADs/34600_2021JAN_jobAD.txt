@@ -1,0 +1,1 @@
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mnotsup[0m Not compatible with your operating system or architecture: fsevents@1.0.14

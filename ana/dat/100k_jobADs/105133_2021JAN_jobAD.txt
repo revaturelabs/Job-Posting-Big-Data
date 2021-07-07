@@ -1,0 +1,1 @@
+(002323) [23:21:57] % sudo cp /home/build/pmbootstrap/pmb/data/keys/alpine-devel@lists.alpinelinux.org-5261cecb.rsa.pub /home/build/.local/var/pmbootstrap/config_apk_keys/

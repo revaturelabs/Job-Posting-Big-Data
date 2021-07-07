@@ -1,0 +1,1 @@
+(002350) [11:45:25] (native) % sed -i -e s/^ERROR_CLEANUP=.*/ERROR_CLEANUP=''/ /etc/abuild.conf

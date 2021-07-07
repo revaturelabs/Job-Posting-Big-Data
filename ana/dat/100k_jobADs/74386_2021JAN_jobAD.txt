@@ -1,0 +1,1 @@
+        val isEven = nr % 2 == 0

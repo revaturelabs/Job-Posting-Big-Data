@@ -1,0 +1,1 @@
+  AR      sound/pci/ymfpci/built-in.a

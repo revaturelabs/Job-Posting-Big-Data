@@ -1,0 +1,1 @@
+  AR      drivers/mailbox/built-in.a

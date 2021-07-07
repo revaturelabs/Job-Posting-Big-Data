@@ -1,0 +1,1 @@
+  AR      sound/soc/xtensa/built-in.a

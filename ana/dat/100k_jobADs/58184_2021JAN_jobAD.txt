@@ -1,0 +1,1 @@
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-io/1.1/maven-shared-io-1.1.jarProgress (4): 33/51 kB | 29/31 kB | 12/177 kB | 8.2/32 kB

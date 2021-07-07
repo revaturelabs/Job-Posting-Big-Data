@@ -1,0 +1,1 @@
+  AR      drivers/soc/built-in.a

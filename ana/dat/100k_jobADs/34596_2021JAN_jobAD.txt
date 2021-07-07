@@ -1,0 +1,1 @@
+  ├─┬ [40m[33mtypedarray-to-buffer@3.1.2[39m[49m 

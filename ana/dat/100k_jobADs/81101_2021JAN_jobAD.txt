@@ -1,0 +1,1 @@
+(84/234) Installing ncurses-terminfo-base (6.2_p20200926-r1)

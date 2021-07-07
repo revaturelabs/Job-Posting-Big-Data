@@ -1,0 +1,1 @@
+  AR      drivers/hwtracing/intel_th/built-in.a

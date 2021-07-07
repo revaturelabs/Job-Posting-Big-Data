@@ -1,0 +1,1 @@
+(002323) [23:22:38] (buildroot_aarch64) % cd /home/pmos/build; busybox su pmos -c CARCH=aarch64 SUDO_APK='abuild-apk --no-progress' PATH=/native/usr/lib/crossdirect/aarch64:/usr/lib/ccache/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin CCACHE_DISABLE=1 HOME=/home/pmos abuild -D postmarketOS -r -f

@@ -1,0 +1,1 @@
+Message: Required for extended X11 window manager hints.

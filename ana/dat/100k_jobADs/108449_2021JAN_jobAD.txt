@@ -1,0 +1,1 @@
+"Gatling Stats - createJob / request_46createjobGLOBALDETAILS2014-06-12 13:31:09, duration : 749 seconds spike load 3mins> createJob / request_46STATISTICSExecutionsTotalOKKOResponse Time (ms)TotalOKKOMinMaxMeanStd Deviation95th percentile99th percentileMean req/s"

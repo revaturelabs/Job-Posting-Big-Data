@@ -1,0 +1,1 @@
+meson.build:290: WARNING: You must do this manually post-install: chmod a+s /path/to/sway

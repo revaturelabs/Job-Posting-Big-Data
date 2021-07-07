@@ -1,0 +1,1 @@
+Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.0.4/maven-profile-2.0.4.jar (30 kB at 369 kB/s)Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.0.4/maven-model-2.0.4.jarProgress (4): 109 kB | 20 kB | 20/222 kB | 16/80 kB

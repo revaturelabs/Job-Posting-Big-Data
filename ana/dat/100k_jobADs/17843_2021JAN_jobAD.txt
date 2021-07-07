@@ -1,0 +1,1 @@
+  AR      kernel/power/built-in.a

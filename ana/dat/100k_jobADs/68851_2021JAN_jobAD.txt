@@ -1,0 +1,1 @@
+[18/270] Generating __usr_share_wayland_protocols_unstable_pointer_constraints_pointer_constraints_unstable_v1_xml_server_c with a custom command

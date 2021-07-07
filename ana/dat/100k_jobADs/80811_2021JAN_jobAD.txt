@@ -1,0 +1,1 @@
+(002350) [11:45:06] % sudo cp /home/build/.local/var/pmbootstrap/cache_http/APKINDEX_55e3804b70e7e26b184a1fcd42de2c20d5c601279ad985cee1412518a039569c /home/build/.local/var/pmbootstrap/cache_apk_x86_64/APKINDEX.ffff1b13.tar.gz

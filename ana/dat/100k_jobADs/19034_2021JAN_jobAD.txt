@@ -1,0 +1,1 @@
+  CC      drivers/regulator/rohm-regulator.o

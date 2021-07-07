@@ -1,0 +1,1 @@
+[170/270] Compiling C object 'sway/345c74e@@sway@exe/commands_mode.c.o'

@@ -1,0 +1,1 @@
+[241/270] Compiling C object 'protocols/8998617@@server_protos@sta/meson-generated_.._wlr-output-power-management-unstable-v1-protocol.c.o'

@@ -1,0 +1,1 @@
+  AR      drivers/mfd/built-in.a

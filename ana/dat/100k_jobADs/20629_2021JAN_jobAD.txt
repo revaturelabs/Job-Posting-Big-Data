@@ -1,0 +1,1 @@
+  AR      drivers/media/mmc/built-in.a

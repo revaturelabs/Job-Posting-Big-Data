@@ -1,0 +1,1 @@
+(002350) [11:45:25] (native) % cd /home/pmos/build; busybox su pmos -c CARCH=x86_64 SUDO_APK='abuild-apk --no-progress' CCACHE_DISABLE=1 HOME=/home/pmos abuild -D postmarketOS -r -f

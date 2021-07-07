@@ -1,0 +1,1 @@
+  CC      drivers/thermal/qcom/tsens-v0_1.o

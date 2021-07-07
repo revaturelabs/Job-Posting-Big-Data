@@ -1,0 +1,1 @@
+>>> postmarketos-ui-mate*: Package size: 40.0 KB

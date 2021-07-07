@@ -1,0 +1,1 @@
+[31msrc/plot/PlotController.ts(37,22): [39merror TS2304: Cannot find name '$'.

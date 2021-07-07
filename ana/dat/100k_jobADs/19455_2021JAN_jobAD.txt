@@ -1,0 +1,1 @@
+  CC      fs/bad_inode.o

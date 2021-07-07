@@ -1,0 +1,1 @@
+"JobrizerPlease wait...XWarningAll the functions of our site doesn't work on older IE version. Please try on IE11 or Edge browser. Our site works best on Google Chrome.{{ \"close\" | translate }}"

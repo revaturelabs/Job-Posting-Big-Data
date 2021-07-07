@@ -1,0 +1,1 @@
+  AR      drivers/pinctrl/freescale/built-in.a

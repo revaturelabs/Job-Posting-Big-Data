@@ -1,0 +1,1 @@
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.0.6/maven-plugin-descriptor-2.0.6.jarProgress (2): 86/152 kB | 4.1/5.9 kB

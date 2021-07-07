@@ -1,0 +1,1 @@
+  AR      fs/autofs/built-in.a

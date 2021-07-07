@@ -1,0 +1,1 @@
+[109/227] Compiling C object 'wlroots@sha/types_wlr_output_damage.c.o'

@@ -1,0 +1,1 @@
+(002323) [23:21:55] % sudo mknod -m 644 /home/build/.local/var/pmbootstrap/chroot_buildroot_aarch64/dev/random c 1 8

@@ -1,0 +1,1 @@
+(002323) [23:21:55] % sudo mount -t tmpfs -o size=1M,noexec,dev tmpfs /home/build/.local/var/pmbootstrap/chroot_native/dev

@@ -1,0 +1,1 @@
+[31msrc/WindowController.ts(48,23): [39merror TS2304: Cannot find name '$'.

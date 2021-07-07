@@ -1,0 +1,1 @@
+Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.0-alpha-12/plexus-archiver-1.0-alpha-12.jar (177 kB at 4.0 MB/s)Progress (3): 33 kB | 53/152 kB | 21 kB

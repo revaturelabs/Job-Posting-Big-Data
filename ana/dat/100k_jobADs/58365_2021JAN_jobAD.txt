@@ -1,0 +1,1 @@
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.0.6/maven-settings-2.0.6.jarProgress (4): 152 kB | 9.9 kB | 37 kB | 4.1/10 kB

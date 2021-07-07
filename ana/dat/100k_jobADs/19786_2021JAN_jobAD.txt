@@ -1,0 +1,1 @@
+  CC      drivers/mfd/max77620.o

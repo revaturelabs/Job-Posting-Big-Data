@@ -1,0 +1,1 @@
+  CC      drivers/gpu/drm/drm_trace_points.o

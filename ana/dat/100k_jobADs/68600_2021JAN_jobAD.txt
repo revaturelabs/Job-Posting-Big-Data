@@ -1,0 +1,1 @@
+[153/227] Compiling C object 'wlroots@sha/types_data_device_wlr_data_device.c.o'

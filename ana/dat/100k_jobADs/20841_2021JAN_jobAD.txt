@@ -1,0 +1,1 @@
+  STUBCPY drivers/firmware/efi/libstub/alignedmem.stub.o

@@ -1,0 +1,1 @@
+  CC      lib/ucs2_string.o

@@ -1,0 +1,1 @@
+[11/270] Compiling C object 'common/92a5dc0@@sway-common@sta/cairo.c.o'

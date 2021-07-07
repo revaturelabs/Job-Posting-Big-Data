@@ -1,0 +1,1 @@
+  AR      drivers/bus/mhi/built-in.a

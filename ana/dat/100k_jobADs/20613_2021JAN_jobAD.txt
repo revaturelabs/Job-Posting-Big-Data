@@ -1,0 +1,1 @@
+  AR      drivers/media/pci/intel/ipu3/built-in.a

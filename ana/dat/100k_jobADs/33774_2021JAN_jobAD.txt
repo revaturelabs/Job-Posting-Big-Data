@@ -1,0 +1,1 @@
+[0m[37m[40mnpm[0m [0m[30m[43mWARN[0m [0m[35mdeprecated[0m graceful-fs@1.2.3: graceful-fs v3.0.0 and before will fail on node releases >= v7.0. Please update to graceful-fs@^4.0.0 as soon as possible. Use 'npm ls graceful-fs' to find it in the tree.

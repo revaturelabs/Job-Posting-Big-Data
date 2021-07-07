@@ -1,0 +1,1 @@
+  AR      sound/drivers/pcsp/built-in.a

@@ -1,0 +1,1 @@
+  CC      drivers/ata/libata-trace.o

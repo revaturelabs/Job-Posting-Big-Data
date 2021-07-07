@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/agere/built-in.a

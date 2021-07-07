@@ -1,0 +1,1 @@
+[153/214] Compiling C object 'sway/345c74e@@sway@exe/commands_focus_on_window_activation.c.o'

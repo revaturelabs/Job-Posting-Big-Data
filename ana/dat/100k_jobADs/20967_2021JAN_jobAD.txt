@@ -1,0 +1,1 @@
+  AR      drivers/iio/health/built-in.a

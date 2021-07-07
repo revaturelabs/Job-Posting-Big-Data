@@ -1,0 +1,1 @@
+  AR      sound/pci/korg1212/built-in.a

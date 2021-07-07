@@ -1,0 +1,1 @@
+]0;>>> postmarketos-ui-mate: Cleaning up pkgdir

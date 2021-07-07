@@ -1,0 +1,1 @@
+[215/227] Compiling C object 'wlroots@sha/meson-generated_.._protocol_text-input-unstable-v3-protocol.c.o'

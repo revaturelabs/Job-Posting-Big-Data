@@ -1,0 +1,1 @@
+[72/227] Compiling C object 'wlroots@sha/xwayland_selection_selection.c.o'

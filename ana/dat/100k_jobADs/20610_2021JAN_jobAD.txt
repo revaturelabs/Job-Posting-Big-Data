@@ -1,0 +1,1 @@
+  AR      drivers/media/pci/saa7146/built-in.a

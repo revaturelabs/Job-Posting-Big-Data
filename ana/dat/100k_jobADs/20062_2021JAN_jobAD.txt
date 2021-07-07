@@ -1,0 +1,1 @@
+  CC      lib/raid6/recov_neon_inner.o

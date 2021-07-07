@@ -1,0 +1,1 @@
+  CC      net/ethtool/privflags.o

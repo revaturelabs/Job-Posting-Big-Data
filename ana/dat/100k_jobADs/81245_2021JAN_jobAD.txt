@@ -1,0 +1,1 @@
+(223/234) Installing adwaita-gtk2-theme (3.28-r1)

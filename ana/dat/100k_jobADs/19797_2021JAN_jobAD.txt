@@ -1,0 +1,1 @@
+  AR      drivers/nfc/built-in.a

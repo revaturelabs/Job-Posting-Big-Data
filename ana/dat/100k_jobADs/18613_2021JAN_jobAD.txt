@@ -1,0 +1,1 @@
+  AR      sound/mips/built-in.a

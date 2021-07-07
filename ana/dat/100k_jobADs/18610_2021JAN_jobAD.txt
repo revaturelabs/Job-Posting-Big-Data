@@ -1,0 +1,1 @@
+  AR      sound/pcmcia/vx/built-in.a

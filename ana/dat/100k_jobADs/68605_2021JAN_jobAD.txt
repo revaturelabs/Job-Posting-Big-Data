@@ -1,0 +1,1 @@
+[158/227] Compiling C object 'wlroots@sha/backend_x11_output.c.o'

@@ -1,0 +1,1 @@
++ meson configure build -Dxwayland=disabled

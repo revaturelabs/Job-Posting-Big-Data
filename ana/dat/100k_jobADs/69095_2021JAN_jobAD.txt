@@ -1,0 +1,1 @@
+[262/270] Linking static target protocols/libclient_protos.a

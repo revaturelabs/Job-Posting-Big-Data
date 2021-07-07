@@ -1,0 +1,1 @@
+  AR      sound/pci/cs46xx/built-in.a

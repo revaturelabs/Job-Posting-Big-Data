@@ -1,0 +1,1 @@
+Installing /home/build/wlroots/include/wlr/xcursor.h to /usr/include/wlr

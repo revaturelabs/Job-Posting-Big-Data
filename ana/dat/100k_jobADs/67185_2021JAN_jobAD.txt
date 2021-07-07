@@ -1,0 +1,1 @@
+Fatal error: Call to a member function getUsergroup() on null in /home/myjvfjhh/www.myjob-owl.de/typo3conf/ext/femanager/Classes/Controller/UserController.php on line 146

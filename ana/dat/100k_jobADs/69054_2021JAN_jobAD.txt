@@ -1,0 +1,1 @@
+[221/270] Compiling C object 'sway/345c74e@@sway@exe/input_cursor.c.o'

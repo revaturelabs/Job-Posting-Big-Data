@@ -1,0 +1,1 @@
+[81/227] Compiling C object 'wlroots@sha/util_log.c.o'

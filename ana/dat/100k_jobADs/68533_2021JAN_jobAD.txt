@@ -1,0 +1,1 @@
+[86/227] Compiling C object 'wlroots@sha/types_wlr_xcursor_manager.c.o'

@@ -1,0 +1,1 @@
+  AR      drivers/misc/cb710/built-in.a

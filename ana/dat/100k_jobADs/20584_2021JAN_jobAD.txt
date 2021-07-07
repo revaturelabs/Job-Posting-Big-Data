@@ -1,0 +1,1 @@
+  AR      drivers/media/common/saa7146/built-in.a

@@ -1,0 +1,1 @@
+[210/214] Linking static target common/libsway-common.a

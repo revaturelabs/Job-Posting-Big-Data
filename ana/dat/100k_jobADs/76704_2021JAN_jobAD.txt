@@ -1,0 +1,1 @@
+"The direct messaging tool for finding work - cordOh, JavaScript is not enabled :(We noticed that JavaScript is either disabled or not supported by your browser. JavaScript must be enabled in order for you to use cord in standard view. You can enable JavaScript by changing your browser options, and then try again."

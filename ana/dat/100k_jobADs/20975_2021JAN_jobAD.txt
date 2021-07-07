@@ -1,0 +1,1 @@
+  AR      drivers/iio/light/built-in.a

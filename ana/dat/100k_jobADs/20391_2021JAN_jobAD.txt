@@ -1,0 +1,1 @@
+  AR      drivers/net/wireless/ralink/built-in.a

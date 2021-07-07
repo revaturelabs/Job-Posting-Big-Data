@@ -1,0 +1,1 @@
+  MODINFO modules.builtin.modinfo

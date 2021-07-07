@@ -1,0 +1,1 @@
+  SOLINK_MODULE(target) Release/obj.target/bufferutil.node

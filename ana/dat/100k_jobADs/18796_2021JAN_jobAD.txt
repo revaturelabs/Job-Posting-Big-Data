@@ -1,0 +1,1 @@
+  CC      drivers/video/of_display_timing.o

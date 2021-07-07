@@ -1,0 +1,1 @@
+  val conf = new SparkConf().setAppName(\"Spark FAIR scheduling modes\").setMaster(\"local[2]\")

@@ -1,0 +1,1 @@
+  AR      sound/soc/meson/built-in.a

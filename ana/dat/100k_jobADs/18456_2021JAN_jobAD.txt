@@ -1,0 +1,1 @@
+  AR      drivers/phy/rockchip/built-in.a

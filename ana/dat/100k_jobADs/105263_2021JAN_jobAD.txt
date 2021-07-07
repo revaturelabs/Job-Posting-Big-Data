@@ -1,0 +1,1 @@
+(19/19) Installing alpine-base (3.12.1-r0)

@@ -1,0 +1,1 @@
+(002323) [23:22:01] Verify the version reported by the apk.static binary (must match the package version 2.10.5-r1)

@@ -1,0 +1,1 @@
+[123/227] Compiling C object 'wlroots@sha/types_wlr_gamma_control_v1.c.o'

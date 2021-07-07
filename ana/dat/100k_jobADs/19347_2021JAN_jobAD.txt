@@ -1,0 +1,1 @@
+  CC      fs/f2fs/segment.o

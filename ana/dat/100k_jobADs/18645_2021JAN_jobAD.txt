@@ -1,0 +1,1 @@
+  AR      sound/soc/sirf/built-in.a

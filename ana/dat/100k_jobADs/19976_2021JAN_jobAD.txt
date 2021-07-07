@@ -1,0 +1,1 @@
+  AR      lib/lzo/built-in.a

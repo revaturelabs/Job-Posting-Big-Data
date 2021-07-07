@@ -1,0 +1,1 @@
+ofstream fout(\"elmaj.out\");

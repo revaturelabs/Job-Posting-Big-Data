@@ -1,0 +1,1 @@
+[165/227] Compiling C object 'wlroots@sha/backend_noop_output.c.o'

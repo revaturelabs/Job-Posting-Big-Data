@@ -1,0 +1,1 @@
+[76/227] Compiling C object 'wlroots@sha/xcursor_xcursor.c.o'

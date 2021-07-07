@@ -1,0 +1,1 @@
+[31msrc/plotBrowser/BrowserController.ts(3,1): [39merror TS6053: File '/opt/jenkins-workspace-overture_graphics-master/typings/globals/github-electron/index.d.ts' not found.

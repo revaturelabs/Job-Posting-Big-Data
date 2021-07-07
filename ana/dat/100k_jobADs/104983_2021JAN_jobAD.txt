@@ -1,0 +1,1 @@
++ sudo mount -t binfmt_misc none /proc/sys/fs/binfmt_misc

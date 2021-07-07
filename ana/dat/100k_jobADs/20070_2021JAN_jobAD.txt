@@ -1,0 +1,1 @@
+  CC      drivers/mtd/spi-nor/winbond.o

@@ -1,0 +1,1 @@
+      case Seq(stage1, stage2) => stage1 != stage2

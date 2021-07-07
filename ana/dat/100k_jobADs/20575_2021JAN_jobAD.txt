@@ -1,0 +1,1 @@
+  AR      drivers/rtc/built-in.a

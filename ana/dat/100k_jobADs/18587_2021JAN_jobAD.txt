@@ -1,0 +1,1 @@
+  AR      sound/pci/rme9652/built-in.a

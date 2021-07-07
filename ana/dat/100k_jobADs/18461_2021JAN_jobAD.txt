@@ -1,0 +1,1 @@
+  AR      drivers/phy/ti/built-in.a

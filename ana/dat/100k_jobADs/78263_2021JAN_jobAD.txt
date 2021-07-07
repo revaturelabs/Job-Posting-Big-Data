@@ -1,0 +1,1 @@
+copied '/tmp/11696.index.html' -> '/home/travis_admin/travis-ci.oilshell.org/srht-jobs//index.html'

@@ -1,0 +1,1 @@
+  AR      drivers/iio/resolver/built-in.a

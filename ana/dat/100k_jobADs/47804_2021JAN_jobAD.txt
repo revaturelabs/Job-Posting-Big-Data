@@ -1,0 +1,1 @@
+JobQueueSingleton::Instance()->AddJob( new MyJob() );

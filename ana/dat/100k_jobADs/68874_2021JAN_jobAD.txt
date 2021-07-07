@@ -1,0 +1,1 @@
+[41/270] Compiling C object 'swaybar/cf785bf@@swaybar@exe/status_line.c.o'

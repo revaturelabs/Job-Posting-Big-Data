@@ -1,0 +1,1 @@
+  AR      drivers/tty/vt/built-in.a

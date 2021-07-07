@@ -1,0 +1,1 @@
+  AR      drivers/net/ethernet/8390/built-in.a

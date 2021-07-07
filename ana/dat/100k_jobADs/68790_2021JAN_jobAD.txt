@@ -1,0 +1,1 @@
+Run-time dependency pangocairo found: YES 1.44.7

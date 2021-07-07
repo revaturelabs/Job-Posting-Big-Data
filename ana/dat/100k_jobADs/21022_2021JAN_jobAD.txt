@@ -1,0 +1,1 @@
+  CC      drivers/tee/optee/shm_pool.o

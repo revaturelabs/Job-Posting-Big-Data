@@ -1,0 +1,1 @@
+  HOSTCC  drivers/tty/vt/conmakehash
